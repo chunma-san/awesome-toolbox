@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-16",
-  "total": 439,
-  "readmes": 429,
+  "total": 440,
+  "readmes": 430,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -9356,6 +9356,31 @@
       "readmeUrl": "https://github.com/NoName-exe/revanced-extended#readme",
       "notes": [
         "Automatically categorized from documentation and metadata; matched: magisk, revanced.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 440,
+      "name": "Citrinate/FreePackages",
+      "url": "https://github.com/Citrinate/FreePackages",
+      "category": "Steam, game libraries & achievements",
+      "summary": "An ASF plugin for finding and redeeming free Steam games",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-02T14:35:37Z",
+      "stars": 349,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Citrinate/FreePackages#readme",
+      "notes": [
+        "Automatically categorized from documentation and metadata; matched: steam.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 439 projects organized into 25 categories.
+- 440 projects organized into 25 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Save personal review decisions in your browser, with JSON export and import.
@@ -17,7 +17,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-16. 429 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-16. 430 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -34,7 +34,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Video downloads & media capture](#video-downloads--media-capture) (12)
 - [Discord & TeamSpeak](#discord--teamspeak) (25)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
-- [Steam, game libraries & achievements](#steam-game-libraries--achievements) (20)
+- [Steam, game libraries & achievements](#steam-game-libraries--achievements) (21)
 - [PlayStation & emulation](#playstation--emulation) (18)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (8)
 - [Game mods & automation](#game-mods--automation) (25)
@@ -197,6 +197,7 @@ In the initial collection, the only project without an available README was [Sle
 - [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) — An extension that adds interface and interoperability features to Wand / WeMod.
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) — A manager for game achievements in Steam.
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) — An open-source framework for Steam Client themes and plugins
+- [Citrinate/FreePackages](https://github.com/Citrinate/FreePackages) — An ASF plugin for finding and redeeming free Steam games
 
 ## PlayStation & emulation
 
