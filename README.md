@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 434 projects organized into 25 categories.
+- 439 projects organized into 25 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Save personal review decisions in your browser, with JSON export and import.
@@ -17,7 +17,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-16. 424 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-16. 429 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -41,7 +41,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
 - [Desktop, hardware & customization](#desktop-hardware--customization) (24)
 - [Android apps & launchers](#android-apps--launchers) (37)
-- [Android root, patches & stores](#android-root-patches--stores) (29)
+- [Android root, patches & stores](#android-root-patches--stores) (32)
 - [Browsers & web extensions](#browsers--web-extensions) (22)
 - [Privacy, DNS & security](#privacy-dns--security) (26)
 - [Messaging & file sharing](#messaging--file-sharing) (11)
@@ -52,7 +52,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
 - [Curated lists & learning resources](#curated-lists--learning-resources) (12)
 - [TV & channel catalogs](#tv--channel-catalogs) (1)
-- [Needs review](#needs-review) (10)
+- [Needs review](#needs-review) (12)
 
 ## Anime, streaming & tracking
 
@@ -383,6 +383,9 @@ In the initial collection, the only project without an available README was [Sle
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) — Curated list of awesome Android apps making use of Shizuku
 - [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) — An Android WhatsApp modification and enhancement toolkit.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) — 💊 Application to use ReVanced on Android 
+- [thunderkex/revancex](https://github.com/thunderkex/revancex) — Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modules with WebUI and dynamic config.
+- [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy) — ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
+- [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) — ReVanced eXtended (now Morphe) YT and YT-M for both root and non-root users.
 
 ## Browsers & web extensions
 
@@ -562,6 +565,8 @@ In the initial collection, the only project without an available README was [Sle
 - [GrapheneOS/grapheneos.org](https://github.com/GrapheneOS/grapheneos.org) — Servers for our website, HTTP/HTTPS connectivity checks, HTTPS network time, NTP (for Qualcomm XTRA), Broadcom PSDS cache, Samsung PSDS cache, Qualcomm PSDS (XTRA) cache, SUPL proxy, attestation key provisioning proxy, Vanadium component update check/download proxy, network location proxy and geocoding proxy. Also app and OS updates via an include.
 - [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) — Modern camera app focused on privacy and security with QR & barcode scanning.
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) — Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.
+- [Graywizard888/Enhancify](https://github.com/Graywizard888/Enhancify) — The only custom Revancify with extra features and more customizations
+- [hxreborn/morphe-patches](https://github.com/hxreborn/morphe-patches) — A project related to tools and software; see its official documentation for details.
 
 <!-- CATALOG:END -->
 

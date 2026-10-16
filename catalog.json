@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-16",
-  "total": 434,
-  "readmes": 424,
+  "total": 439,
+  "readmes": 429,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -9243,6 +9243,119 @@
       "readmeUrl": "https://github.com/GrapheneOS/Vanadium#readme",
       "notes": [
         "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 435,
+      "name": "Graywizard888/Enhancify",
+      "url": "https://github.com/Graywizard888/Enhancify",
+      "category": "Needs review",
+      "summary": "The only custom Revancify with extra features and more customizations",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Shell",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-09-17T17:00:57Z",
+      "stars": 206,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Graywizard888/Enhancify#readme",
+      "notes": [
+        "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 436,
+      "name": "hxreborn/morphe-patches",
+      "url": "https://github.com/hxreborn/morphe-patches",
+      "category": "Needs review",
+      "summary": "A project related to tools and software; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Java",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T17:20:15Z",
+      "stars": 168,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/hxreborn/morphe-patches#readme",
+      "notes": [
+        "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 437,
+      "name": "thunderkex/revancex",
+      "url": "https://github.com/thunderkex/revancex",
+      "category": "Android root, patches & stores",
+      "summary": "Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modules with WebUI and dynamic config.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T21:34:32Z",
+      "stars": 379,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/thunderkex/revancex#readme",
+      "notes": [
+        "Automatically categorized from documentation and metadata; matched: magisk, revanced.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 438,
+      "name": "NexAlloy/NexAlloy",
+      "url": "https://github.com/NexAlloy/NexAlloy",
+      "category": "Android root, patches & stores",
+      "summary": "ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T02:28:14Z",
+      "stars": 3085,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/NexAlloy/NexAlloy#readme",
+      "notes": [
+        "Automatically categorized from documentation and metadata; matched: revanced, lsposed.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 439,
+      "name": "NoName-exe/revanced-extended",
+      "url": "https://github.com/NoName-exe/revanced-extended",
+      "category": "Android root, patches & stores",
+      "summary": "ReVanced eXtended (now Morphe) YT and YT-M for both root and non-root users.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Shell",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-12T00:55:23Z",
+      "stars": 4236,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/NoName-exe/revanced-extended#readme",
+      "notes": [
+        "Automatically categorized from documentation and metadata; matched: magisk, revanced.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
