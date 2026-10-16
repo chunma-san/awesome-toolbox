@@ -8,9 +8,11 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 440 projects organized into 25 categories.
+- 440 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
+- Automatically include owned public projects and filter them with **My public projects**.
+- Optional server automation updates a GitHub profile project directory and activity dashboard.
 - Save personal review decisions in your browser, with JSON export and import.
 - Works as a static website or by opening index.html locally; no account, API key, tracking or external scripts.
 
@@ -28,10 +30,10 @@ In the initial collection, the only project without an available README was [Sle
 
 ## Contents
 
-- [Anime, streaming & tracking](#anime-streaming--tracking) (16)
+- [Anime, streaming & tracking](#anime-streaming--tracking) (15)
 - [Manga, novels & reading](#manga-novels--reading) (15)
 - [Music, podcasts & media players](#music-podcasts--media-players) (25)
-- [Video downloads & media capture](#video-downloads--media-capture) (12)
+- [Video downloads & media capture](#video-downloads--media-capture) (11)
 - [Discord & TeamSpeak](#discord--teamspeak) (25)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (21)
@@ -39,20 +41,28 @@ In the initial collection, the only project without an available README was [Sle
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (8)
 - [Game mods & automation](#game-mods--automation) (25)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
-- [Desktop, hardware & customization](#desktop-hardware--customization) (24)
-- [Android apps & launchers](#android-apps--launchers) (37)
-- [Android root, patches & stores](#android-root-patches--stores) (32)
-- [Browsers & web extensions](#browsers--web-extensions) (22)
-- [Privacy, DNS & security](#privacy-dns--security) (26)
-- [Messaging & file sharing](#messaging--file-sharing) (11)
+- [Desktop, hardware & customization](#desktop-hardware--customization) (23)
+- [Android apps & launchers](#android-apps--launchers) (33)
+- [Android root, patches & stores](#android-root-patches--stores) (29)
+- [Browsers & web extensions](#browsers--web-extensions) (21)
+- [Privacy, DNS & security](#privacy-dns--security) (22)
+- [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (12)
 - [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (13)
-- [Development, AI & security research](#development-ai--security-research) (12)
+- [Development, AI & security research](#development-ai--security-research) (11)
 - [Creative tools, documents & translation](#creative-tools-documents--translation) (15)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
-- [Curated lists & learning resources](#curated-lists--learning-resources) (12)
+- [Curated lists & learning resources](#curated-lists--learning-resources) (16)
 - [TV & channel catalogs](#tv--channel-catalogs) (1)
-- [Needs review](#needs-review) (12)
+- [GrapheneOS & Android operating systems](#grapheneos--android-operating-systems) (4)
+- [GrapheneOS apps & browsers](#grapheneos-apps--browsers) (5)
+- [GrapheneOS infrastructure & services](#grapheneos-infrastructure--services) (7)
+- [Linux distributions & package managers](#linux-distributions--package-managers) (1)
+- [Android app patching & modding](#android-app-patching--modding) (4)
+- [Camera, gallery & photo management](#camera-gallery--photo-management) (1)
+- [AI assistants & coding tools](#ai-assistants--coding-tools) (1)
+- [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
+- [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
 
 ## Anime, streaming & tracking
 
@@ -60,7 +70,6 @@ In the initial collection, the only project without an available README was [Sle
 - [Seanime-contributions/Seanime-Providers](https://github.com/Seanime-contributions/Seanime-Providers) — This repository contains custom Seanime extensions for adding support to various manga and anime sources.
 - [Bas1874/Seanime-Marketplace](https://github.com/Bas1874/Seanime-Marketplace) — This repository contains custom Seanime extensions created by the community
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) — Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
-- [anshumanv/awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources) — A curated list of everything related to anime.
 - [5rahim/seanime](https://github.com/5rahim/seanime) — Open-source media server with a web interface and desktop app for anime and manga.
 - [Spyou/Zangetsu](https://github.com/Spyou/Zangetsu) — Free, open-source app for anime, movies, series, manga and light novels — on Android, Android TV and iOS (beta).
 - [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5) — 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
@@ -131,7 +140,6 @@ In the initial collection, the only project without an available README was [Sle
 - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) — Downloads videos and playlists from YouTube
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) — Desktop app to download audio/video from hundreds of sites
 - [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) — A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
-- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) — A Download Manager that speeds up your downloads
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) — Full-featured audio/video downloader for Android using yt-dlp
 
 ## Discord & TeamSpeak
@@ -308,7 +316,6 @@ In the initial collection, the only project without an available README was [Sle
 - [omacom/omarchy](https://github.com/omacom/omarchy) — Beautiful, Modern & Opinionated Linux
 - [runcat-dev/RunCat365](https://github.com/runcat-dev/RunCat365) — A cute running cat animation on your windows taskbar.
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) — Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
-- [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) — For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) — The customization marketplace for Windows programs: https://windhawk.net/
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) — A Windows desktop and taskbar monitor for network speed, CPU, memory and optional hardware sensors.
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) — This project aims to enhance the working environment on Windows
@@ -324,7 +331,6 @@ In the initial collection, the only project without an available README was [Sle
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) — An easy and quick way of managing SMS and MMS messages without ads.
 - [daboynb/Safetycore-placeholder](https://github.com/daboynb/Safetycore-placeholder) — Placeholder APK to permanently block Google SafetyCore installation and updates
 - [quik-sms/quik](https://github.com/quik-sms/quik) — The most beautiful SMS messenger for Android - Revived
-- [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) — Media Gallery app for Android made with Jetpack Compose
 - [aunchagaonkar/NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) — One-tap network switching for Android
 - [jrpie/launcher](https://github.com/jrpie/launcher) — A distraction-free, minimal homescreen for Android.
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) — Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
@@ -349,9 +355,6 @@ In the initial collection, the only project without an available README was [Sle
 - [samolego/Canta](https://github.com/samolego/Canta) — Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) — Get Android app updates straight from the source.
-- [GrapheneOS/Auditor](https://github.com/GrapheneOS/Auditor) — Hardware-based attestation and intrusion detection app for Android. It provides both local verification with another Android device via QR codes and optional scheduled server-based verification with support for alert emails. It uses hardware-backed keys and attestation support as the foundation and chains trust to the app for software checks.
-- [GrapheneOS/PdfViewer](https://github.com/GrapheneOS/PdfViewer) — Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.
-- [GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) — Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability/integration over time.
 
 ## Android root, patches & stores
 
@@ -364,10 +367,8 @@ In the initial collection, the only project without an available README was [Sle
 - [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) — Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 - [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) — 🍃 Human-made patches for Morphe
 - [RookieEnough/De-Vanced](https://github.com/RookieEnough/De-Vanced) — De-Vanced exists because the old way started getting frustrating, so I migrated everything to Morphe and turned it into a better, cleaner place to keep the experience alive.
-- [kveld9/kveld-morphe-patches](https://github.com/kveld9/kveld-morphe-patches) — Custom Morphe patches on Android.
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) — The official patch bundle for apps supported by the Morphe patching ecosystem.
 - [crimera/piko-newx](https://github.com/crimera/piko-newx) — A Piko build intended for newer X / Twitter Android versions.
-- [crimera/piko](https://github.com/crimera/piko) — morphe patches for twitter and instagram
 - [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) — The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
 - [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) — GmsCore fork for Morphe patched apps
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) — Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
@@ -381,7 +382,6 @@ In the initial collection, the only project without an available README was [Sle
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) — Browse media content with your own rules on Android TV
 - [mamiiblt/instafel](https://github.com/mamiiblt/instafel) — Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) — An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
-- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) — Curated list of awesome Android apps making use of Shizuku
 - [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) — An Android WhatsApp modification and enhancement toolkit.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) — 💊 Application to use ReVanced on Android 
 - [thunderkex/revancex](https://github.com/thunderkex/revancex) — Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modules with WebUI and dynamic config.
@@ -391,7 +391,6 @@ In the initial collection, the only project without an available README was [Sle
 ## Browsers & web extensions
 
 - [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) — Browser extension that protects you from phishing and malicious websites.
-- [uazo/cromite](https://github.com/uazo/cromite) — Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [BareBrowser/bare-browser](https://github.com/BareBrowser/bare-browser) — Bare is a de-Googled Chromium build for Android, built for privacy, control, and freedom on the web. It strips Google tracking, telemetry, and AI integration while keeping browser extensions and uBlock Origin. It adds background video playback, saving media from sites that normally block it, your choice of download manager, and more.
 - [brave/brave-browser](https://github.com/brave/brave-browser) — Brave browser for Android, iOS, Linux, macOS, Windows.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) — Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -416,11 +415,9 @@ In the initial collection, the only project without an available README was [Sle
 ## Privacy, DNS & security
 
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) — 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
-- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) — 🦄  A curated list of privacy & security-focused software and services
 - [anondotli/anon.li](https://github.com/anondotli/anon.li) — Privacy toolkit: anonymous email forwarding, zero-knowledge E2EE file sharing, and encrypted forms.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) — Fully featured, open source, privacy friendly email app for Android
 - [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) — Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
-- [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) — Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) — AdGuard Home client created with Flutter
 - [FoKss-LTS/PiHoleWidgets](https://github.com/FoKss-LTS/PiHoleWidgets) — PiHole Widgets using JAVAFX
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) — Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
@@ -438,9 +435,7 @@ In the initial collection, the only project without an available README was [Sle
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) — Network-wide ads & trackers blocking DNS server
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) — A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) — The Mullvad VPN client app for desktop and mobile
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) — Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) — DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
-- [GrapheneOS/ns1.grapheneos.org](https://github.com/GrapheneOS/ns1.grapheneos.org) — Authoritative DNS servers
 
 ## Messaging & file sharing
 
@@ -454,7 +449,6 @@ In the initial collection, the only project without an available README was [Sle
 - [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram) — Open-source third-party Telegram client with not many but useful modifications.
 - [timvisee/send-instances](https://github.com/timvisee/send-instances) — 🌍 A list of public Send instances. Mirror.
 - [timvisee/send](https://github.com/timvisee/send) — :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
-- [GrapheneOS/Messaging](https://github.com/GrapheneOS/Messaging) — Messaging app
 
 ## Networking, virtualization & remote access
 
@@ -489,7 +483,6 @@ In the initial collection, the only project without an available README was [Sle
 
 ## Development, AI & security research
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
 - [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
@@ -537,13 +530,17 @@ In the initial collection, the only project without an available README was [Sle
 
 ## Curated lists & learning resources
 
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) — 🦄  A curated list of privacy & security-focused software and services
+- [anshumanv/awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources) — A curated list of everything related to anime.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — A list of Free Software network services and web applications which can be hosted on your own servers
 - [fmhy/edit](https://github.com/fmhy/edit) — Make changes to FMHY
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) — Curated list of awesome Android apps making use of Shizuku
 - [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) — Open-Source Android Apps
 - [albertomosconi/foss-apps](https://github.com/albertomosconi/foss-apps) — a list of 100+ awesome open source android apps 📱
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) — :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
 - [offa/android-foss](https://github.com/offa/android-foss) — A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) — A curated list of awesome Android packages and resources.
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) — Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) — 📖  A curated list of Awesome Userscripts.
 - [BlackTechX011/Termux-Command-Handbook](https://github.com/BlackTechX011/Termux-Command-Handbook) —  Termux Command Handbook, your comprehensive guide to Termux commands organized into various chapters for easy reference.
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) — A curated list of awesome Android UI/UX libraries
@@ -554,20 +551,57 @@ In the initial collection, the only project without an available README was [Sle
 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world
 
-## Needs review
+## GrapheneOS & Android operating systems
+
+- [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) — Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
+- [GrapheneOS/Messaging](https://github.com/GrapheneOS/Messaging) — Messaging app
+- [GrapheneOS/platform_manifest](https://github.com/GrapheneOS/platform_manifest) — Repo manifest for the GrapheneOS mobile privacy and security hardening project.
+- [GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) — Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability/integration over time.
+
+## GrapheneOS apps & browsers
+
+- [GrapheneOS/AppStore](https://github.com/GrapheneOS/AppStore) — A project related to tools and software; see its official documentation for details.
+- [GrapheneOS/Auditor](https://github.com/GrapheneOS/Auditor) — Hardware-based attestation and intrusion detection app for Android. It provides both local verification with another Android device via QR codes and optional scheduled server-based verification with support for alert emails. It uses hardware-backed keys and attestation support as the foundation and chains trust to the app for software checks.
+- [GrapheneOS/PdfViewer](https://github.com/GrapheneOS/PdfViewer) — Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.
+- [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) — Modern camera app focused on privacy and security with QR & barcode scanning.
+- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) — Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.
+
+## GrapheneOS infrastructure & services
 
 - [GrapheneOS/discuss.grapheneos.org](https://github.com/GrapheneOS/discuss.grapheneos.org) — Discussion forum server
 - [GrapheneOS/matrix.grapheneos.org](https://github.com/GrapheneOS/matrix.grapheneos.org) — Matrix and Element Web server
 - [GrapheneOS/mail.grapheneos.org](https://github.com/GrapheneOS/mail.grapheneos.org) — Mail server
+- [GrapheneOS/ns1.grapheneos.org](https://github.com/GrapheneOS/ns1.grapheneos.org) — Authoritative DNS servers
 - [GrapheneOS/apps.grapheneos.org](https://github.com/GrapheneOS/apps.grapheneos.org) — Application repository
 - [GrapheneOS/releases.grapheneos.org](https://github.com/GrapheneOS/releases.grapheneos.org) — OS update and app repository servers
-- [GrapheneOS/platform_manifest](https://github.com/GrapheneOS/platform_manifest) — Repo manifest for the GrapheneOS mobile privacy and security hardening project.
-- [GrapheneOS/AppStore](https://github.com/GrapheneOS/AppStore) — A project related to tools and software; see its official documentation for details.
 - [GrapheneOS/grapheneos.org](https://github.com/GrapheneOS/grapheneos.org) — Servers for our website, HTTP/HTTPS connectivity checks, HTTPS network time, NTP (for Qualcomm XTRA), Broadcom PSDS cache, Samsung PSDS cache, Qualcomm PSDS (XTRA) cache, SUPL proxy, attestation key provisioning proxy, Vanadium component update check/download proxy, network location proxy and geocoding proxy. Also app and OS updates via an include.
-- [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) — Modern camera app focused on privacy and security with QR & barcode scanning.
-- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) — Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.
+
+## Linux distributions & package managers
+
+- [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) — For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
+
+## Android app patching & modding
+
+- [kveld9/kveld-morphe-patches](https://github.com/kveld9/kveld-morphe-patches) — Custom Morphe patches on Android.
+- [crimera/piko](https://github.com/crimera/piko) — morphe patches for twitter and instagram
 - [Graywizard888/Enhancify](https://github.com/Graywizard888/Enhancify) — The only custom Revancify with extra features and more customizations
 - [hxreborn/morphe-patches](https://github.com/hxreborn/morphe-patches) — A project related to tools and software; see its official documentation for details.
+
+## Camera, gallery & photo management
+
+- [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) — Media Gallery app for Android made with Jetpack Compose
+
+## AI assistants & coding tools
+
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
+
+## Torrents, debrid & download managers
+
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) — A Download Manager that speeds up your downloads
+
+## Browser privacy & ad blocking
+
+- [uazo/cromite](https://github.com/uazo/cromite) — Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 
 <!-- CATALOG:END -->
 

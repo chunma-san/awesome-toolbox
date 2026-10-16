@@ -7,14 +7,14 @@ The optional importer turns public GitHub stars into catalog entries. It runs on
 1. Check the authenticated account and snapshot all pages of starred repositories.
 2. Skip private repositories, leaving their stars untouched.
 3. Retrieve current public metadata and available README text. README text is never executed or interpreted as instructions.
-4. Match explicit topic and description keywords to existing categories. Ambiguous entries go to **Needs review**. Classification is heuristic and is not a full code analysis.
+4. Match explicit topic and description keywords to existing categories. Use 71 categories, including dedicated GrapheneOS components. Ambiguous entries go to **Other software & utilities** with an explanation. Classification is heuristic and is not a full code analysis.
 5. Commit updated JSON, CSV, Markdown and HTML together, without force-pushing.
 6. Verify every published file by its Git blob hash on the remote branch. Check that every entry appears in all catalog formats.
 7. Remove the corresponding stars and verify the remaining star list.
 
 If publication or verification fails, unverified stars are retained. If removal fails after publication, the next run recognizes existing entries without duplicating them. New stars arriving during a run are picked up on a later run. Re-starring an existing entry acknowledges the saved entry and removes its star again. The importer processes up to 25 public stars per run by default. Missing README files are identified in the entry; transient API errors stop processing and retain stars. Private entries are never exported.
 
-Metadata, descriptions and documentation may be incomplete or misleading. Check **Needs review** for ambiguous classifications. Non-ASCII descriptions receive a short English category-based summary; no external translation or AI service is used. Listed software is not installed or tested.
+Metadata, descriptions and documentation may be incomplete or misleading. Classification is heuristic; general utilities retain a note when a specific category cannot be established. Non-ASCII descriptions receive a short English category-based summary; no external translation or AI service is used. Listed software is not installed or tested.
 
 ## Configuration
 
@@ -28,7 +28,9 @@ Example configuration (replace the sample values):
   "repository": "YOUR_GITHUB_LOGIN/awesome-toolbox",
   "branch": "main",
   "token_file": "/absolute/private/path/github-token",
-  "batch_size": 25
+  "batch_size": 25,
+  "sync_owned": true,
+  "profile_repository": "YOUR_GITHUB_LOGIN/YOUR_GITHUB_LOGIN"
 }
 ```
 
@@ -39,3 +41,9 @@ Revoke or replace the credential if needed; a failed authorization leaves new st
 ## Tests
 
 Run `python3 -m unittest discover -s automation -p 'test_*.py'`. Tests cover publication failure, verification failure, private repositories, ambiguous classification, duplicate imports, and retrying an already published project.
+
+## Owned public projects and profile
+
+With `sync_owned` enabled, all owned public repositories, including forks, are added without needing a star. Private repositories are excluded. Existing entries are deduplicated and marked for the **My public projects** filter. New public repositories appear on a subsequent timer run.
+
+Set `profile_repository` to update its README public-project directory and a self-contained SVG activity dashboard. Existing artwork and other README sections are preserved. The dashboard uses up to 300 public events within 30 days; GitHub delivery can be delayed. Generated profile/catalog pushes are excluded to prevent feedback loops. Contributor totals cover public non-fork project repositories and are all-time. Credentials and private metadata are never embedded in generated assets.

@@ -27,7 +27,53 @@
     "Account tools, activation & verification",
     "Curated lists & learning resources",
     "TV & channel catalogs",
-    "Needs review"
+    "GrapheneOS & Android operating systems",
+    "GrapheneOS apps & browsers",
+    "GrapheneOS infrastructure & services",
+    "Linux distributions & package managers",
+    "Windows compatibility & Wine",
+    "macOS apps & utilities",
+    "Android app patching & modding",
+    "Android development & debugging",
+    "Camera, gallery & photo management",
+    "Cloud storage & synchronization",
+    "Backups & disaster recovery",
+    "RSS, news & bookmarking",
+    "Email & mail servers",
+    "Chat servers & collaboration",
+    "Forums & community platforms",
+    "Password managers & authentication",
+    "VPN, proxies & tunnels",
+    "Containers & orchestration",
+    "Server dashboards & monitoring",
+    "Home automation & IoT",
+    "Databases & data management",
+    "Web development & frameworks",
+    "APIs, SDKs & integrations",
+    "CLI, terminal & shell tools",
+    "Editors, IDEs & developer productivity",
+    "AI assistants & coding tools",
+    "Local AI & model runtimes",
+    "GitHub profiles & README tools",
+    "Git, CI & release automation",
+    "Documentation, wikis & static sites",
+    "Notes, tasks & personal knowledge",
+    "Calendars, planning & productivity",
+    "Translation, subtitles & accessibility",
+    "Image generation & creative AI",
+    "Graphics, design & animation",
+    "Video editing & transcoding",
+    "Torrents, debrid & download managers",
+    "Media servers & streaming infrastructure",
+    "Browser privacy & ad blocking",
+    "Game engines & development",
+    "Game servers & multiplayer tools",
+    "Game trainers, saves & configuration",
+    "Hardware monitoring & RGB",
+    "Device firmware & embedded systems",
+    "Security research & testing",
+    "Education, reference & tutorials",
+    "Other software & utilities"
   ],
   "projects": [
     {
@@ -235,7 +281,7 @@
       "number": 11,
       "name": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
-      "category": "Development, AI & security research",
+      "category": "AI assistants & coding tools",
       "summary": "The open source coding agent.",
       "purpose": "Useful for programming, AI workflows, debugging or development research.",
       "platforms": [
@@ -251,7 +297,9 @@
       "license": "MIT",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/anomalyco/opencode#readme",
-      "notes": []
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: coding agent, opencode."
+      ]
     },
     {
       "number": 12,
@@ -1124,7 +1172,7 @@
       "number": 52,
       "name": "lissy93/awesome-privacy",
       "url": "https://github.com/lissy93/awesome-privacy",
-      "category": "Privacy, DNS & security",
+      "category": "Curated lists & learning resources",
       "summary": "🦄  A curated list of privacy & security-focused software and services",
       "purpose": "Useful for privacy planning, network filtering, authentication and security tools.",
       "platforms": [
@@ -1142,7 +1190,9 @@
       "license": "CC0-1.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/lissy93/awesome-privacy#readme",
-      "notes": []
+      "notes": [
+        "Categorized as a curated collection from its name or awesome-list topic."
+      ]
     },
     {
       "number": 53,
@@ -1387,7 +1437,7 @@
       "number": 64,
       "name": "anshumanv/awesome-anime-sources",
       "url": "https://github.com/anshumanv/awesome-anime-sources",
-      "category": "Anime, streaming & tracking",
+      "category": "Curated lists & learning resources",
       "summary": "A curated list of everything related to anime.",
       "purpose": "Use this shelf to compare anime players, tracking clients and source extensions.",
       "platforms": [
@@ -1402,6 +1452,7 @@
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/anshumanv/awesome-anime-sources#readme",
       "notes": [
+        "Categorized as a curated collection from its name or awesome-list topic.",
         "No recorded push in the two years before this snapshot; check compatibility before use."
       ]
     },
@@ -1429,7 +1480,7 @@
       "number": 66,
       "name": "uazo/cromite",
       "url": "https://github.com/uazo/cromite",
-      "category": "Browsers & web extensions",
+      "category": "Browser privacy & ad blocking",
       "summary": "Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!",
       "purpose": "Useful for browser selection, website customization and browsing workflows.",
       "platforms": [
@@ -1447,6 +1498,7 @@
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/uazo/cromite#readme",
       "notes": [
+        "Categorized from the more specific metadata phrase: ad blocking.",
         "This is a fork; compare it with its upstream before choosing a version."
       ]
     },
@@ -2014,7 +2066,7 @@
       "number": 93,
       "name": "kveld9/kveld-morphe-patches",
       "url": "https://github.com/kveld9/kveld-morphe-patches",
-      "category": "Android root, patches & stores",
+      "category": "Android app patching & modding",
       "summary": "Custom Morphe patches on Android.",
       "purpose": "Useful for understanding Android patch ecosystems, privileged tooling and app sources.",
       "platforms": [
@@ -2029,7 +2081,9 @@
       "license": "GPL-3.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/kveld9/kveld-morphe-patches#readme",
-      "notes": []
+      "notes": [
+        "Categorized from its Android app patching project family."
+      ]
     },
     {
       "number": 94,
@@ -2649,7 +2703,7 @@
       "number": 124,
       "name": "crimera/piko",
       "url": "https://github.com/crimera/piko",
-      "category": "Android root, patches & stores",
+      "category": "Android app patching & modding",
       "summary": "morphe patches for twitter and instagram",
       "purpose": "Useful for understanding Android patch ecosystems, privileged tooling and app sources.",
       "platforms": [
@@ -2663,7 +2717,9 @@
       "license": "GPL-3.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/crimera/piko#readme",
-      "notes": []
+      "notes": [
+        "Categorized from its Android app patching project family."
+      ]
     },
     {
       "number": 125,
@@ -3498,7 +3554,7 @@
       "number": 164,
       "name": "GrapheneOS/os-issue-tracker",
       "url": "https://github.com/GrapheneOS/os-issue-tracker",
-      "category": "Privacy, DNS & security",
+      "category": "GrapheneOS & Android operating systems",
       "summary": "Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.",
       "purpose": "Useful for privacy planning, network filtering, authentication and security tools.",
       "platforms": [
@@ -3512,7 +3568,9 @@
       "license": "Not specified",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/GrapheneOS/os-issue-tracker#readme",
-      "notes": []
+      "notes": [
+        "Categorized by the official GrapheneOS repository family and component."
+      ]
     },
     {
       "number": 165,
@@ -3988,7 +4046,7 @@
       "number": 187,
       "name": "IacobIonut01/ReFra",
       "url": "https://github.com/IacobIonut01/ReFra",
-      "category": "Android apps & launchers",
+      "category": "Camera, gallery & photo management",
       "summary": "Media Gallery app for Android made with Jetpack Compose",
       "purpose": "Useful for selecting Android utilities and everyday replacement applications.",
       "platforms": [
@@ -4002,7 +4060,9 @@
       "license": "Apache-2.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/IacobIonut01/ReFra#readme",
-      "notes": []
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: gallery app."
+      ]
     },
     {
       "number": 188,
@@ -5419,7 +5479,7 @@
       "number": 254,
       "name": "amir1376/ab-download-manager",
       "url": "https://github.com/amir1376/ab-download-manager",
-      "category": "Video downloads & media capture",
+      "category": "Torrents, debrid & download managers",
       "summary": "A Download Manager that speeds up your downloads",
       "purpose": "Useful for saving and managing media from supported sources.",
       "platforms": [
@@ -5437,7 +5497,9 @@
       "license": "Apache-2.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/amir1376/ab-download-manager#readme",
-      "notes": []
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: download manager."
+      ]
     },
     {
       "number": 255,
@@ -6587,7 +6649,7 @@
       "number": 310,
       "name": "timschneeb/awesome-shizuku",
       "url": "https://github.com/timschneeb/awesome-shizuku",
-      "category": "Android root, patches & stores",
+      "category": "Curated lists & learning resources",
       "summary": "Curated list of awesome Android apps making use of Shizuku",
       "purpose": "Useful for understanding Android patch ecosystems, privileged tooling and app sources.",
       "platforms": [
@@ -6604,7 +6666,9 @@
       "license": "NOASSERTION",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/timschneeb/awesome-shizuku#readme",
-      "notes": []
+      "notes": [
+        "Categorized as a curated collection from its name or awesome-list topic."
+      ]
     },
     {
       "number": 311,
@@ -7599,7 +7663,7 @@
       "number": 358,
       "name": "JaKooLit/Arch-Hyprland",
       "url": "https://github.com/JaKooLit/Arch-Hyprland",
-      "category": "Desktop, hardware & customization",
+      "category": "Linux distributions & package managers",
       "summary": "For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros",
       "purpose": "Useful for desktop layout, keyboard firmware, GPU settings and system monitoring.",
       "platforms": [
@@ -7613,7 +7677,9 @@
       "license": "GPL-3.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/JaKooLit/Arch-Hyprland#readme",
-      "notes": []
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: arch linux."
+      ]
     },
     {
       "number": 359,
@@ -7683,7 +7749,7 @@
       "number": 362,
       "name": "pluja/awesome-privacy",
       "url": "https://github.com/pluja/awesome-privacy",
-      "category": "Privacy, DNS & security",
+      "category": "Curated lists & learning resources",
       "summary": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.",
       "purpose": "Useful for privacy planning, network filtering, authentication and security tools.",
       "platforms": [
@@ -7700,7 +7766,9 @@
       "license": "CC0-1.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/pluja/awesome-privacy#readme",
-      "notes": []
+      "notes": [
+        "Categorized as a curated collection from its name or awesome-list topic."
+      ]
     },
     {
       "number": 363,
@@ -8907,7 +8975,7 @@
       "number": 420,
       "name": "GrapheneOS/discuss.grapheneos.org",
       "url": "https://github.com/GrapheneOS/discuss.grapheneos.org",
-      "category": "Needs review",
+      "category": "GrapheneOS infrastructure & services",
       "summary": "Discussion forum server",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [],
@@ -8920,7 +8988,7 @@
       "readmeStatus": "unavailable",
       "readmeUrl": "",
       "notes": [
-        "Automatic classification was inconclusive; review this category.",
+        "Categorized by the official GrapheneOS repository family and component.",
         "Descriptive import only; no software was installed, executed or security-audited.",
         "No README was available; this entry uses repository metadata."
       ]
@@ -8929,7 +8997,7 @@
       "number": 421,
       "name": "GrapheneOS/matrix.grapheneos.org",
       "url": "https://github.com/GrapheneOS/matrix.grapheneos.org",
-      "category": "Needs review",
+      "category": "GrapheneOS infrastructure & services",
       "summary": "Matrix and Element Web server",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [],
@@ -8942,7 +9010,7 @@
       "readmeStatus": "unavailable",
       "readmeUrl": "",
       "notes": [
-        "Automatic classification was inconclusive; review this category.",
+        "Categorized by the official GrapheneOS repository family and component.",
         "Descriptive import only; no software was installed, executed or security-audited.",
         "No README was available; this entry uses repository metadata."
       ]
@@ -8951,7 +9019,7 @@
       "number": 422,
       "name": "GrapheneOS/mail.grapheneos.org",
       "url": "https://github.com/GrapheneOS/mail.grapheneos.org",
-      "category": "Needs review",
+      "category": "GrapheneOS infrastructure & services",
       "summary": "Mail server",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [],
@@ -8964,7 +9032,7 @@
       "readmeStatus": "unavailable",
       "readmeUrl": "",
       "notes": [
-        "Automatic classification was inconclusive; review this category.",
+        "Categorized by the official GrapheneOS repository family and component.",
         "Descriptive import only; no software was installed, executed or security-audited.",
         "No README was available; this entry uses repository metadata."
       ]
@@ -8973,7 +9041,7 @@
       "number": 423,
       "name": "GrapheneOS/ns1.grapheneos.org",
       "url": "https://github.com/GrapheneOS/ns1.grapheneos.org",
-      "category": "Privacy, DNS & security",
+      "category": "GrapheneOS infrastructure & services",
       "summary": "Authoritative DNS servers",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [],
@@ -8986,6 +9054,7 @@
       "readmeStatus": "unavailable",
       "readmeUrl": "",
       "notes": [
+        "Categorized by the official GrapheneOS repository family and component.",
         "Automatically categorized from documentation and metadata; matched: dns.",
         "Descriptive import only; no software was installed, executed or security-audited.",
         "No README was available; this entry uses repository metadata."
@@ -8995,7 +9064,7 @@
       "number": 424,
       "name": "GrapheneOS/apps.grapheneos.org",
       "url": "https://github.com/GrapheneOS/apps.grapheneos.org",
-      "category": "Needs review",
+      "category": "GrapheneOS infrastructure & services",
       "summary": "Application repository",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [
@@ -9010,7 +9079,7 @@
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/GrapheneOS/apps.grapheneos.org#readme",
       "notes": [
-        "Automatic classification was inconclusive; review this category.",
+        "Categorized by the official GrapheneOS repository family and component.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     },
@@ -9018,7 +9087,7 @@
       "number": 425,
       "name": "GrapheneOS/releases.grapheneos.org",
       "url": "https://github.com/GrapheneOS/releases.grapheneos.org",
-      "category": "Needs review",
+      "category": "GrapheneOS infrastructure & services",
       "summary": "OS update and app repository servers",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [
@@ -9033,7 +9102,7 @@
       "readmeStatus": "unavailable",
       "readmeUrl": "",
       "notes": [
-        "Automatic classification was inconclusive; review this category.",
+        "Categorized by the official GrapheneOS repository family and component.",
         "Descriptive import only; no software was installed, executed or security-audited.",
         "No README was available; this entry uses repository metadata."
       ]
@@ -9042,7 +9111,7 @@
       "number": 426,
       "name": "GrapheneOS/Messaging",
       "url": "https://github.com/GrapheneOS/Messaging",
-      "category": "Messaging & file sharing",
+      "category": "GrapheneOS & Android operating systems",
       "summary": "Messaging app",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [],
@@ -9055,6 +9124,7 @@
       "readmeStatus": "unavailable",
       "readmeUrl": "",
       "notes": [
+        "Categorized by the official GrapheneOS repository family and component.",
         "Automatically categorized from documentation and metadata; matched: messaging.",
         "Descriptive import only; no software was installed, executed or security-audited.",
         "No README was available; this entry uses repository metadata."
@@ -9064,7 +9134,7 @@
       "number": 427,
       "name": "GrapheneOS/platform_manifest",
       "url": "https://github.com/GrapheneOS/platform_manifest",
-      "category": "Needs review",
+      "category": "GrapheneOS & Android operating systems",
       "summary": "Repo manifest for the GrapheneOS mobile privacy and security hardening project.",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [
@@ -9079,7 +9149,7 @@
       "readmeStatus": "unavailable",
       "readmeUrl": "",
       "notes": [
-        "Automatic classification was inconclusive; review this category.",
+        "Categorized by the official GrapheneOS repository family and component.",
         "Descriptive import only; no software was installed, executed or security-audited.",
         "No README was available; this entry uses repository metadata."
       ]
@@ -9088,7 +9158,7 @@
       "number": 428,
       "name": "GrapheneOS/AppStore",
       "url": "https://github.com/GrapheneOS/AppStore",
-      "category": "Needs review",
+      "category": "GrapheneOS apps & browsers",
       "summary": "A project related to tools and software; see its official documentation for details.",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [],
@@ -9101,7 +9171,7 @@
       "readmeStatus": "unavailable",
       "readmeUrl": "",
       "notes": [
-        "Automatic classification was inconclusive; review this category.",
+        "Categorized by the official GrapheneOS repository family and component.",
         "Descriptive import only; no software was installed, executed or security-audited.",
         "No README was available; this entry uses repository metadata."
       ]
@@ -9110,7 +9180,7 @@
       "number": 429,
       "name": "GrapheneOS/Auditor",
       "url": "https://github.com/GrapheneOS/Auditor",
-      "category": "Android apps & launchers",
+      "category": "GrapheneOS apps & browsers",
       "summary": "Hardware-based attestation and intrusion detection app for Android. It provides both local verification with another Android device via QR codes and optional scheduled server-based verification with support for alert emails. It uses hardware-backed keys and attestation support as the foundation and chains trust to the app for software checks.",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [
@@ -9125,6 +9195,7 @@
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/GrapheneOS/Auditor#readme",
       "notes": [
+        "Categorized by the official GrapheneOS repository family and component.",
         "Automatically categorized from documentation and metadata; matched: android.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
@@ -9133,7 +9204,7 @@
       "number": 430,
       "name": "GrapheneOS/grapheneos.org",
       "url": "https://github.com/GrapheneOS/grapheneos.org",
-      "category": "Needs review",
+      "category": "GrapheneOS infrastructure & services",
       "summary": "Servers for our website, HTTP/HTTPS connectivity checks, HTTPS network time, NTP (for Qualcomm XTRA), Broadcom PSDS cache, Samsung PSDS cache, Qualcomm PSDS (XTRA) cache, SUPL proxy, attestation key provisioning proxy, Vanadium component update check/download proxy, network location proxy and geocoding proxy. Also app and OS updates via an include.",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [
@@ -9148,7 +9219,7 @@
       "readmeStatus": "unavailable",
       "readmeUrl": "",
       "notes": [
-        "Automatic classification was inconclusive; review this category.",
+        "Categorized by the official GrapheneOS repository family and component.",
         "Descriptive import only; no software was installed, executed or security-audited.",
         "No README was available; this entry uses repository metadata."
       ]
@@ -9157,7 +9228,7 @@
       "number": 431,
       "name": "GrapheneOS/PdfViewer",
       "url": "https://github.com/GrapheneOS/PdfViewer",
-      "category": "Android apps & launchers",
+      "category": "GrapheneOS apps & browsers",
       "summary": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [
@@ -9172,6 +9243,7 @@
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/GrapheneOS/PdfViewer#readme",
       "notes": [
+        "Categorized by the official GrapheneOS repository family and component.",
         "Automatically categorized from documentation and metadata; matched: android.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
@@ -9180,7 +9252,7 @@
       "number": 432,
       "name": "GrapheneOS/Camera",
       "url": "https://github.com/GrapheneOS/Camera",
-      "category": "Needs review",
+      "category": "GrapheneOS apps & browsers",
       "summary": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [
@@ -9195,7 +9267,7 @@
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/GrapheneOS/Camera#readme",
       "notes": [
-        "Automatic classification was inconclusive; review this category.",
+        "Categorized by the official GrapheneOS repository family and component.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     },
@@ -9203,7 +9275,7 @@
       "number": 433,
       "name": "GrapheneOS/hardened_malloc",
       "url": "https://github.com/GrapheneOS/hardened_malloc",
-      "category": "Android apps & launchers",
+      "category": "GrapheneOS & Android operating systems",
       "summary": "Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability/integration over time.",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [
@@ -9219,6 +9291,7 @@
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/GrapheneOS/hardened_malloc#readme",
       "notes": [
+        "Categorized by the official GrapheneOS repository family and component.",
         "Automatically categorized from documentation and metadata; matched: android.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
@@ -9227,7 +9300,7 @@
       "number": 434,
       "name": "GrapheneOS/Vanadium",
       "url": "https://github.com/GrapheneOS/Vanadium",
-      "category": "Needs review",
+      "category": "GrapheneOS apps & browsers",
       "summary": "Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [
@@ -9242,7 +9315,7 @@
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/GrapheneOS/Vanadium#readme",
       "notes": [
-        "Automatic classification was inconclusive; review this category.",
+        "Categorized by the official GrapheneOS repository family and component.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     },
@@ -9250,7 +9323,7 @@
       "number": 435,
       "name": "Graywizard888/Enhancify",
       "url": "https://github.com/Graywizard888/Enhancify",
-      "category": "Needs review",
+      "category": "Android app patching & modding",
       "summary": "The only custom Revancify with extra features and more customizations",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [],
@@ -9263,7 +9336,7 @@
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/Graywizard888/Enhancify#readme",
       "notes": [
-        "Automatic classification was inconclusive; review this category.",
+        "Categorized from its Android app patching project family.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     },
@@ -9271,7 +9344,7 @@
       "number": 436,
       "name": "hxreborn/morphe-patches",
       "url": "https://github.com/hxreborn/morphe-patches",
-      "category": "Needs review",
+      "category": "Android app patching & modding",
       "summary": "A project related to tools and software; see its official documentation for details.",
       "purpose": "Read the official project documentation to check its features and requirements.",
       "platforms": [
@@ -9286,7 +9359,7 @@
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/hxreborn/morphe-patches#readme",
       "notes": [
-        "Automatic classification was inconclusive; review this category.",
+        "Categorized from its Android app patching project family.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     },

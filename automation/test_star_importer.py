@@ -3,7 +3,7 @@ import copy
 import json
 import unittest
 
-from star_importer import classify, project, render, run
+from star_importer import classify, project, render, run, public_owned_repositories
 
 
 REPO = {"name": "anime-viewer", "full_name": "example/anime-viewer", "html_url": "https://github.com/example/anime-viewer", "description": "An anime viewer", "topics": ["anime"], "private": False}
@@ -15,6 +15,7 @@ README = '# Example\n- 0 projects organized into 1 categories.\n<!-- CATALOG:STA
 class FakeGitHub:
     def __init__(self, existing=False, failure=None):
         self.stars = [copy.deepcopy(REPO)]
+        self.owned = []
         self.deletes = []
         self.published = False
         self.verified = False
@@ -27,6 +28,8 @@ class FakeGitHub:
         self.files = render(db, TEMPLATE, README)
 
     def call(self, path, method="GET", data=None, missing=False):
+        if path.startswith("/users/example/repos?"):
+            return copy.deepcopy(self.owned)
         if path == "/user":
             return {"login": "example"}
         if path.startswith("/user/starred?"):
@@ -47,6 +50,9 @@ class FakeGitHub:
             return {"private": False}
         if path == "/repos/" + REPO["full_name"]:
             return copy.deepcopy(self.stars[0])
+        for repo in self.owned:
+            if path == "/repos/" + repo["full_name"]:
+                return copy.deepcopy(repo)
         raise AssertionError(path)
 
     def content(self, target, name, ref):
@@ -105,7 +111,7 @@ class ImporterTests(unittest.TestCase):
 
     def test_ambiguous_project_needs_review(self):
         repo = dict(REPO, name="something", description="Utilities", topics=[])
-        self.assertEqual(classify(repo, "", [CATEGORY])[0], "Needs review")
+        self.assertEqual(classify(repo, "", [CATEGORY])[0], "Other software & utilities")
 
     def test_awesome_list_has_clear_primary_category(self):
         category = "Curated lists & learning resources"
@@ -133,6 +139,38 @@ class ImporterTests(unittest.TestCase):
         with self.assertRaises(RuntimeError):
             run(api, "example", "example/catalog")
         self.assertFalse(api.deletes)
+
+
+    def test_owned_projects_sync_without_any_stars(self):
+        api = FakeGitHub()
+        api.stars = []
+        api.owned = [dict(REPO, name="owned", full_name="example/owned", html_url="https://github.com/example/owned", owner={"login":"example"})]
+        result = run(api, "example", "example/catalog", sync_owned=True)
+        data = json.loads(api.files["catalog.json"])
+        self.assertEqual(result["added"], 1)
+        self.assertTrue(data["projects"][0]["owned"])
+        self.assertEqual(api.deletes, [])
+
+    def test_private_owned_repository_never_exported(self):
+        api = FakeGitHub()
+        api.stars = []
+        api.owned = [dict(REPO, private=True, owner={"login":"example"})]
+        run(api, "example", "example/catalog", sync_owned=True)
+        self.assertEqual(json.loads(api.files["catalog.json"])["projects"], [])
+
+    def test_owned_and_starred_project_is_not_duplicated(self):
+        api = FakeGitHub()
+        api.owned = [dict(REPO, owner={"login":"example"})]
+        result = run(api, "example", "example/catalog", sync_owned=True)
+        self.assertEqual(result["added"], 1)
+        self.assertEqual(result["unstarred"], 1)
+
+    def test_grapheneos_categories(self):
+        from taxonomy import CATEGORIES
+        cases = {"GrapheneOS/Camera":"GrapheneOS apps & browsers", "GrapheneOS/mail.grapheneos.org":"GrapheneOS infrastructure & services", "GrapheneOS/platform_manifest":"GrapheneOS & Android operating systems"}
+        for name, category in cases.items():
+            repo = dict(REPO, name=name.split('/')[1], full_name=name)
+            self.assertEqual(classify(repo, "", CATEGORIES)[0], category)
 
 
 if __name__ == "__main__":

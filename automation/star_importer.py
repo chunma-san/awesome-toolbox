@@ -17,63 +17,60 @@ from pathlib import Path
 
 LOG = logging.getLogger("star-importer")
 FILES = ("catalog.json", "index.html", "catalog.csv", "README.md")
-RULES = {
-    "Anime, streaming & tracking": ["anime", "anilist", "myanimelist", "seanime", "stremio"],
-    "Manga, novels & reading": ["manga", "manhwa", "manhua", "novel", "ebook", "epub", "reading server"],
-    "Music, podcasts & media players": ["music", "spotify", "podcast", "audio player", "music player"],
-    "Video downloads & media capture": ["video downloader", "yt-dlp", "screen recorder", "video download"],
-    "Discord & TeamSpeak": ["discord", "teamspeak", "vencord", "betterdiscord"],
-    "Twitch & livestream tools": ["twitch", "livestream"],
-    "Steam, game libraries & achievements": ["steam", "achievement", "game launcher", "game library"],
-    "PlayStation & emulation": ["playstation", "ps5", "ps4", "emulator", "emulation", "shadps4"],
-    "AION 2 & Where Winds Meet": ["aion2", "aion 2", "where winds meet"],
-    "Game mods & automation": ["game mod", "game automation", "mod manager"],
-    "Windows maintenance & installation": ["windows debloat", "windows installation", "windows update", "windows maintenance"],
-    "Desktop, hardware & customization": ["wallpaper", "glazewm", "yasb", "desktop customization", "status bar"],
-    "Android apps & launchers": ["android", "android launcher"],
-    "Android root, patches & stores": ["magisk", "revanced", "lsposed", "android root", "f-droid"],
-    "Browsers & web extensions": ["browser extension", "webextension", "chrome extension", "firefox addon", "browser"],
-    "Privacy, DNS & security": ["privacy", "dns", "adblock", "password manager", "encryption"],
-    "Messaging & file sharing": ["messenger", "file sharing", "file transfer", "messaging"],
-    "Networking, virtualization & remote access": ["vpn", "remote desktop", "virtualization", "networking", "wireguard"],
-    "Self-hosting, feeds & infrastructure": ["self-hosted", "selfhosted", "rss", "homelab", "reverse proxy"],
-    "Development, AI & security research": ["developer tool", "coding agent", "code editor", "development framework", "llm", "penetration testing"],
-    "Creative tools, documents & translation": ["photo editor", "image editor", "translation", "subtitle", "pdf editor", "video editor"],
-    "Account tools, activation & verification": ["activation", "account verification"],
-    "Curated lists & learning resources": ["awesome list", "curated list", "learning resources"],
-    "TV & channel catalogs": ["iptv", "tv channel"],
-}
+from taxonomy import RULES, CATEGORIES
 
 
 def classify(repo, readme, categories):
-    """Prefer explicit metadata evidence; ambiguous matches need human review."""
+    """Use specific project families first, then weighted public metadata."""
+    full_name = repo["full_name"].lower()
+    name = repo["name"].lower()
+    if full_name.split('/')[0] == name and "GitHub profiles & README tools" in categories and ("profile" in (repo.get("description") or "").lower() or "readme-profile" in repo.get("topics", [])):
+        return "GitHub profiles & README tools", "Repository name matches its owner: a GitHub profile README repository."
+    if full_name.startswith("grapheneos/"):
+        if name in {"appstore", "camera", "pdfviewer", "vanadium", "auditor", "gmscompat", "info"}:
+            category = "GrapheneOS apps & browsers"
+        elif ".grapheneos.org" in name or name == "grapheneos.org":
+            category = "GrapheneOS infrastructure & services"
+        else:
+            category = "GrapheneOS & Android operating systems"
+        if category in categories:
+            return category, "Categorized by the official GrapheneOS repository family and component."
     curated = "Curated lists & learning resources"
-    if curated in categories and (repo["name"].lower().startswith("awesome-") or "awesome-list" in repo.get("topics", [])):
-        return curated, "Automatically categorized as a curated list from its repository name or awesome-list topic."
-    description = repo.get("description") or ""
-    primary = (repo["name"] + " " + description + " " + " ".join(repo.get("topics", []))).lower()
-    secondary = readme[:100000].lower()
-    scores = []
-    evidence = {}
+    if curated in categories and (name.startswith("awesome-") or "awesome-list" in repo.get("topics", [])):
+        return curated, "Categorized as a curated collection from its name or awesome-list topic."
+    normalize = lambda value: re.sub(r"[-_./]+", " ", value.lower())
+    primary = normalize(name + " " + (repo.get("description") or "") + " " + " ".join(repo.get("topics", [])))
+    if "Android app patching & modding" in categories and any(word in primary for word in ["revanced", "revancify", "enhancify", "morphe"]):
+        return "Android app patching & modding", "Categorized from its Android app patching project family."
+    secondary = normalize(readme[:100000])
+    scores, evidence = [], {}
     for category, phrases in RULES.items():
-        if category not in categories:
+        if category not in categories or not phrases:
             continue
-        matches = [p for p in phrases if re.search(r"(?<!\w)" + re.escape(p) + r"(?!\w)", primary)]
-        score = sum(5 if " " in p else 4 for p in matches)
-        score += min(2, sum(bool(re.search(r"(?<!\w)" + re.escape(p) + r"(?!\w)", secondary)) for p in phrases))
-        scores.append((score, category))
-        evidence[category] = matches
+        matches = [phrase for phrase in phrases if re.search(r"(?<!\w)" + re.escape(normalize(phrase)) + r"(?!\w)", primary)]
+        score = sum(4 + min(4, len(phrase.split()) - 1) for phrase in matches)
+        score += min(2, sum(bool(re.search(r"(?<!\w)" + re.escape(normalize(phrase)) + r"(?!\w)", secondary)) for phrase in phrases))
+        scores.append((score, category)); evidence[category] = matches
     scores.sort(reverse=True)
-    if not scores or scores[0][0] < 4 or (len(scores) > 1 and scores[0][0] - scores[1][0] < 2):
-        return "Needs review", "Automatic classification was inconclusive; review this category."
+    if not scores or scores[0][0] < 4:
+        return "Other software & utilities", "No specific category had enough evidence; stored in general utilities."
+    if len(scores) > 1 and scores[0][0] - scores[1][0] < 2:
+        leaders = scores[:2]
+        specific = [(max((len(p.split()) for p in evidence[c]), default=0), c) for _, c in leaders]
+        specific.sort(reverse=True)
+        if specific[0][0] > specific[1][0]:
+            category = specific[0][1]
+            return category, "Categorized from the more specific metadata phrase: " + ", ".join(evidence[category]) + "."
+        return "Other software & utilities", "Overlapping signals; stored in general utilities without inventing a specific classification."
     category = scores[0][1]
-    return category, "Automatically categorized from documentation and metadata; matched: " + ", ".join(evidence[category]) + "."
+    return category, "Automatically categorized from public metadata and documentation; matched: " + ", ".join(evidence[category]) + "."
 
 
 def summarize(repo, category):
     description = " ".join((repo.get("description") or "").split())[:500]
     # Keep the public catalog in English without sending source data to a translator.
-    if description and all(ord(c) < 128 for c in description):
+    letters = [c for c in description if c.isalpha()]
+    if description and letters and sum(c.isascii() for c in letters) / len(letters) >= .85:
         return description
     return "A project related to " + (category.lower() if category != "Needs review" else "tools and software") + "; see its official documentation for details."
 
@@ -116,6 +113,8 @@ def render(db, template, readme):
     toc, sections = [], []
     for category in db["categories"]:
         rows = [p for p in db["projects"] if p["category"] == category]
+        if not rows:
+            continue
         anchor = re.sub(r"[^a-z0-9\s-]", "", category.lower()).replace(" ", "-")
         toc.append(f"- [{category}](#{anchor}) ({len(rows)})")
         sections.append("## " + category + "\n\n" + "\n".join(f'- [{p["name"]}]({p["url"]}) — {markdown_text(p["summary"])}' for p in rows))
@@ -173,27 +172,47 @@ class GitHub:
             tree.append({"path": name, "mode": "100644", "type": "blob", "sha": blob["sha"]})
         parent = self.call(root + "/git/commits/" + base)
         tree = self.call(root + "/git/trees", "POST", {"base_tree": parent["tree"]["sha"], "tree": tree})
-        commit = self.call(root + "/git/commits", "POST", {"message": "Import starred projects into the categorized catalog", "tree": tree["sha"], "parents": [base]})
+        commit = self.call(root + "/git/commits", "POST", {"message": "Synchronize generated public project data", "tree": tree["sha"], "parents": [base]})
         self.call(root + "/git/refs/heads/" + branch, "PATCH", {"sha": commit["sha"], "force": False})
         return commit["sha"]
 
     def verify(self, target, branch, expected):
         head = self.call(f"/repos/{target}/git/ref/heads/{branch}")["object"]["sha"]
         commit = self.call(f"/repos/{target}/git/commits/{head}")
-        tree = self.call(f'/repos/{target}/git/trees/{commit["tree"]["sha"]}')
+        tree = self.call(f'/repos/{target}/git/trees/{commit["tree"]["sha"]}?recursive=1')
+        if tree.get("truncated"):
+            raise RuntimeError("Remote verification tree is incomplete")
         actual = {p["path"]: p["sha"] for p in tree["tree"] if p["type"] == "blob"}
         if any(actual.get(name) != blob_sha(content) for name, content in expected.items()):
             raise RuntimeError("Published file verification failed; stars retained")
 
 
-def run(api, owner, target, branch="main", limit=25, dry_run=False, only_repository=None):
-    user = api.call("/user")
-    if user["login"].lower() != owner.lower():
+def public_owned_repositories(api, owner):
+    repositories = []
+    for page in range(1, 101):
+        rows = api.call(f"/users/{owner}/repos?type=owner&sort=full_name&per_page=100&page={page}")
+        repositories.extend(r for r in rows if not r.get("private", True) and r.get("owner", {}).get("login", "").lower() == owner.lower())
+        if len(rows) < 100:
+            return repositories
+    raise RuntimeError("Owned repository pagination limit reached")
+
+
+def read_project(api, repo, categories):
+    repo = api.call("/repos/" + repo["full_name"])
+    if repo.get("private", True):
+        raise ValueError("Repository is no longer public; import stopped")
+    entry = api.call("/repos/" + repo["full_name"] + "/readme", missing=True)
+    if entry and entry.get("encoding") != "base64":
+        raise ValueError("README could not be retrieved; star retained")
+    readme = base64.b64decode(entry["content"]).decode("utf-8", errors="replace") if entry else ""
+    return project(repo, readme, categories)
+
+
+def run(api, owner, target, branch="main", limit=25, dry_run=False, only_repository=None, sync_owned=False):
+    if api.call("/user")["login"].lower() != owner.lower():
         raise ValueError("Authenticated account does not match configured star owner")
-    target_info = api.call("/repos/" + target)
-    if target_info.get("private"):
+    if api.call("/repos/" + target).get("private"):
         raise ValueError("This importer is intended for a public catalog")
-    # Snapshot pagination before changing stars: deletion must not shift unread pages.
     stars = []
     for page in range(1, 101):
         rows = api.call(f"/user/starred?per_page=100&page={page}")
@@ -207,43 +226,52 @@ def run(api, owner, target, branch="main", limit=25, dry_run=False, only_reposit
         LOG.warning("Private repositories skipped and left starred")
     if only_repository:
         public = [r for r in public if r["full_name"].lower() == only_repository.lower()]
-    if not public:
+        sync_owned = False
+    owned = public_owned_repositories(api, owner) if sync_owned else []
+    if not public and not sync_owned:
         LOG.info("No public stars to import")
         return {"added": 0, "unstarred": 0}
     base = api.call(f"/repos/{target}/git/ref/heads/{branch}")["object"]["sha"]
     originals = {name: api.content(target, name, base) for name in FILES}
     template = api.content(target, "catalog.template.html", base)
     db = json.loads(originals["catalog.json"])
+    changed = False
+    if sync_owned:
+        categories = list(dict.fromkeys(CATEGORIES + [p["category"] for p in db["projects"] if p["category"] != "Needs review"]))
+        changed = db["categories"] != categories
+        db["categories"] = categories
     known = {p["name"].lower(): p for p in db["projects"]}
+    owned_names = {r["full_name"].lower() for r in owned}
     selected = public[:limit]
     added = 0
-    for repo in selected:
-        if repo["full_name"].lower() in known:
+    for repo in list({r["full_name"].lower(): r for r in owned + selected}.values()):
+        name = repo["full_name"].lower()
+        if name in known:
+            if name in owned_names and not known[name].get("owned"):
+                known[name]["owned"] = True; changed = True
             continue
-        # Refetch current visibility immediately before importing public metadata.
-        repo = api.call("/repos/" + repo["full_name"])
-        if repo.get("private", True):
-            raise ValueError("Repository visibility changed; stars retained")
-        entry = api.call("/repos/" + repo["full_name"] + "/readme", missing=True)
-        if entry and entry.get("encoding") != "base64":
-            raise ValueError("README could not be retrieved; star retained")
-        readme = base64.b64decode(entry["content"]).decode("utf-8", errors="replace") if entry else ""
-        p = project(repo, readme, db["categories"])
+        p = read_project(api, repo, db["categories"])
         p["number"] = max((r["number"] for r in db["projects"]), default=0) + 1
-        db["projects"].append(p)
-        known[p["name"].lower()] = p
-        added += 1
+        if name in owned_names:
+            p["owned"] = True
+        db["projects"].append(p); known[name] = p
+        added += 1; changed = True
         LOG.info("Prepared %s in %s", p["name"], p["category"])
+    if sync_owned:
+        for p in db["projects"]:
+            if p["category"] == "Needs review" or (p["name"].lower().startswith("grapheneos/") and not p["category"].startswith("GrapheneOS")):
+                fresh = read_project(api, {"full_name": p["name"]}, db["categories"])
+                p["category"] = fresh["category"]; p["summary"] = fresh["summary"]; p["notes"] = fresh["notes"]
+                changed = True
     if dry_run:
-        LOG.info("Dry run: %s new projects; no publication or star changes", added)
+        LOG.info("Dry run: %s additions; no writes or star changes", added)
         return {"added": added, "unstarred": 0}
-    if added:
-        db["snapshot"] = dt.date.today().isoformat()
+    if changed:
+        db["snapshot"] = dt.datetime.now(dt.timezone.utc).date().isoformat()
         files = render(db, template, originals["README.md"])
         api.publish(target, branch, base, files)
     else:
         files = originals
-    # Exact Git blob hashes for all four files are checked on the remote branch.
     api.verify(target, branch, files)
     embedded = json.loads(re.search(r'<script id="catalog-data" type="application/json">([\s\S]*?)</script>', files["index.html"])[1])
     embedded_names = {p["name"].lower() for p in embedded["projects"]}
@@ -263,7 +291,7 @@ def run(api, owner, target, branch="main", limit=25, dry_run=False, only_reposit
         if len(rows) < 100:
             break
     if any(r["full_name"].lower() in remaining for r in selected):
-        raise RuntimeError("Some star removals did not persist; retry next run")
+        raise RuntimeError("Some removals did not persist; retry next run")
     result = {"added": added, "unstarred": removed, "remaining": len(remaining)}
     LOG.info("Completed: %s", json.dumps(result))
     return result
@@ -279,7 +307,11 @@ def main():
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     config = json.loads(args.config.read_text())
     token = Path(config["token_file"]).read_text().strip()
-    return run(GitHub(token), config["owner"], config["repository"], config.get("branch", "main"), config.get("batch_size", 25), args.dry_run, args.only)
+    result = run(GitHub(token), config["owner"], config["repository"], config.get("branch", "main"), config.get("batch_size", 25), args.dry_run, args.only, config.get("sync_owned", False))
+    if config.get("profile_repository") and not args.dry_run and not args.only:
+        from profile_sync import sync_profile
+        sync_profile(GitHub(token), config["owner"], config["profile_repository"], config["repository"])
+    return result
 
 
 if __name__ == "__main__":
