@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 458 projects organized into 71 categories.
+- 459 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -19,7 +19,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-16. 448 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-16. 449 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -66,7 +66,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
-- [Other software & utilities](#other-software--utilities) (3)
+- [Other software & utilities](#other-software--utilities) (4)
 
 ## Anime, streaming & tracking
 
@@ -636,6 +636,7 @@ In the initial collection, the only project without an available README was [Sle
 - [chunma-san/discord-companion](https://github.com/chunma-san/discord-companion) — An anime and manga Discord companion with chapter alerts, GrapheneOS news and a private link library.
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) — Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+- [portingpete/The-Darkness-Recomp](https://github.com/portingpete/The-Darkness-Recomp) — A native PC port of The Darkness (Xbox 360) for Windows, featuring DirectX 11 graphics, mouse and keyboard controls, and customizable settings.
 
 <!-- CATALOG:END -->
 
