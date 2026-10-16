@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 456 projects organized into 71 categories.
+- 458 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -19,7 +19,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-16. 446 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-16. 448 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -63,9 +63,10 @@ In the initial collection, the only project without an available README was [Sle
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (1)
 - [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
 - [Git, CI & release automation](#git-ci--release-automation) (1)
+- [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
-- [Other software & utilities](#other-software--utilities) (2)
+- [Other software & utilities](#other-software--utilities) (3)
 
 ## Anime, streaming & tracking
 
@@ -618,6 +619,10 @@ In the initial collection, the only project without an available README was [Sle
 
 - [chunma-san/Wand-Enhancer](https://github.com/chunma-san/Wand-Enhancer) — chunma edition of Wand Enhancer: blue theme, automated upstream sync and reproducible Windows builds.
 
+## Translation, subtitles & accessibility
+
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+
 ## Torrents, debrid & download managers
 
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) — A Download Manager that speeds up your downloads
@@ -630,6 +635,7 @@ In the initial collection, the only project without an available README was [Sle
 
 - [chunma-san/discord-companion](https://github.com/chunma-san/discord-companion) — An anime and manga Discord companion with chapter alerts, GrapheneOS news and a private link library.
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) — Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 
 <!-- CATALOG:END -->
 

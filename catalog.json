@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-16",
-  "total": 456,
-  "readmes": 446,
+  "total": 458,
+  "readmes": 448,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -9859,6 +9859,56 @@
       "readmeUrl": "https://github.com/cenodude/CrossWatch#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: anilist, myanimelist, stremio.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 457,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "category": "Translation, subtitles & accessibility",
+      "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T14:33:40Z",
+      "stars": 71086,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/debpalash/VoiceStudio#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: speech to text.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 458,
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "category": "Other software & utilities",
+      "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T16:16:00Z",
+      "stars": 48461,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/MadsLorentzen/ai-job-search#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
