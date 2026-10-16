@@ -16,9 +16,15 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## About this collection
 
-Snapshot: October 16, 2026. Repository metadata and 418 available README files were consulted to describe the projects. Inclusion is informational and does not mean endorsement, security review or a successful runtime test. Eight repositories were archived at the time of the snapshot; the interactive catalog identifies them. Metadata can become outdated.
+<!-- STATS:START -->
+Catalog updated: 2026-10-16. 418 entries have available README documentation. Metadata can become outdated.
+<!-- STATS:END -->
 
-The only project without an available README was [SleepyCatHey/Yasb-GlazeWM-Config](https://github.com/SleepyCatHey/Yasb-GlazeWM-Config); its entry is based on repository metadata. Full upstream README copies are not redistributed here.
+Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
+
+In the initial collection, the only project without an available README was [SleepyCatHey/Yasb-GlazeWM-Config](https://github.com/SleepyCatHey/Yasb-GlazeWM-Config); its entry is based on repository metadata. Full upstream README copies are not redistributed here.
+
+<!-- CATALOG:START -->
 
 ## Contents
 
@@ -538,6 +544,12 @@ The only project without an available README was [SleepyCatHey/Yasb-GlazeWM-Conf
 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world
 
+
+<!-- CATALOG:END -->
+
+## Star inbox automation
+
+An optional server-side importer reads new public stars, categorizes projects from metadata and README text, updates JSON, CSV, README and the web catalog, verifies the exact published file hashes, and only then removes the stars. Ambiguous projects go to **Needs review**. Private repositories stay starred and are never published. Failures retain unverified stars for the next run. See [automation setup](automation/README.md).
 
 ## Local development
 
