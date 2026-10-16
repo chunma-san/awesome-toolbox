@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-16",
-  "total": 419,
-  "readmes": 418,
+  "total": 434,
+  "readmes": 424,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -26,7 +26,8 @@
     "Creative tools, documents & translation",
     "Account tools, activation & verification",
     "Curated lists & learning resources",
-    "TV & channel catalogs"
+    "TV & channel catalogs",
+    "Needs review"
   ],
   "projects": [
     {
@@ -8901,6 +8902,349 @@
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/ChrisTitusTech/winutil#readme",
       "notes": []
+    },
+    {
+      "number": 420,
+      "name": "GrapheneOS/discuss.grapheneos.org",
+      "url": "https://github.com/GrapheneOS/discuss.grapheneos.org",
+      "category": "Needs review",
+      "summary": "Discussion forum server",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Shell",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T16:31:28Z",
+      "stars": 23,
+      "license": "MIT",
+      "readmeStatus": "unavailable",
+      "readmeUrl": "",
+      "notes": [
+        "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited.",
+        "No README was available; this entry uses repository metadata."
+      ]
+    },
+    {
+      "number": 421,
+      "name": "GrapheneOS/matrix.grapheneos.org",
+      "url": "https://github.com/GrapheneOS/matrix.grapheneos.org",
+      "category": "Needs review",
+      "summary": "Matrix and Element Web server",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Shell",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-05T20:02:09Z",
+      "stars": 26,
+      "license": "MIT",
+      "readmeStatus": "unavailable",
+      "readmeUrl": "",
+      "notes": [
+        "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited.",
+        "No README was available; this entry uses repository metadata."
+      ]
+    },
+    {
+      "number": 422,
+      "name": "GrapheneOS/mail.grapheneos.org",
+      "url": "https://github.com/GrapheneOS/mail.grapheneos.org",
+      "category": "Needs review",
+      "summary": "Mail server",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Shell",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T19:32:35Z",
+      "stars": 27,
+      "license": "MIT",
+      "readmeStatus": "unavailable",
+      "readmeUrl": "",
+      "notes": [
+        "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited.",
+        "No README was available; this entry uses repository metadata."
+      ]
+    },
+    {
+      "number": 423,
+      "name": "GrapheneOS/ns1.grapheneos.org",
+      "url": "https://github.com/GrapheneOS/ns1.grapheneos.org",
+      "category": "Privacy, DNS & security",
+      "summary": "Authoritative DNS servers",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Shell",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T04:57:55Z",
+      "stars": 47,
+      "license": "MIT",
+      "readmeStatus": "unavailable",
+      "readmeUrl": "",
+      "notes": [
+        "Automatically categorized from documentation and metadata; matched: dns.",
+        "Descriptive import only; no software was installed, executed or security-audited.",
+        "No README was available; this entry uses repository metadata."
+      ]
+    },
+    {
+      "number": 424,
+      "name": "GrapheneOS/apps.grapheneos.org",
+      "url": "https://github.com/GrapheneOS/apps.grapheneos.org",
+      "category": "Needs review",
+      "summary": "Application repository",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T14:36:29Z",
+      "stars": 103,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/GrapheneOS/apps.grapheneos.org#readme",
+      "notes": [
+        "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 425,
+      "name": "GrapheneOS/releases.grapheneos.org",
+      "url": "https://github.com/GrapheneOS/releases.grapheneos.org",
+      "category": "Needs review",
+      "summary": "OS update and app repository servers",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Shell",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-05T20:01:57Z",
+      "stars": 126,
+      "license": "MIT",
+      "readmeStatus": "unavailable",
+      "readmeUrl": "",
+      "notes": [
+        "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited.",
+        "No README was available; this entry uses repository metadata."
+      ]
+    },
+    {
+      "number": 426,
+      "name": "GrapheneOS/Messaging",
+      "url": "https://github.com/GrapheneOS/Messaging",
+      "category": "Messaging & file sharing",
+      "summary": "Messaging app",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T15:52:22Z",
+      "stars": 228,
+      "license": "Not specified",
+      "readmeStatus": "unavailable",
+      "readmeUrl": "",
+      "notes": [
+        "Automatically categorized from documentation and metadata; matched: messaging.",
+        "Descriptive import only; no software was installed, executed or security-audited.",
+        "No README was available; this entry uses repository metadata."
+      ]
+    },
+    {
+      "number": 427,
+      "name": "GrapheneOS/platform_manifest",
+      "url": "https://github.com/GrapheneOS/platform_manifest",
+      "category": "Needs review",
+      "summary": "Repo manifest for the GrapheneOS mobile privacy and security hardening project.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-07T15:19:16Z",
+      "stars": 572,
+      "license": "Not specified",
+      "readmeStatus": "unavailable",
+      "readmeUrl": "",
+      "notes": [
+        "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited.",
+        "No README was available; this entry uses repository metadata."
+      ]
+    },
+    {
+      "number": 428,
+      "name": "GrapheneOS/AppStore",
+      "url": "https://github.com/GrapheneOS/AppStore",
+      "category": "Needs review",
+      "summary": "A project related to tools and software; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-14T17:17:41Z",
+      "stars": 617,
+      "license": "MIT",
+      "readmeStatus": "unavailable",
+      "readmeUrl": "",
+      "notes": [
+        "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited.",
+        "No README was available; this entry uses repository metadata."
+      ]
+    },
+    {
+      "number": 429,
+      "name": "GrapheneOS/Auditor",
+      "url": "https://github.com/GrapheneOS/Auditor",
+      "category": "Android apps & launchers",
+      "summary": "Hardware-based attestation and intrusion detection app for Android. It provides both local verification with another Android device via QR codes and optional scheduled server-based verification with support for alert emails. It uses hardware-backed keys and attestation support as the foundation and chains trust to the app for software checks.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Java",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-14T17:15:12Z",
+      "stars": 723,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/GrapheneOS/Auditor#readme",
+      "notes": [
+        "Automatically categorized from documentation and metadata; matched: android.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 430,
+      "name": "GrapheneOS/grapheneos.org",
+      "url": "https://github.com/GrapheneOS/grapheneos.org",
+      "category": "Needs review",
+      "summary": "Servers for our website, HTTP/HTTPS connectivity checks, HTTPS network time, NTP (for Qualcomm XTRA), Broadcom PSDS cache, Samsung PSDS cache, Qualcomm PSDS (XTRA) cache, SUPL proxy, attestation key provisioning proxy, Vanadium component update check/download proxy, network location proxy and geocoding proxy. Also app and OS updates via an include.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "HTML",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T16:47:15Z",
+      "stars": 776,
+      "license": "MIT",
+      "readmeStatus": "unavailable",
+      "readmeUrl": "",
+      "notes": [
+        "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited.",
+        "No README was available; this entry uses repository metadata."
+      ]
+    },
+    {
+      "number": 431,
+      "name": "GrapheneOS/PdfViewer",
+      "url": "https://github.com/GrapheneOS/PdfViewer",
+      "category": "Android apps & launchers",
+      "summary": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T21:34:01Z",
+      "stars": 1048,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/GrapheneOS/PdfViewer#readme",
+      "notes": [
+        "Automatically categorized from documentation and metadata; matched: android.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 432,
+      "name": "GrapheneOS/Camera",
+      "url": "https://github.com/GrapheneOS/Camera",
+      "category": "Needs review",
+      "summary": "Modern camera app focused on privacy and security with QR & barcode scanning.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T19:28:17Z",
+      "stars": 1410,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/GrapheneOS/Camera#readme",
+      "notes": [
+        "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 433,
+      "name": "GrapheneOS/hardened_malloc",
+      "url": "https://github.com/GrapheneOS/hardened_malloc",
+      "category": "Android apps & launchers",
+      "summary": "Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability/integration over time.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Android"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-07T14:50:43Z",
+      "stars": 2034,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/GrapheneOS/hardened_malloc#readme",
+      "notes": [
+        "Automatically categorized from documentation and metadata; matched: android.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 434,
+      "name": "GrapheneOS/Vanadium",
+      "url": "https://github.com/GrapheneOS/Vanadium",
+      "category": "Needs review",
+      "summary": "Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T06:39:40Z",
+      "stars": 2233,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/GrapheneOS/Vanadium#readme",
+      "notes": [
+        "Automatic classification was inconclusive; review this category.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
     }
   ]
 }
