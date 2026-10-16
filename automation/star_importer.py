@@ -150,8 +150,14 @@ class GitHub:
         except urllib.error.HTTPError as error:
             if missing and error.code == 404:
                 return None
-            # Never include credentials, raw response bodies, or private metadata in logs.
-            raise RuntimeError(f"GitHub API returned HTTP {error.code}; stars retained for any unverified entries") from None
+            # Log the API's short diagnostic message only, never credentials or raw responses.
+            try:
+                detail = str(json.loads(error.read()).get("message", ""))[:160]
+            except (ValueError, UnicodeError):
+                detail = "Request rejected"
+            if self.token in detail:
+                detail = "Request rejected"
+            raise RuntimeError(f"GitHub API {method} {path} returned HTTP {error.code}: {detail}; stars retained for any unverified entries") from None
 
     def content(self, repo, name, ref):
         entry = self.call(f"/repos/{repo}/contents/{name}?ref={ref}")
