@@ -47,6 +47,9 @@ RULES = {
 
 def classify(repo, readme, categories):
     """Prefer explicit metadata evidence; ambiguous matches need human review."""
+    curated = "Curated lists & learning resources"
+    if curated in categories and (repo["name"].lower().startswith("awesome-") or "awesome-list" in repo.get("topics", [])):
+        return curated, "Automatically categorized as a curated list from its repository name or awesome-list topic."
     description = repo.get("description") or ""
     primary = (repo["name"] + " " + description + " " + " ".join(repo.get("topics", []))).lower()
     secondary = readme[:100000].lower()
@@ -177,7 +180,7 @@ class GitHub:
             raise RuntimeError("Published file verification failed; stars retained")
 
 
-def run(api, owner, target, branch="main", limit=25, dry_run=False):
+def run(api, owner, target, branch="main", limit=25, dry_run=False, only_repository=None):
     user = api.call("/user")
     if user["login"].lower() != owner.lower():
         raise ValueError("Authenticated account does not match configured star owner")
@@ -196,6 +199,8 @@ def run(api, owner, target, branch="main", limit=25, dry_run=False):
     public = [r for r in stars if not r.get("private", True)]
     if len(public) != len(stars):
         LOG.warning("Private repositories skipped and left starred")
+    if only_repository:
+        public = [r for r in public if r["full_name"].lower() == only_repository.lower()]
     if not public:
         LOG.info("No public stars to import")
         return {"added": 0, "unstarred": 0}
@@ -263,11 +268,12 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--config", required=True, type=Path)
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--only", help="Process only this owner/repository (useful for a controlled test)")
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     config = json.loads(args.config.read_text())
     token = Path(config["token_file"]).read_text().strip()
-    return run(GitHub(token), config["owner"], config["repository"], config.get("branch", "main"), config.get("batch_size", 25), args.dry_run)
+    return run(GitHub(token), config["owner"], config["repository"], config.get("branch", "main"), config.get("batch_size", 25), args.dry_run, args.only)
 
 
 if __name__ == "__main__":
