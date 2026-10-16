@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-16",
-  "total": 454,
-  "readmes": 444,
+  "total": 456,
+  "readmes": 446,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -9813,6 +9813,52 @@
       "readmeUrl": "https://github.com/kodjodevf/mangayomi#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 455,
+      "name": "axiel7/AniHyou-android",
+      "url": "https://github.com/axiel7/AniHyou-android",
+      "category": "Anime, streaming & tracking",
+      "summary": "Another unofficial Android AniList client",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T15:12:54Z",
+      "stars": 622,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/axiel7/AniHyou-android#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: anime, anilist.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 456,
+      "name": "cenodude/CrossWatch",
+      "url": "https://github.com/cenodude/CrossWatch",
+      "category": "Anime, streaming & tracking",
+      "summary": "Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T21:25:09Z",
+      "stars": 962,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/cenodude/CrossWatch#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: anilist, myanimelist, stremio.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 454 projects organized into 71 categories.
+- 456 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -19,7 +19,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-16. 444 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-16. 446 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -30,7 +30,7 @@ In the initial collection, the only project without an available README was [Sle
 
 ## Contents
 
-- [Anime, streaming & tracking](#anime-streaming--tracking) (15)
+- [Anime, streaming & tracking](#anime-streaming--tracking) (17)
 - [Manga, novels & reading](#manga-novels--reading) (15)
 - [Music, podcasts & media players](#music-podcasts--media-players) (28)
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
@@ -84,6 +84,8 @@ In the initial collection, the only project without an available README was [Sle
 - [axiel7/MoeList](https://github.com/axiel7/MoeList) — Another unofficial Android MAL client
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) — An otaku index for everything! ⭐ Star the project if you like it!
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) — An app for manga and anime
+- [axiel7/AniHyou-android](https://github.com/axiel7/AniHyou-android) — Another unofficial Android AniList client
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) — Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 
 ## Manga, novels & reading
 
