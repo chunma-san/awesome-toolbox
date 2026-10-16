@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-16",
-  "total": 440,
-  "readmes": 430,
+  "total": 454,
+  "readmes": 444,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -9454,6 +9454,365 @@
       "readmeUrl": "https://github.com/Citrinate/FreePackages#readme",
       "notes": [
         "Automatically categorized from documentation and metadata; matched: steam.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 441,
+      "name": "chunma-san/awesome-toolbox",
+      "url": "https://github.com/chunma-san/awesome-toolbox",
+      "category": "Curated lists & learning resources",
+      "summary": "A categorized collection of apps, self-hosted services, developer tools and gaming utilities, with a searchable web catalog.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "HTML",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T22:00:31Z",
+      "stars": 0,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/awesome-toolbox#readme",
+      "notes": [
+        "Categorized as a curated collection from its name or awesome-list topic.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 442,
+      "name": "chunma-san/chunma-san",
+      "url": "https://github.com/chunma-san/chunma-san",
+      "category": "GitHub profiles & README tools",
+      "summary": "Profile artwork, Discord presence and self-hosted projects.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T17:57:09Z",
+      "stars": 0,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/chunma-san#readme",
+      "notes": [
+        "Repository name matches its owner: a GitHub profile README repository.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 443,
+      "name": "chunma-san/discord-archive",
+      "url": "https://github.com/chunma-san/discord-archive",
+      "category": "Discord & TeamSpeak",
+      "summary": "A modular Discord event archive with audit logs, moderation records and voice dashboards.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T17:57:22Z",
+      "stars": 0,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/discord-archive#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 444,
+      "name": "chunma-san/discord-community",
+      "url": "https://github.com/chunma-san/discord-community",
+      "category": "AION 2 & Where Winds Meet",
+      "summary": "A configurable AION 2 Discord community bot with guild areas, events, roles and character profiles.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T17:57:25Z",
+      "stars": 0,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/discord-community#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: aion 2.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 445,
+      "name": "chunma-san/discord-companion",
+      "url": "https://github.com/chunma-san/discord-companion",
+      "category": "Other software & utilities",
+      "summary": "An anime and manga Discord companion with chapter alerts, GrapheneOS news and a private link library.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T17:57:29Z",
+      "stars": 0,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/discord-companion#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 446,
+      "name": "chunma-san/discord-voice-keeper",
+      "url": "https://github.com/chunma-san/discord-voice-keeper",
+      "category": "Discord & TeamSpeak",
+      "summary": "A silent Discord voice bot with a saved channel and automatic connection maintenance.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T17:57:32Z",
+      "stars": 0,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/discord-voice-keeper#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 447,
+      "name": "chunma-san/music-downloader",
+      "url": "https://github.com/chunma-san/music-downloader",
+      "category": "Music, podcasts & media players",
+      "summary": "A URL-based music download helper with optional owner-restricted Telegram controls.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T17:57:35Z",
+      "stars": 0,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/music-downloader#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: music.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 448,
+      "name": "chunma-san/music-metadata",
+      "url": "https://github.com/chunma-san/music-metadata",
+      "category": "Music, podcasts & media players",
+      "summary": "Music metadata matching and batch confidence reports for local audio collections.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T17:57:38Z",
+      "stars": 0,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/music-metadata#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: music.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 449,
+      "name": "chunma-san/steam-idle-monitor",
+      "url": "https://github.com/chunma-san/steam-idle-monitor",
+      "category": "Steam, game libraries & achievements",
+      "summary": "Idle and farming interval estimates from ArchiSteamFarm Docker logs.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T20:02:45Z",
+      "stars": 0,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/steam-idle-monitor#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: steam.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 450,
+      "name": "chunma-san/teamspeak-control",
+      "url": "https://github.com/chunma-san/teamspeak-control",
+      "category": "Discord & TeamSpeak",
+      "summary": "Discord controls for configured TeamSpeak audio-bot containers and an announcement timer.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T17:57:45Z",
+      "stars": 0,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/teamspeak-control#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord, teamspeak.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 451,
+      "name": "chunma-san/teamspeak-timer",
+      "url": "https://github.com/chunma-san/teamspeak-timer",
+      "category": "Discord & TeamSpeak",
+      "summary": "Configurable TeamSpeak announcements through TS3AudioBot APIs with local timer control.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T17:57:49Z",
+      "stars": 0,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/teamspeak-timer#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: teamspeak.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 452,
+      "name": "chunma-san/telegram-music",
+      "url": "https://github.com/chunma-san/telegram-music",
+      "category": "Music, podcasts & media players",
+      "summary": "A configurable Telegram audio saver with persistent processing history and local session storage.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T17:57:53Z",
+      "stars": 0,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/telegram-music#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: music.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 453,
+      "name": "chunma-san/Wand-Enhancer",
+      "url": "https://github.com/chunma-san/Wand-Enhancer",
+      "category": "Git, CI & release automation",
+      "summary": "chunma edition of Wand Enhancer: blue theme, automated upstream sync and reproducible Windows builds.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": true,
+      "pushed": "2026-10-15T18:05:39Z",
+      "stars": 0,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/Wand-Enhancer#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: upstream sync.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 454,
+      "name": "kodjodevf/mangayomi",
+      "url": "https://github.com/kodjodevf/mangayomi",
+      "category": "Other software & utilities",
+      "summary": "Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "Dart",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-12T16:17:52Z",
+      "stars": 4182,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/kodjodevf/mangayomi#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

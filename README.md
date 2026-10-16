@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 440 projects organized into 71 categories.
+- 454 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -19,7 +19,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-16. 430 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-16. 444 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -32,13 +32,13 @@ In the initial collection, the only project without an available README was [Sle
 
 - [Anime, streaming & tracking](#anime-streaming--tracking) (15)
 - [Manga, novels & reading](#manga-novels--reading) (15)
-- [Music, podcasts & media players](#music-podcasts--media-players) (25)
+- [Music, podcasts & media players](#music-podcasts--media-players) (28)
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
-- [Discord & TeamSpeak](#discord--teamspeak) (25)
+- [Discord & TeamSpeak](#discord--teamspeak) (29)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
-- [Steam, game libraries & achievements](#steam-game-libraries--achievements) (21)
+- [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
 - [PlayStation & emulation](#playstation--emulation) (18)
-- [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (8)
+- [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (25)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
 - [Desktop, hardware & customization](#desktop-hardware--customization) (23)
@@ -52,7 +52,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Development, AI & security research](#development-ai--security-research) (11)
 - [Creative tools, documents & translation](#creative-tools-documents--translation) (15)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
-- [Curated lists & learning resources](#curated-lists--learning-resources) (16)
+- [Curated lists & learning resources](#curated-lists--learning-resources) (17)
 - [TV & channel catalogs](#tv--channel-catalogs) (1)
 - [GrapheneOS & Android operating systems](#grapheneos--android-operating-systems) (4)
 - [GrapheneOS apps & browsers](#grapheneos-apps--browsers) (5)
@@ -61,8 +61,11 @@ In the initial collection, the only project without an available README was [Sle
 - [Android app patching & modding](#android-app-patching--modding) (4)
 - [Camera, gallery & photo management](#camera-gallery--photo-management) (1)
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (1)
+- [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
+- [Git, CI & release automation](#git-ci--release-automation) (1)
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
+- [Other software & utilities](#other-software--utilities) (2)
 
 ## Anime, streaming & tracking
 
@@ -127,6 +130,9 @@ In the initial collection, the only project without an available README was [Sle
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) — Pear 🍐 is extension for music player
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) — SpotX patcher used for patching the desktop version of Spotify
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) — Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+- [chunma-san/music-downloader](https://github.com/chunma-san/music-downloader) — A URL-based music download helper with optional owner-restricted Telegram controls.
+- [chunma-san/music-metadata](https://github.com/chunma-san/music-metadata) — Music metadata matching and batch confidence reports for local audio collections.
+- [chunma-san/telegram-music](https://github.com/chunma-san/telegram-music) — A configurable Telegram audio saver with persistent processing history and local session storage.
 
 ## Video downloads & media capture
 
@@ -169,6 +175,10 @@ In the initial collection, the only project without an available README was [Sle
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) — Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) — The other cutest Discord client mod
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) — The cutest Discord modification
+- [chunma-san/discord-archive](https://github.com/chunma-san/discord-archive) — A modular Discord event archive with audit logs, moderation records and voice dashboards.
+- [chunma-san/discord-voice-keeper](https://github.com/chunma-san/discord-voice-keeper) — A silent Discord voice bot with a saved channel and automatic connection maintenance.
+- [chunma-san/teamspeak-control](https://github.com/chunma-san/teamspeak-control) — Discord controls for configured TeamSpeak audio-bot containers and an announcement timer.
+- [chunma-san/teamspeak-timer](https://github.com/chunma-san/teamspeak-timer) — Configurable TeamSpeak announcements through TS3AudioBot APIs with local timer control.
 
 ## Twitch & livestream tools
 
@@ -206,6 +216,7 @@ In the initial collection, the only project without an available README was [Sle
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) — A manager for game achievements in Steam.
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) — An open-source framework for Steam Client themes and plugins
 - [Citrinate/FreePackages](https://github.com/Citrinate/FreePackages) — An ASF plugin for finding and redeeming free Steam games
+- [chunma-san/steam-idle-monitor](https://github.com/chunma-san/steam-idle-monitor) — Idle and farming interval estimates from ArchiSteamFarm Docker logs.
 
 ## PlayStation & emulation
 
@@ -238,6 +249,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Kuroukihime/AIon2-Dps-Meter](https://github.com/Kuroukihime/AIon2-Dps-Meter) — RATmeter - A lightweight, network-based AION 2 DPS meter for global servers
 - [SnowiyQ/Where-Winds-Meet-Midi-Player](https://github.com/SnowiyQ/Where-Winds-Meet-Midi-Player) — Modern MIDI Player for Where Winds Meet, supports all keyboard layouts with tons of powerful features.
 - [Acedia0/WhereWindsMeet-Lua-Injector](https://github.com/Acedia0/WhereWindsMeet-Lua-Injector) — Proof-of-concept Lua script injector for Where Winds Meet using a dinput8 proxy DLL and Frida Gadget to hook the game’s internal lua_load / lua_pcall and open debug / GM features.
+- [chunma-san/discord-community](https://github.com/chunma-san/discord-community) — A configurable AION 2 Discord community bot with guild areas, events, roles and character profiles.
 
 ## Game mods & automation
 
@@ -546,6 +558,7 @@ In the initial collection, the only project without an available README was [Sle
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) — A curated list of awesome Android UI/UX libraries
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) — 🍦 A well organized & frequently updated collection of apps that support material you design.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) — :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
+- [chunma-san/awesome-toolbox](https://github.com/chunma-san/awesome-toolbox) — A categorized collection of apps, self-hosted services, developer tools and gaming utilities, with a searchable web catalog.
 
 ## TV & channel catalogs
 
@@ -595,6 +608,14 @@ In the initial collection, the only project without an available README was [Sle
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
 
+## GitHub profiles & README tools
+
+- [chunma-san/chunma-san](https://github.com/chunma-san/chunma-san) — Profile artwork, Discord presence and self-hosted projects.
+
+## Git, CI & release automation
+
+- [chunma-san/Wand-Enhancer](https://github.com/chunma-san/Wand-Enhancer) — chunma edition of Wand Enhancer: blue theme, automated upstream sync and reproducible Windows builds.
+
 ## Torrents, debrid & download managers
 
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) — A Download Manager that speeds up your downloads
@@ -602,6 +623,11 @@ In the initial collection, the only project without an available README was [Sle
 ## Browser privacy & ad blocking
 
 - [uazo/cromite](https://github.com/uazo/cromite) — Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
+
+## Other software & utilities
+
+- [chunma-san/discord-companion](https://github.com/chunma-san/discord-companion) — An anime and manga Discord companion with chapter alerts, GrapheneOS news and a private link library.
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) — Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 
 <!-- CATALOG:END -->
 
