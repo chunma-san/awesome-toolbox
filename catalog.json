@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-17",
-  "total": 465,
-  "readmes": 455,
+  "total": 466,
+  "readmes": 456,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10075,6 +10075,30 @@
       "readmeUrl": "https://github.com/LoreanXavier/pt-pc#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: ps4.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 466,
+      "name": "iExplosiveRage/DBZ-Burst-Limit-Recompiled",
+      "url": "https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled",
+      "category": "Other software & utilities",
+      "summary": "Dragon Ball Z: Burst Limit Recompiled - native PC port via ReXGlue static recompilation",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T16:27:55Z",
+      "stars": 61,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

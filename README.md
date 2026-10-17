@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 465 projects organized into 71 categories.
+- 466 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -19,7 +19,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-17. 455 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-17. 456 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -66,7 +66,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
-- [Other software & utilities](#other-software--utilities) (7)
+- [Other software & utilities](#other-software--utilities) (8)
 
 ## Anime, streaming & tracking
 
@@ -643,6 +643,7 @@ In the initial collection, the only project without an available README was [Sle
 - [bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port](https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port) — Uncharted: The Nathan Drake Collection PC port (no game files)
 - [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) — Experimental Darling runtime patches and tools for testing the macOS League client on Linux
 - [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) — Overdrive, a PS5 homebrew game store with 1,800+ games.
+- [iExplosiveRage/DBZ-Burst-Limit-Recompiled](https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled) — Dragon Ball Z: Burst Limit Recompiled - native PC port via ReXGlue static recompilation
 
 <!-- CATALOG:END -->
 
