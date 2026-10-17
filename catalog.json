@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-17",
-  "total": 464,
-  "readmes": 454,
+  "total": 465,
+  "readmes": 455,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10050,6 +10050,31 @@
       "readmeUrl": "https://github.com/MyLuxy/overdrive#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 465,
+      "name": "LoreanXavier/pt-pc",
+      "url": "https://github.com/LoreanXavier/pt-pc",
+      "category": "PlayStation & emulation",
+      "summary": "Native PC port of P.T. (runs from your own PS4 game files)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T01:12:11Z",
+      "stars": 1871,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/LoreanXavier/pt-pc#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: ps4.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

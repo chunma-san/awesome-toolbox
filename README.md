@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 464 projects organized into 71 categories.
+- 465 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -19,7 +19,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-17. 454 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-17. 455 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -37,7 +37,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Discord & TeamSpeak](#discord--teamspeak) (29)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
-- [PlayStation & emulation](#playstation--emulation) (20)
+- [PlayStation & emulation](#playstation--emulation) (21)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (25)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
@@ -243,6 +243,7 @@ In the initial collection, the only project without an available README was [Sle
 - [DrYenyen/PPPwn-Tinker-GUI](https://github.com/DrYenyen/PPPwn-Tinker-GUI) — PPPwn Tinker GUI
 - [Swordpdf/PS5SX2](https://github.com/Swordpdf/PS5SX2) — A port of PCSX2 for PS5
 - [darlinghq/darling](https://github.com/darlinghq/darling) — Darwin/macOS emulation layer for Linux
+- [LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc) — Native PC port of P.T. (runs from your own PS4 game files)
 
 ## AION 2 & Where Winds Meet
 
