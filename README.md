@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 466 projects organized into 71 categories.
+- 467 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -19,7 +19,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-17. 456 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-17. 457 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -34,7 +34,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Manga, novels & reading](#manga-novels--reading) (15)
 - [Music, podcasts & media players](#music-podcasts--media-players) (28)
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
-- [Discord & TeamSpeak](#discord--teamspeak) (29)
+- [Discord & TeamSpeak](#discord--teamspeak) (30)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
 - [PlayStation & emulation](#playstation--emulation) (21)
@@ -182,6 +182,7 @@ In the initial collection, the only project without an available README was [Sle
 - [chunma-san/discord-voice-keeper](https://github.com/chunma-san/discord-voice-keeper) — A silent Discord voice bot with a saved channel and automatic connection maintenance.
 - [chunma-san/teamspeak-control](https://github.com/chunma-san/teamspeak-control) — Discord controls for configured TeamSpeak audio-bot containers and an announcement timer.
 - [chunma-san/teamspeak-timer](https://github.com/chunma-san/teamspeak-timer) — Configurable TeamSpeak announcements through TS3AudioBot APIs with local timer control.
+- [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) — Saves Discord chat logs to a file
 
 ## Twitch & livestream tools
 

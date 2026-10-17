@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-17",
-  "total": 466,
-  "readmes": 456,
+  "total": 467,
+  "readmes": 457,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10099,6 +10099,30 @@
       "readmeUrl": "https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 467,
+      "name": "Tyrrrz/DiscordChatExporter",
+      "url": "https://github.com/Tyrrrz/DiscordChatExporter",
+      "category": "Discord & TeamSpeak",
+      "summary": "Saves Discord chat logs to a file",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "macOS",
+        "Docker"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-17T10:19:58Z",
+      "stars": 12208,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Tyrrrz/DiscordChatExporter#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
