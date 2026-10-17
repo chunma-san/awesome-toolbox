@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-10-16",
-  "total": 459,
-  "readmes": 449,
+  "snapshot": "2026-10-17",
+  "total": 463,
+  "readmes": 453,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -9933,6 +9933,99 @@
       "readmeUrl": "https://github.com/portingpete/The-Darkness-Recomp#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 460,
+      "name": "Swordpdf/PS5SX2",
+      "url": "https://github.com/Swordpdf/PS5SX2",
+      "category": "PlayStation & emulation",
+      "summary": "A port of PCSX2 for PS5",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-14T02:12:23Z",
+      "stars": 1327,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Swordpdf/PS5SX2#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: ps5.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 461,
+      "name": "bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port",
+      "url": "https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port",
+      "category": "Other software & utilities",
+      "summary": "Uncharted: The Nathan Drake Collection PC port (no game files)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T16:50:38Z",
+      "stars": 107,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 462,
+      "name": "lucannez64/darling-lol",
+      "url": "https://github.com/lucannez64/darling-lol",
+      "category": "Other software & utilities",
+      "summary": "Experimental Darling runtime patches and tools for testing the macOS League client on Linux",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T23:06:52Z",
+      "stars": 188,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/lucannez64/darling-lol#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 463,
+      "name": "darlinghq/darling",
+      "url": "https://github.com/darlinghq/darling",
+      "category": "PlayStation & emulation",
+      "summary": "Darwin/macOS emulation layer for Linux",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "macOS"
+      ],
+      "language": "Objective-C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-12T03:23:14Z",
+      "stars": 13520,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/darlinghq/darling#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: emulation.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

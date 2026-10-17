@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 459 projects organized into 71 categories.
+- 463 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -19,7 +19,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-16. 449 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-17. 453 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -37,7 +37,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Discord & TeamSpeak](#discord--teamspeak) (29)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
-- [PlayStation & emulation](#playstation--emulation) (18)
+- [PlayStation & emulation](#playstation--emulation) (20)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (25)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
@@ -66,7 +66,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
-- [Other software & utilities](#other-software--utilities) (4)
+- [Other software & utilities](#other-software--utilities) (6)
 
 ## Anime, streaming & tracking
 
@@ -241,6 +241,8 @@ In the initial collection, the only project without an available README was [Sle
 - [NookieAI/PS4-Vault](https://github.com/NookieAI/PS4-Vault) — Electron app to scan, organize, and wirelessly install PS4 PKG game files to a jailbroken console via GoldHEN/etaHEN (Windows, macOS, Linux)
 - [Gezine/Y2JB](https://github.com/Gezine/Y2JB) — A PS5 userland code-execution research project involving the YouTube application.
 - [DrYenyen/PPPwn-Tinker-GUI](https://github.com/DrYenyen/PPPwn-Tinker-GUI) — PPPwn Tinker GUI
+- [Swordpdf/PS5SX2](https://github.com/Swordpdf/PS5SX2) — A port of PCSX2 for PS5
+- [darlinghq/darling](https://github.com/darlinghq/darling) — Darwin/macOS emulation layer for Linux
 
 ## AION 2 & Where Winds Meet
 
@@ -637,6 +639,8 @@ In the initial collection, the only project without an available README was [Sle
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) — Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [portingpete/The-Darkness-Recomp](https://github.com/portingpete/The-Darkness-Recomp) — A native PC port of The Darkness (Xbox 360) for Windows, featuring DirectX 11 graphics, mouse and keyboard controls, and customizable settings.
+- [bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port](https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port) — Uncharted: The Nathan Drake Collection PC port (no game files)
+- [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) — Experimental Darling runtime patches and tools for testing the macOS League client on Linux
 
 <!-- CATALOG:END -->
 
