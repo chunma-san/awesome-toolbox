@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 463 projects organized into 71 categories.
+- 464 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -19,7 +19,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-17. 453 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-17. 454 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -66,7 +66,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
-- [Other software & utilities](#other-software--utilities) (6)
+- [Other software & utilities](#other-software--utilities) (7)
 
 ## Anime, streaming & tracking
 
@@ -641,6 +641,7 @@ In the initial collection, the only project without an available README was [Sle
 - [portingpete/The-Darkness-Recomp](https://github.com/portingpete/The-Darkness-Recomp) — A native PC port of The Darkness (Xbox 360) for Windows, featuring DirectX 11 graphics, mouse and keyboard controls, and customizable settings.
 - [bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port](https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port) — Uncharted: The Nathan Drake Collection PC port (no game files)
 - [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) — Experimental Darling runtime patches and tools for testing the macOS League client on Linux
+- [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) — Overdrive, a PS5 homebrew game store with 1,800+ games.
 
 <!-- CATALOG:END -->
 
