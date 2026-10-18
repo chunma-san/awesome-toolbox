@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 469 projects organized into 71 categories.
+- 482 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-18. 459 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-18. 472 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -45,7 +45,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Discord & TeamSpeak](#discord--teamspeak) (30)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
-- [PlayStation & emulation](#playstation--emulation) (21)
+- [PlayStation & emulation](#playstation--emulation) (31)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (25)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
@@ -60,12 +60,13 @@ In the initial collection, the only project without an available README was [Sle
 - [Development, AI & security research](#development-ai--security-research) (12)
 - [Creative tools, documents & translation](#creative-tools-documents--translation) (15)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
-- [Curated lists & learning resources](#curated-lists--learning-resources) (17)
+- [Curated lists & learning resources](#curated-lists--learning-resources) (18)
 - [TV & channel catalogs](#tv--channel-catalogs) (1)
 - [GrapheneOS & Android operating systems](#grapheneos--android-operating-systems) (4)
 - [GrapheneOS apps & browsers](#grapheneos-apps--browsers) (5)
 - [GrapheneOS infrastructure & services](#grapheneos-infrastructure--services) (7)
 - [Linux distributions & package managers](#linux-distributions--package-managers) (1)
+- [Windows compatibility & Wine](#windows-compatibility--wine) (1)
 - [Android app patching & modding](#android-app-patching--modding) (4)
 - [Camera, gallery & photo management](#camera-gallery--photo-management) (1)
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (1)
@@ -75,7 +76,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
-- [Other software & utilities](#other-software--utilities) (8)
+- [Other software & utilities](#other-software--utilities) (9)
 
 ## Anime, streaming & tracking
 
@@ -254,6 +255,16 @@ In the initial collection, the only project without an available README was [Sle
 - [Swordpdf/PS5SX2](https://github.com/Swordpdf/PS5SX2) — A port of PCSX2 for PS5
 - [darlinghq/darling](https://github.com/darlinghq/darling) — Darwin/macOS emulation layer for Linux
 - [LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc) — Native PC port of P.T. (runs from your own PS4 game files)
+- [stenzek/duckstation](https://github.com/stenzek/duckstation) — Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
+- [xemu-project/xemu](https://github.com/xemu-project/xemu) — Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
+- [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) — Experimental PlayStation Vita emulator
+- [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) — Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) — Cemu - Wii U emulator
+- [xenia-project/xenia](https://github.com/xenia-project/xenia) — Xbox 360 Emulator Research Project
+- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) — Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) — PlayStation 3 emulator and debugger
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) — PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
+- [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) — PCSX2 - The Playstation 2 Emulator
 
 ## AION 2 & Where Winds Meet
 
@@ -576,6 +587,7 @@ In the initial collection, the only project without an available README was [Sle
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) — 🍦 A well organized & frequently updated collection of apps that support material you design.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) — :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
 - [chunma-san/awesome-toolbox](https://github.com/chunma-san/awesome-toolbox) — A categorized collection of apps, self-hosted services, developer tools and gaming utilities, with a searchable web catalog.
+- [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) — Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.
 
 ## TV & channel catalogs
 
@@ -609,6 +621,10 @@ In the initial collection, the only project without an available README was [Sle
 ## Linux distributions & package managers
 
 - [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) — For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
+
+## Windows compatibility & Wine
+
+- [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) — Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 
 ## Android app patching & modding
 
@@ -659,6 +675,7 @@ In the initial collection, the only project without an available README was [Sle
 - [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) — Experimental Darling runtime patches and tools for testing the macOS League client on Linux
 - [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) — Overdrive, a PS5 homebrew game store with 1,800+ games.
 - [iExplosiveRage/DBZ-Burst-Limit-Recompiled](https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled) — Dragon Ball Z: Burst Limit Recompiled - native PC port via ReXGlue static recompilation
+- [rommapp/romm](https://github.com/rommapp/romm) — A beautiful, powerful, self-hosted ROM manager and player.
 
 <!-- CATALOG:END -->
 

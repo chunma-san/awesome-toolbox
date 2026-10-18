@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-18",
-  "total": 469,
-  "readmes": 459,
+  "total": 482,
+  "readmes": 472,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10173,6 +10173,331 @@
       "readmeUrl": "https://github.com/rohitg00/ai-engineering-from-scratch#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 470,
+      "name": "stenzek/duckstation",
+      "url": "https://github.com/stenzek/duckstation",
+      "category": "PlayStation & emulation",
+      "summary": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T12:32:41Z",
+      "stars": 10857,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/stenzek/duckstation#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: playstation, emulator.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 471,
+      "name": "mikeroyal/Steam-Deck-Guide",
+      "url": "https://github.com/mikeroyal/Steam-Deck-Guide",
+      "category": "Windows compatibility & Wine",
+      "summary": "Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2025-06-27T02:04:19Z",
+      "stars": 2201,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/mikeroyal/Steam-Deck-Guide#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: wine, proton.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 472,
+      "name": "xemu-project/xemu",
+      "url": "https://github.com/xemu-project/xemu",
+      "category": "PlayStation & emulation",
+      "summary": "Original Xbox Emulator for Windows, macOS, and Linux (Active Development)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T21:40:41Z",
+      "stars": 4198,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/xemu-project/xemu#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: emulator, emulation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 473,
+      "name": "Vita3K/Vita3K",
+      "url": "https://github.com/Vita3K/Vita3K",
+      "category": "PlayStation & emulation",
+      "summary": "Experimental PlayStation Vita emulator",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T21:27:44Z",
+      "stars": 5854,
+      "license": "GPL-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Vita3K/Vita3K#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: playstation, emulator, emulation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 474,
+      "name": "RetroPie/RetroPie-Setup",
+      "url": "https://github.com/RetroPie/RetroPie-Setup",
+      "category": "PlayStation & emulation",
+      "summary": "Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Shell",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T18:39:19Z",
+      "stars": 10439,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/RetroPie/RetroPie-Setup#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: emulator, emulation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 475,
+      "name": "cemu-project/Cemu",
+      "url": "https://github.com/cemu-project/Cemu",
+      "category": "PlayStation & emulation",
+      "summary": "Cemu - Wii U emulator",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T00:10:46Z",
+      "stars": 10001,
+      "license": "MPL-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/cemu-project/Cemu#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: emulator, emulation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 476,
+      "name": "xenia-project/xenia",
+      "url": "https://github.com/xenia-project/xenia",
+      "category": "PlayStation & emulation",
+      "summary": "Xbox 360 Emulator Research Project",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-02-18T19:46:07Z",
+      "stars": 9739,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/xenia-project/xenia#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: emulator, emulation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 477,
+      "name": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "category": "Other software & utilities",
+      "summary": "A beautiful, powerful, self-hosted ROM manager and player.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T21:32:59Z",
+      "stars": 13926,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/rommapp/romm#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 478,
+      "name": "dolphin-emu/dolphin",
+      "url": "https://github.com/dolphin-emu/dolphin",
+      "category": "PlayStation & emulation",
+      "summary": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T18:26:42Z",
+      "stars": 15684,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/dolphin-emu/dolphin#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: emulator, emulation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 479,
+      "name": "RPCS3/rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3",
+      "category": "PlayStation & emulation",
+      "summary": "PlayStation 3 emulator and debugger",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T15:35:54Z",
+      "stars": 20123,
+      "license": "GPL-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/RPCS3/rpcs3#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: playstation, emulator, emulation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 480,
+      "name": "shadps4-emu/shadPS4",
+      "url": "https://github.com/shadps4-emu/shadPS4",
+      "category": "PlayStation & emulation",
+      "summary": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T16:49:34Z",
+      "stars": 33730,
+      "license": "GPL-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/shadps4-emu/shadPS4#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: playstation, ps4, emulator, emulation, shadps4.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 481,
+      "name": "PCSX2/pcsx2",
+      "url": "https://github.com/PCSX2/pcsx2",
+      "category": "PlayStation & emulation",
+      "summary": "PCSX2 - The Playstation 2 Emulator",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-17T14:00:26Z",
+      "stars": 15846,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/PCSX2/pcsx2#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: playstation, emulator, emulation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 482,
+      "name": "SubmitGame/awesome-decomp-games",
+      "url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "category": "Curated lists & learning resources",
+      "summary": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T10:14:49Z",
+      "stars": 1738,
+      "license": "CC0-1.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/SubmitGame/awesome-decomp-games#readme",
+      "notes": [
+        "Categorized as a curated collection from its name or awesome-list topic.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
