@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-18",
-  "total": 482,
-  "readmes": 472,
+  "total": 483,
+  "readmes": 473,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10498,6 +10498,34 @@
       "readmeUrl": "https://github.com/SubmitGame/awesome-decomp-games#readme",
       "notes": [
         "Categorized as a curated collection from its name or awesome-list topic.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 483,
+      "name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "category": "Development, AI & security research",
+      "summary": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T21:59:11Z",
+      "stars": 37064,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/tashfeenahmed/freellmapi#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
