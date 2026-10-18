@@ -665,3 +665,13 @@ Open `index.html` in a browser. After editing `catalog.json` or `catalog.templat
 ## License
 
 Original catalog code and editorial content are available under the MIT license. Linked projects, their names and trademarks remain the property of their respective owners and retain their own licenses.
+
+<!-- CAT-COUNTER:START -->
+## Project visits
+
+<p align="center">
+  <img src="https://count.himiku.com/@chunma-awesome-toolbox-b3f599?theme=capoo-2&amp;padding=6&amp;scale=0.8&amp;darkmode=1" alt="Cute cat project visits counter" />
+</p>
+
+*Approximate README image loads since October 2026, not unique people. GitHub image caching and automated requests affect this count.*
+<!-- CAT-COUNTER:END -->
