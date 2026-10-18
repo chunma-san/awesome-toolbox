@@ -466,3 +466,4 @@
 "LoreanXavier/pt-pc","PlayStation & emulation","Native PC port of P.T. (runs from your own PS4 game files)","Windows, Linux, macOS","False","False","2026-10-16T01:12:11Z","retrieved","https://github.com/LoreanXavier/pt-pc"
 "iExplosiveRage/DBZ-Burst-Limit-Recompiled","Other software & utilities","Dragon Ball Z: Burst Limit Recompiled - native PC port via ReXGlue static recompilation","Windows, Linux","False","False","2026-10-15T16:27:55Z","retrieved","https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled"
 "Tyrrrz/DiscordChatExporter","Discord & TeamSpeak","Saves Discord chat logs to a file","macOS, Docker","False","False","2026-10-17T10:19:58Z","retrieved","https://github.com/Tyrrrz/DiscordChatExporter"
+"termux/termux-app","CLI, terminal & shell tools","Termux - a terminal emulator application for Android OS extendible by variety of packages.","Linux, Android","False","False","2026-09-26T05:11:44Z","retrieved","https://github.com/termux/termux-app"

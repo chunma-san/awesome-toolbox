@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 467 projects organized into 71 categories.
+- 468 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -19,7 +19,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-17. 457 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-18. 458 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -60,6 +60,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Linux distributions & package managers](#linux-distributions--package-managers) (1)
 - [Android app patching & modding](#android-app-patching--modding) (4)
 - [Camera, gallery & photo management](#camera-gallery--photo-management) (1)
+- [CLI, terminal & shell tools](#cli-terminal--shell-tools) (1)
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (1)
 - [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
 - [Git, CI & release automation](#git-ci--release-automation) (1)
@@ -610,6 +611,10 @@ In the initial collection, the only project without an available README was [Sle
 ## Camera, gallery & photo management
 
 - [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) — Media Gallery app for Android made with Jetpack Compose
+
+## CLI, terminal & shell tools
+
+- [termux/termux-app](https://github.com/termux/termux-app) — Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## AI assistants & coding tools
 

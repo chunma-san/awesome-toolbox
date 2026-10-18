@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-10-17",
-  "total": 467,
-  "readmes": 457,
+  "snapshot": "2026-10-18",
+  "total": 468,
+  "readmes": 458,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10123,6 +10123,30 @@
       "readmeUrl": "https://github.com/Tyrrrz/DiscordChatExporter#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 468,
+      "name": "termux/termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "category": "CLI, terminal & shell tools",
+      "summary": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Android"
+      ],
+      "language": "Java",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-09-26T05:11:44Z",
+      "stars": 62849,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/termux/termux-app#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: terminal emulator.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
