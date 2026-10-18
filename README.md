@@ -8,7 +8,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 468 projects organized into 71 categories.
+- 469 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -19,7 +19,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-18. 458 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-18. 459 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -49,7 +49,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (12)
 - [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (13)
-- [Development, AI & security research](#development-ai--security-research) (11)
+- [Development, AI & security research](#development-ai--security-research) (12)
 - [Creative tools, documents & translation](#creative-tools-documents--translation) (15)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
 - [Curated lists & learning resources](#curated-lists--learning-resources) (17)
@@ -514,6 +514,7 @@ In the initial collection, the only project without an available README was [Sle
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) — An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) — Direct Memory Access (DMA) Attack Software
 - [cursor/cursor](https://github.com/cursor/cursor) — The Cursor AI code editor repository, used for product links, support and issue reporting.
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — Learn AI Engineering! Learn it. Build it. Ship it for others.
 
 ## Creative tools, documents & translation
 

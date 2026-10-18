@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-18",
-  "total": 468,
-  "readmes": 458,
+  "total": 469,
+  "readmes": 459,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10147,6 +10147,32 @@
       "readmeUrl": "https://github.com/termux/termux-app#readme",
       "notes": [
         "Categorized from the more specific metadata phrase: terminal emulator.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 469,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "category": "Development, AI & security research",
+      "summary": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T16:13:52Z",
+      "stars": 70937,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/rohitg00/ai-engineering-from-scratch#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
