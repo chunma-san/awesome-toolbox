@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 483 projects organized into 71 categories.
+- 485 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-18. 473 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-18. 475 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -69,6 +69,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Windows compatibility & Wine](#windows-compatibility--wine) (1)
 - [Android app patching & modding](#android-app-patching--modding) (4)
 - [Camera, gallery & photo management](#camera-gallery--photo-management) (1)
+- [Containers & orchestration](#containers--orchestration) (1)
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (1)
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (1)
 - [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
@@ -76,7 +77,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
-- [Other software & utilities](#other-software--utilities) (9)
+- [Other software & utilities](#other-software--utilities) (10)
 
 ## Anime, streaming & tracking
 
@@ -638,6 +639,10 @@ In the initial collection, the only project without an available README was [Sle
 
 - [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) — Media Gallery app for Android made with Jetpack Compose
 
+## Containers & orchestration
+
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) — Various Docker Compose examples of selfhosted FOSS and proprietary projects.
+
 ## CLI, terminal & shell tools
 
 - [termux/termux-app](https://github.com/termux/termux-app) — Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -677,6 +682,7 @@ In the initial collection, the only project without an available README was [Sle
 - [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) — Overdrive, a PS5 homebrew game store with 1,800+ games.
 - [iExplosiveRage/DBZ-Burst-Limit-Recompiled](https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled) — Dragon Ball Z: Burst Limit Recompiled - native PC port via ReXGlue static recompilation
 - [rommapp/romm](https://github.com/rommapp/romm) — A beautiful, powerful, self-hosted ROM manager and player.
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) — A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 
 <!-- CATALOG:END -->
 

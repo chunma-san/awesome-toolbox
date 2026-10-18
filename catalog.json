@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-18",
-  "total": 483,
-  "readmes": 473,
+  "total": 485,
+  "readmes": 475,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10526,6 +10526,57 @@
       "readmeUrl": "https://github.com/tashfeenahmed/freellmapi#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 484,
+      "name": "Haxxnet/Compose-Examples",
+      "url": "https://github.com/Haxxnet/Compose-Examples",
+      "category": "Containers & orchestration",
+      "summary": "Various Docker Compose examples of selfhosted FOSS and proprietary projects.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T11:15:01Z",
+      "stars": 7399,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Haxxnet/Compose-Examples#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: docker compose.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 485,
+      "name": "homarr-labs/homarr",
+      "url": "https://github.com/homarr-labs/homarr",
+      "category": "Other software & utilities",
+      "summary": "A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T01:49:43Z",
+      "stars": 5132,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/homarr-labs/homarr#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
