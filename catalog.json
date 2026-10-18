@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-18",
-  "total": 485,
-  "readmes": 475,
+  "total": 486,
+  "readmes": 476,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10577,6 +10577,34 @@
       "readmeUrl": "https://github.com/homarr-labs/homarr#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 486,
+      "name": "AwesomeHomelab/awesome-homelab",
+      "url": "https://github.com/AwesomeHomelab/awesome-homelab",
+      "category": "Curated lists & learning resources",
+      "summary": "Curating Top Open Source Apps for Homelab Enthusiasts",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T00:04:15Z",
+      "stars": 2597,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/AwesomeHomelab/awesome-homelab#readme",
+      "notes": [
+        "Categorized as a curated collection from its name or awesome-list topic.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 485 projects organized into 71 categories.
+- 486 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-18. 475 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-18. 476 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -60,7 +60,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Development, AI & security research](#development-ai--security-research) (13)
 - [Creative tools, documents & translation](#creative-tools-documents--translation) (15)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
-- [Curated lists & learning resources](#curated-lists--learning-resources) (18)
+- [Curated lists & learning resources](#curated-lists--learning-resources) (19)
 - [TV & channel catalogs](#tv--channel-catalogs) (1)
 - [GrapheneOS & Android operating systems](#grapheneos--android-operating-systems) (4)
 - [GrapheneOS apps & browsers](#grapheneos-apps--browsers) (5)
@@ -590,6 +590,7 @@ In the initial collection, the only project without an available README was [Sle
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) — :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
 - [chunma-san/awesome-toolbox](https://github.com/chunma-san/awesome-toolbox) — A categorized collection of apps, self-hosted services, developer tools and gaming utilities, with a searchable web catalog.
 - [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) — Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.
+- [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) — Curating Top Open Source Apps for Homelab Enthusiasts
 
 ## TV & channel catalogs
 
