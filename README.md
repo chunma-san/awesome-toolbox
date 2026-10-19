@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 489 projects organized into 71 categories.
+- 490 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-19. 479 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-19. 480 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -78,7 +78,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
 - [Game engines & development](#game-engines--development) (1)
-- [Other software & utilities](#other-software--utilities) (11)
+- [Other software & utilities](#other-software--utilities) (12)
 
 ## Anime, streaming & tracking
 
@@ -691,6 +691,7 @@ In the initial collection, the only project without an available README was [Sle
 - [rommapp/romm](https://github.com/rommapp/romm) — A beautiful, powerful, self-hosted ROM manager and player.
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) — A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [vladtrc/iw4L](https://github.com/vladtrc/iw4L) — Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
+- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) — A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
 
 <!-- CATALOG:END -->
 

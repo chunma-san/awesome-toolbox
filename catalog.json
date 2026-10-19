@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-19",
-  "total": 489,
-  "readmes": 479,
+  "total": 490,
+  "readmes": 480,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10676,6 +10676,32 @@
       "readmeUrl": "https://github.com/vladtrc/iw4L#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 490,
+      "name": "hrydgard/ppsspp",
+      "url": "https://github.com/hrydgard/ppsspp",
+      "category": "Other software & utilities",
+      "summary": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-19T11:59:24Z",
+      "stars": 14691,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/hrydgard/ppsspp#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
