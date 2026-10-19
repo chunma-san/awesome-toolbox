@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 487 projects organized into 71 categories.
+- 489 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-19. 477 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-19. 479 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -77,7 +77,8 @@ In the initial collection, the only project without an available README was [Sle
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
-- [Other software & utilities](#other-software--utilities) (10)
+- [Game engines & development](#game-engines--development) (1)
+- [Other software & utilities](#other-software--utilities) (11)
 
 ## Anime, streaming & tracking
 
@@ -673,6 +674,10 @@ In the initial collection, the only project without an available README was [Sle
 
 - [uazo/cromite](https://github.com/uazo/cromite) — Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 
+## Game engines & development
+
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) — A refreshingly simple data-driven game engine built in Rust
+
 ## Other software & utilities
 
 - [chunma-san/discord-companion](https://github.com/chunma-san/discord-companion) — An anime and manga Discord companion with chapter alerts, GrapheneOS news and a private link library.
@@ -685,6 +690,7 @@ In the initial collection, the only project without an available README was [Sle
 - [iExplosiveRage/DBZ-Burst-Limit-Recompiled](https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled) — Dragon Ball Z: Burst Limit Recompiled - native PC port via ReXGlue static recompilation
 - [rommapp/romm](https://github.com/rommapp/romm) — A beautiful, powerful, self-hosted ROM manager and player.
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) — A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+- [vladtrc/iw4L](https://github.com/vladtrc/iw4L) — Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
 
 <!-- CATALOG:END -->
 

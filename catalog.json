@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-19",
-  "total": 487,
-  "readmes": 477,
+  "total": 489,
+  "readmes": 479,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10630,6 +10630,52 @@
       "readmeUrl": "https://github.com/azukaar/Cosmos-Server#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: self-hosted, selfhosted, reverse proxy.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 488,
+      "name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "category": "Game engines & development",
+      "summary": "A refreshingly simple data-driven game engine built in Rust",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-19T00:05:58Z",
+      "stars": 49121,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/bevyengine/bevy#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: game engine, game development.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 489,
+      "name": "vladtrc/iw4L",
+      "url": "https://github.com/vladtrc/iw4L",
+      "category": "Other software & utilities",
+      "summary": "Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-16T14:32:02Z",
+      "stars": 1092,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/vladtrc/iw4L#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
