@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-19",
-  "total": 491,
-  "readmes": 481,
+  "total": 492,
+  "readmes": 482,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10726,6 +10726,34 @@
       "readmeUrl": "https://github.com/Ansub/tv-detox#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: android.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 492,
+      "name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "category": "Other software & utilities",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Go",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-19T18:39:07Z",
+      "stars": 183851,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ollama/ollama#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
