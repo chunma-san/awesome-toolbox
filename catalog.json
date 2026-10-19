@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-10-18",
-  "total": 486,
-  "readmes": 476,
+  "snapshot": "2026-10-19",
+  "total": 487,
+  "readmes": 477,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10605,6 +10605,31 @@
       "readmeUrl": "https://github.com/AwesomeHomelab/awesome-homelab#readme",
       "notes": [
         "Categorized as a curated collection from its name or awesome-list topic.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 487,
+      "name": "azukaar/Cosmos-Server",
+      "url": "https://github.com/azukaar/Cosmos-Server",
+      "category": "Self-hosting, feeds & infrastructure",
+      "summary": "☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Go",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-09T22:54:52Z",
+      "stars": 6188,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/azukaar/Cosmos-Server#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: self-hosted, selfhosted, reverse proxy.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

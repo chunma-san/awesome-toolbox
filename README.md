@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 486 projects organized into 71 categories.
+- 487 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-18. 476 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-19. 477 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -56,7 +56,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Privacy, DNS & security](#privacy-dns--security) (22)
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (12)
-- [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (13)
+- [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (14)
 - [Development, AI & security research](#development-ai--security-research) (13)
 - [Creative tools, documents & translation](#creative-tools-documents--translation) (15)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
@@ -520,6 +520,7 @@ In the initial collection, the only project without an available README was [Sle
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) — Proxmox VE Helper-Scripts (Community Edition) 
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) — Updated list of public BitTorrent trackers
 - [ellite/Wallos](https://github.com/ellite/Wallos) — Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) — ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot)
 
 ## Development, AI & security research
 
