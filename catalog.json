@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-19",
-  "total": 490,
-  "readmes": 480,
+  "total": 491,
+  "readmes": 481,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10702,6 +10702,30 @@
       "readmeUrl": "https://github.com/hrydgard/ppsspp#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 491,
+      "name": "Ansub/tv-detox",
+      "url": "https://github.com/Ansub/tv-detox",
+      "category": "Android apps & launchers",
+      "summary": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Android"
+      ],
+      "language": "Java",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-19T16:53:42Z",
+      "stars": 393,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Ansub/tv-detox#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: android.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
