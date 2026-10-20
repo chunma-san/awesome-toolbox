@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-20",
-  "total": 494,
-  "readmes": 484,
+  "total": 495,
+  "readmes": 485,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10805,6 +10805,31 @@
       "readmeUrl": "https://github.com/Gathin23/cleanyourtv#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: privacy, adblock.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 495,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "category": "Other software & utilities",
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-19T23:06:46Z",
+      "stars": 152817,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/anthropics/claude-code#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
