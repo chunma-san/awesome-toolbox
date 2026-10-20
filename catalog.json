@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-10-19",
-  "total": 492,
-  "readmes": 482,
+  "snapshot": "2026-10-20",
+  "total": 494,
+  "readmes": 484,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10754,6 +10754,57 @@
       "readmeUrl": "https://github.com/ollama/ollama#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 493,
+      "name": "YuJunZhiXue/dsh-purge",
+      "url": "https://github.com/YuJunZhiXue/dsh-purge",
+      "category": "Development, AI & security research",
+      "summary": "A project related to development, ai & security research; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-19T13:53:37Z",
+      "stars": 9062,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/YuJunZhiXue/dsh-purge#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 494,
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "category": "Privacy, DNS & security",
+      "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "Java",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-20T01:24:39Z",
+      "stars": 5597,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Gathin23/cleanyourtv#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: privacy, adblock.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
