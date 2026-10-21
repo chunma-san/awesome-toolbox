@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 497 projects organized into 71 categories.
+- 499 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-21. 487 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-21. 489 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -53,7 +53,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Android apps & launchers](#android-apps--launchers) (34)
 - [Android root, patches & stores](#android-root-patches--stores) (29)
 - [Browsers & web extensions](#browsers--web-extensions) (21)
-- [Privacy, DNS & security](#privacy-dns--security) (23)
+- [Privacy, DNS & security](#privacy-dns--security) (24)
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (12)
 - [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (14)
@@ -76,7 +76,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Git, CI & release automation](#git-ci--release-automation) (1)
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
-- [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
+- [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
 - [Other software & utilities](#other-software--utilities) (16)
 
@@ -479,6 +479,7 @@ In the initial collection, the only project without an available README was [Sle
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) — The Mullvad VPN client app for desktop and mobile
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) — DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) — Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+- [lovelaze/nebula-sync](https://github.com/lovelaze/nebula-sync) — Synchronize configuration of multiple Pi-hole v6.x instances.
 
 ## Messaging & file sharing
 
@@ -676,6 +677,7 @@ In the initial collection, the only project without an available README was [Sle
 ## Browser privacy & ad blocking
 
 - [uazo/cromite](https://github.com/uazo/cromite) — Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
+- [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) — 🛡️ Synchronize AdGuard Home config to replicas
 
 ## Game engines & development
 
