@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-10-20",
-  "total": 495,
-  "readmes": 485,
+  "snapshot": "2026-10-21",
+  "total": 496,
+  "readmes": 486,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10832,6 +10832,28 @@
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
+    },
+    {
+      "number": 496,
+      "name": "chunma-san/chunma-website",
+      "url": "https://github.com/chunma-san/chunma-website",
+      "category": "Other software & utilities",
+      "summary": "My personal website: black and crimson ASCII terminal, library, and public projects.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-21T19:45:24Z",
+      "stars": 0,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/chunma-website#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
     }
   ]
 }

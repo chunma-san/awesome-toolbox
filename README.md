@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 495 projects organized into 71 categories.
+- 496 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-20. 485 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-21. 486 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -78,7 +78,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (1)
 - [Game engines & development](#game-engines--development) (1)
-- [Other software & utilities](#other-software--utilities) (14)
+- [Other software & utilities](#other-software--utilities) (15)
 
 ## Anime, streaming & tracking
 
@@ -697,6 +697,7 @@ In the initial collection, the only project without an available README was [Sle
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) — A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
 - [ollama/ollama](https://github.com/ollama/ollama) — Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [chunma-san/chunma-website](https://github.com/chunma-san/chunma-website) — My personal website: black and crimson ASCII terminal, library, and public projects.
 
 <!-- CATALOG:END -->
 
