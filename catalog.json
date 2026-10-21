@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-21",
-  "total": 496,
-  "readmes": 486,
+  "total": 497,
+  "readmes": 487,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10854,6 +10854,27 @@
         "Descriptive import only; no software was installed, executed or security-audited."
       ],
       "owned": true
+    },
+    {
+      "number": 497,
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "category": "Other software & utilities",
+      "summary": "DeepSeek Harness: Everything is a Plugin.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-17T08:16:09Z",
+      "stars": 256947,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/deepseek-ai/deepseek-harness#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
     }
   ]
 }
