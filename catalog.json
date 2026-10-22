@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-22",
-  "total": 510,
-  "readmes": 500,
+  "total": 511,
+  "readmes": 501,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11194,6 +11194,32 @@
       "readmeUrl": "https://github.com/karakeep-app/karakeep#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: bookmark manager, read it later.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 511,
+      "name": "FlareSolverr/FlareSolverr",
+      "url": "https://github.com/FlareSolverr/FlareSolverr",
+      "category": "VPN, proxies & tunnels",
+      "summary": "Proxy server to bypass Cloudflare protection",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T06:27:14Z",
+      "stars": 16003,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/FlareSolverr/FlareSolverr#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: proxy server.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

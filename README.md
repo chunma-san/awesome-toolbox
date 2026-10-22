@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 510 projects organized into 71 categories.
+- 511 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-22. 500 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-22. 501 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -70,6 +70,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Android app patching & modding](#android-app-patching--modding) (4)
 - [Camera, gallery & photo management](#camera-gallery--photo-management) (1)
 - [RSS, news & bookmarking](#rss-news--bookmarking) (1)
+- [VPN, proxies & tunnels](#vpn-proxies--tunnels) (1)
 - [Containers & orchestration](#containers--orchestration) (1)
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (1)
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (1)
@@ -658,6 +659,10 @@ In the initial collection, the only project without an available README was [Sle
 ## RSS, news & bookmarking
 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) — A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+
+## VPN, proxies & tunnels
+
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) — Proxy server to bypass Cloudflare protection
 
 ## Containers & orchestration
 
