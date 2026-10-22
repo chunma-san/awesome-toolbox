@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-22",
-  "total": 500,
-  "readmes": 490,
+  "total": 510,
+  "readmes": 500,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10943,6 +10943,257 @@
       "readmeUrl": "https://github.com/cloudflare/security-audit-skill#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 501,
+      "name": "Phalcode/gamevault-backend",
+      "url": "https://github.com/Phalcode/gamevault-backend",
+      "category": "Self-hosting, feeds & infrastructure",
+      "summary": "Backend for the self-hosted gaming platform for drm-free games",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-19T13:10:13Z",
+      "stars": 327,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Phalcode/gamevault-backend#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: self-hosted.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 502,
+      "name": "alam00000/bentopdf",
+      "url": "https://github.com/alam00000/bentopdf",
+      "category": "Creative tools, documents & translation",
+      "summary": "The Privacy First PDF Toolkit",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-22T09:34:49Z",
+      "stars": 16125,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/alam00000/bentopdf#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: pdf editor.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 503,
+      "name": "gchq/CyberChef",
+      "url": "https://github.com/gchq/CyberChef",
+      "category": "Privacy, DNS & security",
+      "summary": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker"
+      ],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-19T04:15:56Z",
+      "stars": 36183,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/gchq/CyberChef#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: encryption.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 504,
+      "name": "music-assistant/server",
+      "url": "https://github.com/music-assistant/server",
+      "category": "Device firmware & embedded systems",
+      "summary": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Docker"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-22T16:40:23Z",
+      "stars": 3216,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/music-assistant/server#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: raspberry pi.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 505,
+      "name": "chrisbenincasa/tunarr",
+      "url": "https://github.com/chrisbenincasa/tunarr",
+      "category": "Media servers & streaming infrastructure",
+      "summary": "Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-21T20:01:30Z",
+      "stars": 2661,
+      "license": "Zlib",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chrisbenincasa/tunarr#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: jellyfin, emby.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 506,
+      "name": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "category": "Self-hosting, feeds & infrastructure",
+      "summary": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Go",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-22T17:26:33Z",
+      "stars": 26438,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/henrygd/beszel#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: self-hosted, homelab.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 507,
+      "name": "LizardByte/Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "category": "Networking, virtualization & remote access",
+      "summary": "Self-hosted game stream host for Moonlight.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-22T11:34:46Z",
+      "stars": 42512,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/LizardByte/Sunshine#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: remote desktop.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 508,
+      "name": "dgtlmoon/changedetection.io",
+      "url": "https://github.com/dgtlmoon/changedetection.io",
+      "category": "Self-hosting, feeds & infrastructure",
+      "summary": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-19T10:32:32Z",
+      "stars": 35210,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/dgtlmoon/changedetection.io#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: self-hosted, rss.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 509,
+      "name": "ItzCrazyKns/Vane",
+      "url": "https://github.com/ItzCrazyKns/Vane",
+      "category": "Other software & utilities",
+      "summary": "Vane is an AI-powered answering engine.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-09-01T14:12:12Z",
+      "stars": 37641,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ItzCrazyKns/Vane#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 510,
+      "name": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "category": "RSS, news & bookmarking",
+      "summary": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-22T07:21:19Z",
+      "stars": 29894,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/karakeep-app/karakeep#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: bookmark manager, read it later.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

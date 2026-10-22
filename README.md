@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 500 projects organized into 71 categories.
+- 510 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-22. 490 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-22. 500 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -53,12 +53,12 @@ In the initial collection, the only project without an available README was [Sle
 - [Android apps & launchers](#android-apps--launchers) (34)
 - [Android root, patches & stores](#android-root-patches--stores) (29)
 - [Browsers & web extensions](#browsers--web-extensions) (21)
-- [Privacy, DNS & security](#privacy-dns--security) (24)
+- [Privacy, DNS & security](#privacy-dns--security) (25)
 - [Messaging & file sharing](#messaging--file-sharing) (10)
-- [Networking, virtualization & remote access](#networking-virtualization--remote-access) (12)
-- [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (14)
+- [Networking, virtualization & remote access](#networking-virtualization--remote-access) (13)
+- [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (17)
 - [Development, AI & security research](#development-ai--security-research) (14)
-- [Creative tools, documents & translation](#creative-tools-documents--translation) (15)
+- [Creative tools, documents & translation](#creative-tools-documents--translation) (16)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
 - [Curated lists & learning resources](#curated-lists--learning-resources) (19)
 - [TV & channel catalogs](#tv--channel-catalogs) (1)
@@ -69,6 +69,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Windows compatibility & Wine](#windows-compatibility--wine) (1)
 - [Android app patching & modding](#android-app-patching--modding) (4)
 - [Camera, gallery & photo management](#camera-gallery--photo-management) (1)
+- [RSS, news & bookmarking](#rss-news--bookmarking) (1)
 - [Containers & orchestration](#containers--orchestration) (1)
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (1)
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (1)
@@ -76,9 +77,11 @@ In the initial collection, the only project without an available README was [Sle
 - [Git, CI & release automation](#git-ci--release-automation) (1)
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
+- [Media servers & streaming infrastructure](#media-servers--streaming-infrastructure) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
-- [Other software & utilities](#other-software--utilities) (17)
+- [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
+- [Other software & utilities](#other-software--utilities) (18)
 
 ## Anime, streaming & tracking
 
@@ -480,6 +483,7 @@ In the initial collection, the only project without an available README was [Sle
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) — DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) — Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [lovelaze/nebula-sync](https://github.com/lovelaze/nebula-sync) — Synchronize configuration of multiple Pi-hole v6.x instances.
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) — The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 ## Messaging & file sharing
 
@@ -508,6 +512,7 @@ In the initial collection, the only project without an available README was [Sle
 - [liriliri/aya](https://github.com/liriliri/aya) — Android ADB desktop app
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) — Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) — Android real-time display control software
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) — Self-hosted game stream host for Moonlight.
 
 ## Self-hosting, feeds & infrastructure
 
@@ -525,6 +530,9 @@ In the initial collection, the only project without an available README was [Sle
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) — Updated list of public BitTorrent trackers
 - [ellite/Wallos](https://github.com/ellite/Wallos) — Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) — ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot)
+- [Phalcode/gamevault-backend](https://github.com/Phalcode/gamevault-backend) — Backend for the self-hosted gaming platform for drm-free games
+- [henrygd/beszel](https://github.com/henrygd/beszel) — Lightweight server monitoring with historical data, docker stats, and alerts.
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 
 ## Development, AI & security research
 
@@ -560,6 +568,7 @@ In the initial collection, the only project without an available README was [Sle
 - [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) — A visual-novel and screen-text translation tool with multiple text capture and translation integrations.
 - [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) — Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) — real time face swap and one-click video deepfake with only a single image
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) — The Privacy First PDF Toolkit
 
 ## Account tools, activation & verification
 
@@ -646,6 +655,10 @@ In the initial collection, the only project without an available README was [Sle
 
 - [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) — Media Gallery app for Android made with Jetpack Compose
 
+## RSS, news & bookmarking
+
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) — A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+
 ## Containers & orchestration
 
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) — Various Docker Compose examples of selfhosted FOSS and proprietary projects.
@@ -674,6 +687,10 @@ In the initial collection, the only project without an available README was [Sle
 
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) — A Download Manager that speeds up your downloads
 
+## Media servers & streaming infrastructure
+
+- [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) — Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
+
 ## Browser privacy & ad blocking
 
 - [uazo/cromite](https://github.com/uazo/cromite) — Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
@@ -682,6 +699,10 @@ In the initial collection, the only project without an available README was [Sle
 ## Game engines & development
 
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) — A refreshingly simple data-driven game engine built in Rust
+
+## Device firmware & embedded systems
+
+- [music-assistant/server](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
 
 ## Other software & utilities
 
@@ -702,6 +723,7 @@ In the initial collection, the only project without an available README was [Sle
 - [chunma-san/chunma-website](https://github.com/chunma-san/chunma-website) — My personal website: black and crimson ASCII terminal, library, and public projects.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin.
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+- [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) — Vane is an AI-powered answering engine.
 
 <!-- CATALOG:END -->
 
