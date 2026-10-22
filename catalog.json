@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-10-21",
-  "total": 499,
-  "readmes": 489,
+  "snapshot": "2026-10-22",
+  "total": 500,
+  "readmes": 490,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -10922,6 +10922,27 @@
       "readmeUrl": "https://github.com/bakito/adguardhome-sync#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: adguard.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 500,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "category": "Other software & utilities",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-09-14T19:29:02Z",
+      "stars": 36978,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/cloudflare/security-audit-skill#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

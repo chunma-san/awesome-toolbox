@@ -498,3 +498,4 @@
 "deepseek-ai/deepseek-harness","Other software & utilities","DeepSeek Harness: Everything is a Plugin.","","False","False","2026-10-17T08:16:09Z","retrieved","https://github.com/deepseek-ai/deepseek-harness"
 "lovelaze/nebula-sync","Privacy, DNS & security","Synchronize configuration of multiple Pi-hole v6.x instances.","Linux, Docker","False","False","2026-10-21T01:55:26Z","retrieved","https://github.com/lovelaze/nebula-sync"
 "bakito/adguardhome-sync","Browser privacy & ad blocking","🛡️ Synchronize AdGuard Home config to replicas","Windows, Linux, Docker","False","False","2026-10-20T16:32:37Z","retrieved","https://github.com/bakito/adguardhome-sync"
+"cloudflare/security-audit-skill","Other software & utilities","A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings","","False","False","2026-09-14T19:29:02Z","retrieved","https://github.com/cloudflare/security-audit-skill"

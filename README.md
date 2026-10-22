@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 499 projects organized into 71 categories.
+- 500 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-21. 489 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-22. 490 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -78,7 +78,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
-- [Other software & utilities](#other-software--utilities) (16)
+- [Other software & utilities](#other-software--utilities) (17)
 
 ## Anime, streaming & tracking
 
@@ -701,6 +701,7 @@ In the initial collection, the only project without an available README was [Sle
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [chunma-san/chunma-website](https://github.com/chunma-san/chunma-website) — My personal website: black and crimson ASCII terminal, library, and public projects.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin.
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 <!-- CATALOG:END -->
 
