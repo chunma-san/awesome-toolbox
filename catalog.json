@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-10-22",
-  "total": 511,
-  "readmes": 501,
+  "snapshot": "2026-10-23",
+  "total": 513,
+  "readmes": 503,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11220,6 +11220,53 @@
       "readmeUrl": "https://github.com/FlareSolverr/FlareSolverr#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: proxy server.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 512,
+      "name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "category": "Other software & utilities",
+      "summary": "bluetooth mesh chat, IRC vibes",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "macOS"
+      ],
+      "language": "Swift",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T06:11:03Z",
+      "stars": 36700,
+      "license": "Unlicense",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/permissionlesstech/bitchat#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 513,
+      "name": "K0NL/B2recomp",
+      "url": "https://github.com/K0NL/B2recomp",
+      "category": "APIs, SDKs & integrations",
+      "summary": "Unofficial static recompilation of Bayonetta 2 (Switch) for Windows. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-22T21:02:32Z",
+      "stars": 365,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/K0NL/B2recomp#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: sdk.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

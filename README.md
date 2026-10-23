@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 511 projects organized into 71 categories.
+- 513 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-22. 501 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-23. 503 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -72,6 +72,7 @@ In the initial collection, the only project without an available README was [Sle
 - [RSS, news & bookmarking](#rss-news--bookmarking) (1)
 - [VPN, proxies & tunnels](#vpn-proxies--tunnels) (1)
 - [Containers & orchestration](#containers--orchestration) (1)
+- [APIs, SDKs & integrations](#apis-sdks--integrations) (1)
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (1)
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (1)
 - [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
@@ -82,7 +83,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
-- [Other software & utilities](#other-software--utilities) (18)
+- [Other software & utilities](#other-software--utilities) (19)
 
 ## Anime, streaming & tracking
 
@@ -668,6 +669,10 @@ In the initial collection, the only project without an available README was [Sle
 
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) — Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 
+## APIs, SDKs & integrations
+
+- [K0NL/B2recomp](https://github.com/K0NL/B2recomp) — Unofficial static recompilation of Bayonetta 2 (Switch) for Windows. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.
+
 ## CLI, terminal & shell tools
 
 - [termux/termux-app](https://github.com/termux/termux-app) — Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -729,6 +734,7 @@ In the initial collection, the only project without an available README was [Sle
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin.
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) — Vane is an AI-powered answering engine.
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) — bluetooth mesh chat, IRC vibes
 
 <!-- CATALOG:END -->
 
