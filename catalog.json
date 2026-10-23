@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-23",
-  "total": 516,
-  "readmes": 506,
+  "total": 517,
+  "readmes": 507,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11337,6 +11337,29 @@
       "license": "GPL-3.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/ytmdesktop/ytmdesktop#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: music, music player.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 517,
+      "name": "rukamori/ArchiveTune",
+      "url": "https://github.com/rukamori/ArchiveTune",
+      "category": "Music, podcasts & media players",
+      "summary": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-23T18:41:47Z",
+      "stars": 7512,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/rukamori/ArchiveTune#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: music, music player.",
         "Descriptive import only; no software was installed, executed or security-audited."

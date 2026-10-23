@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 516 projects organized into 71 categories.
+- 517 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-23. 506 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-23. 507 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -40,7 +40,7 @@ In the initial collection, the only project without an available README was [Sle
 
 - [Anime, streaming & tracking](#anime-streaming--tracking) (17)
 - [Manga, novels & reading](#manga-novels--reading) (15)
-- [Music, podcasts & media players](#music-podcasts--media-players) (29)
+- [Music, podcasts & media players](#music-podcasts--media-players) (30)
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
 - [Discord & TeamSpeak](#discord--teamspeak) (31)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
@@ -154,6 +154,7 @@ In the initial collection, the only project without an available README was [Sle
 - [chunma-san/music-metadata](https://github.com/chunma-san/music-metadata) — Music metadata matching and batch confidence reports for local audio collections.
 - [chunma-san/telegram-music](https://github.com/chunma-san/telegram-music) — A configurable Telegram audio saver with persistent processing history and local session storage.
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music
+- [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) — 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 
 ## Video downloads & media capture
 
