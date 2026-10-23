@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-23",
-  "total": 513,
-  "readmes": 503,
+  "total": 514,
+  "readmes": 504,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11267,6 +11267,27 @@
       "readmeUrl": "https://github.com/K0NL/B2recomp#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: sdk.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 514,
+      "name": "Impostor/Impostor",
+      "url": "https://github.com/Impostor/Impostor",
+      "category": "Other software & utilities",
+      "summary": "Impostor - An open source reimplementation of the Among Us Server",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-06T18:37:48Z",
+      "stars": 2374,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Impostor/Impostor#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
