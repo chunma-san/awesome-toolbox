@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-23",
-  "total": 514,
-  "readmes": 504,
+  "total": 515,
+  "readmes": 505,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11290,6 +11290,32 @@
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
+    },
+    {
+      "number": 515,
+      "name": "chunma-san/Equicord",
+      "url": "https://github.com/chunma-san/Equicord",
+      "category": "Discord & TeamSpeak",
+      "summary": "The other cutest Discord client mod",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": true,
+      "pushed": "2026-10-22T23:44:56Z",
+      "stars": 0,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/Equicord#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
     }
   ]
 }

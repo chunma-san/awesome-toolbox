@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 514 projects organized into 71 categories.
+- 515 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-23. 504 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-23. 505 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -42,7 +42,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Manga, novels & reading](#manga-novels--reading) (15)
 - [Music, podcasts & media players](#music-podcasts--media-players) (28)
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
-- [Discord & TeamSpeak](#discord--teamspeak) (30)
+- [Discord & TeamSpeak](#discord--teamspeak) (31)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
 - [PlayStation & emulation](#playstation--emulation) (31)
@@ -200,6 +200,7 @@ In the initial collection, the only project without an available README was [Sle
 - [chunma-san/teamspeak-control](https://github.com/chunma-san/teamspeak-control) — Discord controls for configured TeamSpeak audio-bot containers and an announcement timer.
 - [chunma-san/teamspeak-timer](https://github.com/chunma-san/teamspeak-timer) — Configurable TeamSpeak announcements through TS3AudioBot APIs with local timer control.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) — Saves Discord chat logs to a file
+- [chunma-san/Equicord](https://github.com/chunma-san/Equicord) — The other cutest Discord client mod
 
 ## Twitch & livestream tools
 
