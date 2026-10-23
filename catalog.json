@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-23",
-  "total": 515,
-  "readmes": 505,
+  "total": 516,
+  "readmes": 506,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11316,6 +11316,31 @@
         "Descriptive import only; no software was installed, executed or security-audited."
       ],
       "owned": true
+    },
+    {
+      "number": 516,
+      "name": "ytmdesktop/ytmdesktop",
+      "url": "https://github.com/ytmdesktop/ytmdesktop",
+      "category": "Music, podcasts & media players",
+      "summary": "A Desktop App for YouTube Music",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-23T21:29:21Z",
+      "stars": 6667,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ytmdesktop/ytmdesktop#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: music, music player.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
     }
   ]
 }
