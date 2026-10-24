@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-24",
-  "total": 519,
-  "readmes": 509,
+  "total": 520,
+  "readmes": 510,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11407,6 +11407,31 @@
       "license": "GPL-3.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/chunma-san/ChunCord-Installer#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 520,
+      "name": "chunma-san/lnreader-arabic-plugins",
+      "url": "https://github.com/chunma-san/lnreader-arabic-plugins",
+      "category": "Other software & utilities",
+      "summary": "Arabic-only LNReader plugin catalog, source maintenance and daily live checks.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android",
+        "Self-hosted"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": true,
+      "pushed": "2026-10-24T18:40:34Z",
+      "stars": 0,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/lnreader-arabic-plugins#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."

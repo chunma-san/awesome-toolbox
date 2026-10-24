@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 519 projects organized into 71 categories.
+- 520 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-24. 509 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-24. 510 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -83,7 +83,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
-- [Other software & utilities](#other-software--utilities) (22)
+- [Other software & utilities](#other-software--utilities) (23)
 
 ## Anime, streaming & tracking
 
@@ -741,6 +741,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Impostor/Impostor](https://github.com/Impostor/Impostor) — Impostor - An open source reimplementation of the Among Us Server
 - [chunma-san/ChunCord](https://github.com/chunma-san/ChunCord) — ChunCord: an Equicord fork with custom plugins, 123 selected TestCord plugins and validated upstream updates.
 - [chunma-san/ChunCord-Installer](https://github.com/chunma-san/ChunCord-Installer) — A cross platform gui/cli app for installing Equicord
+- [chunma-san/lnreader-arabic-plugins](https://github.com/chunma-san/lnreader-arabic-plugins) — Arabic-only LNReader plugin catalog, source maintenance and daily live checks.
 
 <!-- CATALOG:END -->
 
