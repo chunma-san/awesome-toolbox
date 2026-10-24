@@ -755,3 +755,10 @@ Open `index.html` in a browser. After editing `catalog.json` or `catalog.templat
 ## License
 
 Original catalog code and editorial content are available under the MIT license. Linked projects, their names and trademarks remain the property of their respective owners and retain their own licenses.
+
+<!-- project-maintainer-credit -->
+## Contributors
+
+- [chunma-san](https://github.com/chunma-san) — Project maintenance and development.
+
+Original contributors retain their authorship and license notices. See the repository history for individual contributions.
