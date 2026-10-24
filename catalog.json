@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-10-23",
-  "total": 517,
-  "readmes": 507,
+  "snapshot": "2026-10-24",
+  "total": 519,
+  "readmes": 509,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11364,6 +11364,54 @@
         "Automatically categorized from public metadata and documentation; matched: music, music player.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
+    },
+    {
+      "number": 518,
+      "name": "chunma-san/ChunCord",
+      "url": "https://github.com/chunma-san/ChunCord",
+      "category": "Other software & utilities",
+      "summary": "ChunCord: an Equicord fork with custom plugins, 123 selected TestCord plugins and validated upstream updates.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": true,
+      "pushed": "2026-10-23T23:52:32Z",
+      "stars": 0,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/ChunCord#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
+    },
+    {
+      "number": 519,
+      "name": "chunma-san/ChunCord-Installer",
+      "url": "https://github.com/chunma-san/ChunCord-Installer",
+      "category": "Other software & utilities",
+      "summary": "A cross platform gui/cli app for installing Equicord",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": true,
+      "pushed": "2026-10-17T03:00:52Z",
+      "stars": 0,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/chunma-san/ChunCord-Installer#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ],
+      "owned": true
     }
   ]
 }
