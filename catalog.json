@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-10-24",
-  "total": 520,
-  "readmes": 510,
+  "snapshot": "2026-10-25",
+  "total": 521,
+  "readmes": 511,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11437,6 +11437,30 @@
         "Descriptive import only; no software was installed, executed or security-audited."
       ],
       "owned": true
+    },
+    {
+      "number": 521,
+      "name": "Carter54git/Greates-Games-Decompilations-List",
+      "url": "https://github.com/Carter54git/Greates-Games-Decompilations-List",
+      "category": "Other software & utilities",
+      "summary": "Greates Games Decompilations List",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "macOS",
+        "Android"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-20T12:51:07Z",
+      "stars": 133,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Carter54git/Greates-Games-Decompilations-List#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
     }
   ]
 }
