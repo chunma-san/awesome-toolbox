@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-25",
-  "total": 527,
-  "readmes": 516,
+  "total": 528,
+  "readmes": 517,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11595,6 +11595,27 @@
       "readmeUrl": "https://github.com/lncrawl/lightnovel-crawler#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 528,
+      "name": "brosssh/morphe-patches",
+      "url": "https://github.com/brosssh/morphe-patches",
+      "category": "Android app patching & modding",
+      "summary": "🧩 Distraction free Instagram + few patches for apps I care about",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-06T13:23:08Z",
+      "stars": 348,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/brosssh/morphe-patches#readme",
+      "notes": [
+        "Categorized from its Android app patching project family.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
