@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 521 projects organized into 71 categories.
+- 526 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-25. 511 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-25. 515 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -83,7 +83,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
-- [Other software & utilities](#other-software--utilities) (24)
+- [Other software & utilities](#other-software--utilities) (29)
 
 ## Anime, streaming & tracking
 
@@ -743,6 +743,11 @@ In the initial collection, the only project without an available README was [Sle
 - [chunma-san/ChunCord-Installer](https://github.com/chunma-san/ChunCord-Installer) — A cross platform gui/cli app for installing Equicord
 - [chunma-san/lnreader-arabic-plugins](https://github.com/chunma-san/lnreader-arabic-plugins) — Arabic-only LNReader plugin catalog, source maintenance and daily live checks.
 - [Carter54git/Greates-Games-Decompilations-List](https://github.com/Carter54git/Greates-Games-Decompilations-List) — Greates Games Decompilations List
+- [TyroneJamal/THE-TP-PACK-BlackShores](https://github.com/TyroneJamal/THE-TP-PACK-BlackShores) — A project related to other software & utilities; see its official documentation for details.
+- [jie65535/GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) — Command Generator and Gacha Banner Editor
+- [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) — A project related to other software & utilities; see its official documentation for details.
+- [Minato0211/minato-jsons](https://github.com/Minato0211/minato-jsons) — this page consolidates the JSON files I have created :)
+- [Thafoxes/Json_Integration](https://github.com/Thafoxes/Json_Integration) — Xcating's JsonPacks
 
 <!-- CATALOG:END -->
 

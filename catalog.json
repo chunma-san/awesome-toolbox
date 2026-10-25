@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-25",
-  "total": 521,
-  "readmes": 511,
+  "total": 526,
+  "readmes": 515,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11457,6 +11457,116 @@
       "license": "Not specified",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/Carter54git/Greates-Games-Decompilations-List#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 522,
+      "name": "TyroneJamal/THE-TP-PACK-BlackShores",
+      "url": "https://github.com/TyroneJamal/THE-TP-PACK-BlackShores",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-05T13:24:44Z",
+      "stars": 10,
+      "license": "Not specified",
+      "readmeStatus": "unavailable",
+      "readmeUrl": "",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited.",
+        "No README was available; this entry uses repository metadata."
+      ]
+    },
+    {
+      "number": 523,
+      "name": "jie65535/GrasscutterCommandGenerator",
+      "url": "https://github.com/jie65535/GrasscutterCommandGenerator",
+      "category": "Other software & utilities",
+      "summary": "Command Generator and Gacha Banner Editor",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-09-28T03:05:25Z",
+      "stars": 2009,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/jie65535/GrasscutterCommandGenerator#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 524,
+      "name": "babalae/better-genshin-impact",
+      "url": "https://github.com/babalae/better-genshin-impact",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-25T14:44:24Z",
+      "stars": 16756,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/babalae/better-genshin-impact#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 525,
+      "name": "Minato0211/minato-jsons",
+      "url": "https://github.com/Minato0211/minato-jsons",
+      "category": "Other software & utilities",
+      "summary": "this page consolidates the JSON files I have created :)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2025-08-05T02:13:01Z",
+      "stars": 47,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Minato0211/minato-jsons#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 526,
+      "name": "Thafoxes/Json_Integration",
+      "url": "https://github.com/Thafoxes/Json_Integration",
+      "category": "Other software & utilities",
+      "summary": "Xcating's JsonPacks",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Batchfile",
+      "archived": false,
+      "fork": true,
+      "pushed": "2025-08-16T14:27:07Z",
+      "stars": 63,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Thafoxes/Json_Integration#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
