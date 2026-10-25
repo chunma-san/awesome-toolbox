@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-25",
-  "total": 526,
-  "readmes": 515,
+  "total": 527,
+  "readmes": 516,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11569,6 +11569,32 @@
       "readmeUrl": "https://github.com/Thafoxes/Json_Integration#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 527,
+      "name": "lncrawl/lightnovel-crawler",
+      "url": "https://github.com/lncrawl/lightnovel-crawler",
+      "category": "Discord & TeamSpeak",
+      "summary": "Generate and download e-books from online sources.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-23T23:45:43Z",
+      "stars": 2676,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/lncrawl/lightnovel-crawler#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
