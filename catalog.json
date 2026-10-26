@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-10-25",
-  "total": 528,
-  "readmes": 517,
+  "snapshot": "2026-10-26",
+  "total": 530,
+  "readmes": 519,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11616,6 +11616,54 @@
       "readmeUrl": "https://github.com/brosssh/morphe-patches#readme",
       "notes": [
         "Categorized from its Android app patching project family.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 529,
+      "name": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "category": "Other software & utilities",
+      "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-26T00:54:05Z",
+      "stars": 2658,
+      "license": "GPL-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/JustAResearcher/gpu-unlock-ada#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 530,
+      "name": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "category": "Other software & utilities",
+      "summary": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-24T15:47:28Z",
+      "stars": 6835,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Zagitta/gpu-unlock#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
