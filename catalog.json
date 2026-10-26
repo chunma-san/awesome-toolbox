@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-26",
-  "total": 530,
-  "readmes": 519,
+  "total": 531,
+  "readmes": 520,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11662,6 +11662,29 @@
       "license": "Not specified",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/Zagitta/gpu-unlock#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 531,
+      "name": "TI-Toolkit/tipycomp",
+      "url": "https://github.com/TI-Toolkit/tipycomp",
+      "category": "Other software & utilities",
+      "summary": "Compiles Python modules for TI-83PCEEP / TI-84PCEPy / TI-84PCE-TEP / TI-82AEP graphing calculators",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-09-08T22:27:04Z",
+      "stars": 15,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/TI-Toolkit/tipycomp#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
