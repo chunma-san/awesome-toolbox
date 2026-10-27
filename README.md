@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 543 projects organized into 71 categories.
+- 544 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-27. 532 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-27. 533 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -67,7 +67,7 @@ In the initial collection, the only project without an available README was [Sle
 - [GrapheneOS infrastructure & services](#grapheneos-infrastructure--services) (7)
 - [Linux distributions & package managers](#linux-distributions--package-managers) (1)
 - [Windows compatibility & Wine](#windows-compatibility--wine) (1)
-- [Android app patching & modding](#android-app-patching--modding) (5)
+- [Android app patching & modding](#android-app-patching--modding) (6)
 - [Camera, gallery & photo management](#camera-gallery--photo-management) (1)
 - [RSS, news & bookmarking](#rss-news--bookmarking) (1)
 - [VPN, proxies & tunnels](#vpn-proxies--tunnels) (1)
@@ -661,6 +661,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Graywizard888/Enhancify](https://github.com/Graywizard888/Enhancify) — The only custom Revancify with extra features and more customizations
 - [hxreborn/morphe-patches](https://github.com/hxreborn/morphe-patches) — A project related to tools and software; see its official documentation for details.
 - [brosssh/morphe-patches](https://github.com/brosssh/morphe-patches) — 🧩 Distraction free Instagram + few patches for apps I care about
+- [VenusIsJaded/Venus-Patches](https://github.com/VenusIsJaded/Venus-Patches) — Independent Morphe patches for Discord: attachment file sizes, custom voice messages, and runtime controls.
 
 ## Camera, gallery & photo management
 

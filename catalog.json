@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-27",
-  "total": 543,
-  "readmes": 532,
+  "total": 544,
+  "readmes": 533,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11972,6 +11972,30 @@
       "readmeUrl": "https://github.com/Valenced/valenced-manager#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 544,
+      "name": "VenusIsJaded/Venus-Patches",
+      "url": "https://github.com/VenusIsJaded/Venus-Patches",
+      "category": "Android app patching & modding",
+      "summary": "Independent Morphe patches for Discord: attachment file sizes, custom voice messages, and runtime controls.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-27T16:05:58Z",
+      "stars": 100,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/VenusIsJaded/Venus-Patches#readme",
+      "notes": [
+        "Categorized from its Android app patching project family.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
