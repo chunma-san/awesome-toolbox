@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 535 projects organized into 71 categories.
+- 537 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-27. 524 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-27. 526 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -50,7 +50,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game mods & automation](#game-mods--automation) (25)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
 - [Desktop, hardware & customization](#desktop-hardware--customization) (23)
-- [Android apps & launchers](#android-apps--launchers) (34)
+- [Android apps & launchers](#android-apps--launchers) (36)
 - [Android root, patches & stores](#android-root-patches--stores) (29)
 - [Browsers & web extensions](#browsers--web-extensions) (21)
 - [Privacy, DNS & security](#privacy-dns--security) (25)
@@ -406,6 +406,8 @@ In the initial collection, the only project without an available README was [Sle
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) — Get Android app updates straight from the source.
 - [Ansub/tv-detox](https://github.com/Ansub/tv-detox) — Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up
+- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) — 2M+ app downloads, 500k+ monthly website visitors, Linux basics, tips and formatted man pages
+- [SimonSchubert/omalauncher](https://github.com/SimonSchubert/omalauncher) — Agentic Android launcher: build your own apps and widgets with AI agents, Omarchy themes, Arch Linux without root
 
 ## Android root, patches & stores
 

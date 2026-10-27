@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-27",
-  "total": 535,
-  "readmes": 524,
+  "total": 537,
+  "readmes": 526,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11785,6 +11785,57 @@
       "readmeUrl": "https://github.com/HarbourMasters/Shipwright#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 536,
+      "name": "SimonSchubert/LinuxCommandLibrary",
+      "url": "https://github.com/SimonSchubert/LinuxCommandLibrary",
+      "category": "Android apps & launchers",
+      "summary": "2M+ app downloads, 500k+ monthly website visitors, Linux basics, tips and formatted man pages",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-25T01:12:07Z",
+      "stars": 2089,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/SimonSchubert/LinuxCommandLibrary#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: android.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 537,
+      "name": "SimonSchubert/omalauncher",
+      "url": "https://github.com/SimonSchubert/omalauncher",
+      "category": "Android apps & launchers",
+      "summary": "Agentic Android launcher: build your own apps and widgets with AI agents, Omarchy themes, Arch Linux without root",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-26T11:23:28Z",
+      "stars": 463,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/SimonSchubert/omalauncher#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: android, android launcher.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
