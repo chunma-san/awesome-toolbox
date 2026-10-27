@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-27",
-  "total": 544,
-  "readmes": 533,
+  "total": 545,
+  "readmes": 534,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11996,6 +11996,29 @@
       "readmeUrl": "https://github.com/VenusIsJaded/Venus-Patches#readme",
       "notes": [
         "Categorized from its Android app patching project family.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 545,
+      "name": "locardoYT/Bo7-Zombies-Simple-Tool",
+      "url": "https://github.com/locardoYT/Bo7-Zombies-Simple-Tool",
+      "category": "Other software & utilities",
+      "summary": "Windows tool for the Lumen BO7 offline client: maps, modes, survival, easter eggs, camos and wonder weapons in one click.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-19T02:43:34Z",
+      "stars": 8,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/locardoYT/Bo7-Zombies-Simple-Tool#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
