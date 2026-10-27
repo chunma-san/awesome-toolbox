@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 537 projects organized into 71 categories.
+- 538 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-27. 526 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-27. 527 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -53,7 +53,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Android apps & launchers](#android-apps--launchers) (36)
 - [Android root, patches & stores](#android-root-patches--stores) (29)
 - [Browsers & web extensions](#browsers--web-extensions) (21)
-- [Privacy, DNS & security](#privacy-dns--security) (25)
+- [Privacy, DNS & security](#privacy-dns--security) (26)
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (13)
 - [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (17)
@@ -492,6 +492,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) — Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [lovelaze/nebula-sync](https://github.com/lovelaze/nebula-sync) — Synchronize configuration of multiple Pi-hole v6.x instances.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) — The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
 ## Messaging & file sharing
 
