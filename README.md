@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 540 projects organized into 71 categories.
+- 541 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-27. 529 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-27. 530 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -83,7 +83,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
-- [Other software & utilities](#other-software--utilities) (37)
+- [Other software & utilities](#other-software--utilities) (38)
 
 ## Anime, streaming & tracking
 
@@ -762,6 +762,7 @@ In the initial collection, the only project without an available README was [Sle
 - [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) — Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) — A project related to other software & utilities; see its official documentation for details.
 - [project-bo4/shield-development](https://github.com/project-bo4/shield-development) — A project related to other software & utilities; see its official documentation for details.
+- [Logo-2K/zombies-declassified](https://github.com/Logo-2K/zombies-declassified) — A work in progress PC port of Black Ops 2's unreleased DLC 5.
 
 <!-- CATALOG:END -->
 
