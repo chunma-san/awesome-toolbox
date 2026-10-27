@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-27",
-  "total": 539,
-  "readmes": 528,
+  "total": 540,
+  "readmes": 529,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11884,6 +11884,27 @@
       "readmeUrl": "https://github.com/FanaticSoftware/T9ModManager#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: mod manager.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 540,
+      "name": "project-bo4/shield-development",
+      "url": "https://github.com/project-bo4/shield-development",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2025-03-12T23:55:54Z",
+      "stars": 269,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/project-bo4/shield-development#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
