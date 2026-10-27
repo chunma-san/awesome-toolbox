@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 531 projects organized into 71 categories.
+- 535 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-26. 520 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-27. 524 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -83,7 +83,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
-- [Other software & utilities](#other-software--utilities) (32)
+- [Other software & utilities](#other-software--utilities) (36)
 
 ## Anime, streaming & tracking
 
@@ -753,6 +753,10 @@ In the initial collection, the only project without an available README was [Sle
 - [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) — GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 - [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) — Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 - [TI-Toolkit/tipycomp](https://github.com/TI-Toolkit/tipycomp) — Compiles Python modules for TI-83PCEEP / TI-84PCEPy / TI-84PCE-TEP / TI-82AEP graphing calculators
+- [2ship2harkinian/2ship2harkinian](https://github.com/2ship2harkinian/2ship2harkinian) — A project related to other software & utilities; see its official documentation for details.
+- [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) — An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
+- [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) — Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
+- [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) — A project related to other software & utilities; see its official documentation for details.
 
 <!-- CATALOG:END -->
 

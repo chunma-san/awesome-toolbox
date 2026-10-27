@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-10-26",
-  "total": 531,
-  "readmes": 520,
+  "snapshot": "2026-10-27",
+  "total": 535,
+  "readmes": 524,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11685,6 +11685,104 @@
       "license": "Not specified",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/TI-Toolkit/tipycomp#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 532,
+      "name": "2ship2harkinian/2ship2harkinian",
+      "url": "https://github.com/2ship2harkinian/2ship2harkinian",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-24T14:42:15Z",
+      "stars": 2383,
+      "license": "CC0-1.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/2ship2harkinian/2ship2harkinian#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 533,
+      "name": "hedge-dev/UnleashedRecomp",
+      "url": "https://github.com/hedge-dev/UnleashedRecomp",
+      "category": "Other software & utilities",
+      "summary": "An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-06-29T11:05:43Z",
+      "stars": 5281,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/hedge-dev/UnleashedRecomp#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 534,
+      "name": "TwilitRealm/dusklight",
+      "url": "https://github.com/TwilitRealm/dusklight",
+      "category": "Other software & utilities",
+      "summary": "Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-26T04:50:53Z",
+      "stars": 6096,
+      "license": "CC0-1.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/TwilitRealm/dusklight#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 535,
+      "name": "HarbourMasters/Shipwright",
+      "url": "https://github.com/HarbourMasters/Shipwright",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-24T13:40:22Z",
+      "stars": 5771,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/HarbourMasters/Shipwright#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
