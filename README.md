@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 538 projects organized into 71 categories.
+- 539 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-27. 527 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-27. 528 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -47,7 +47,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
 - [PlayStation & emulation](#playstation--emulation) (31)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
-- [Game mods & automation](#game-mods--automation) (25)
+- [Game mods & automation](#game-mods--automation) (26)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
 - [Desktop, hardware & customization](#desktop-hardware--customization) (23)
 - [Android apps & launchers](#android-apps--launchers) (36)
@@ -316,6 +316,7 @@ In the initial collection, the only project without an available README was [Sle
 - [ate47/atian-cod-tools](https://github.com/ate47/atian-cod-tools) — A collection of Call of Duty research, inspection and modding utilities.
 - [jokeri2222/KaHack](https://github.com/jokeri2222/KaHack) — A Kahoot hack made in vanilla js. Just copy-paste to console and you are ready to cheat. Also downloadable to Tampermonkey.
 - [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) — Image-recognition automation for repetitive Wuthering Waves activities on Windows.
+- [FanaticSoftware/T9ModManager](https://github.com/FanaticSoftware/T9ModManager) — A simple Mod Manager for Black Ops Cold War Zombies! Play & create mods built straight into the launcher!
 
 ## Windows maintenance & installation
 

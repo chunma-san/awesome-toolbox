@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-27",
-  "total": 538,
-  "readmes": 527,
+  "total": 539,
+  "readmes": 528,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -11861,6 +11861,29 @@
       "readmeUrl": "https://github.com/AprilNEA/OpenLogi#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: privacy.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 539,
+      "name": "FanaticSoftware/T9ModManager",
+      "url": "https://github.com/FanaticSoftware/T9ModManager",
+      "category": "Game mods & automation",
+      "summary": "A simple Mod Manager for Black Ops Cold War Zombies! Play & create mods built straight into the launcher!",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "HTML",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-01T05:31:27Z",
+      "stars": 54,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/FanaticSoftware/T9ModManager#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: mod manager.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
