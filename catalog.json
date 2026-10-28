@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-28",
-  "total": 563,
-  "readmes": 552,
+  "total": 564,
+  "readmes": 553,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12436,6 +12436,27 @@
       "license": "GPL-3.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/hzhreal/HTOS#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 564,
+      "name": "Zhaxxy/eZwizard3-bot",
+      "url": "https://github.com/Zhaxxy/eZwizard3-bot",
+      "category": "Other software & utilities",
+      "summary": "A discord bot that connects to your jb ps4 (9.00 only atm) to allow other people to do save things with it",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-08-24T20:24:00Z",
+      "stars": 30,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Zhaxxy/eZwizard3-bot#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
