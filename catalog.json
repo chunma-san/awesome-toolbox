@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-28",
-  "total": 552,
-  "readmes": 541,
+  "total": 558,
+  "readmes": 547,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12182,6 +12182,150 @@
       "readmeUrl": "https://github.com/PreMiD/PreMiD#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: chrome extension.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 553,
+      "name": "phin05/discord-rich-presence-plex",
+      "url": "https://github.com/phin05/discord-rich-presence-plex",
+      "category": "Discord & TeamSpeak",
+      "summary": "Displays your Plex status on Discord using Rich Presence",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Go",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-05-12T05:33:17Z",
+      "stars": 440,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/phin05/discord-rich-presence-plex#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 554,
+      "name": "afonsojramos/discrakt",
+      "url": "https://github.com/afonsojramos/discrakt",
+      "category": "Discord & TeamSpeak",
+      "summary": "The Trakt 🎥 Plex ▶️ Discord 🎮 Rich Presence that you didn't know you needed.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-27T06:23:09Z",
+      "stars": 200,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/afonsojramos/discrakt#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 555,
+      "name": "JustTemmie/steam-presence",
+      "url": "https://github.com/JustTemmie/steam-presence",
+      "category": "Other software & utilities",
+      "summary": "A script that actually displays the game you're playing on discord",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-27T22:37:03Z",
+      "stars": 474,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/JustTemmie/steam-presence#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 556,
+      "name": "dead8309/Kizzy",
+      "url": "https://github.com/dead8309/Kizzy",
+      "category": "Other software & utilities",
+      "summary": "A Discord Rich Presence manager for Android fully written in Kotlin. Made with jetpack compose and material3",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-05-30T02:09:11Z",
+      "stars": 1284,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/dead8309/Kizzy#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 557,
+      "name": "SirHumza/orbisRPC",
+      "url": "https://github.com/SirHumza/orbisRPC",
+      "category": "PlayStation & emulation",
+      "summary": "orbisRPC — free, open-source Discord Rich Presence for jailbroken PS4 (GoldHEN): shows your game, cover art and play timer on Discord, straight from the console. No PC needed. Not the Orbis Protocol (Web3) or Orbis Corporation.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-20T10:14:26Z",
+      "stars": 17,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/SirHumza/orbisRPC#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: playstation, ps4.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 558,
+      "name": "tmghd272/ps-jb-rich-presence",
+      "url": "https://github.com/tmghd272/ps-jb-rich-presence",
+      "category": "PlayStation & emulation",
+      "summary": "Discord Rich Presence For PS4/PS5 Jailbroken Consoles.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-05-19T20:34:58Z",
+      "stars": 3,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/tmghd272/ps-jb-rich-presence#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: ps5, ps4.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

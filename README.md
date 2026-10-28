@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 552 projects organized into 71 categories.
+- 558 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-28. 541 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-28. 547 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -42,10 +42,10 @@ In the initial collection, the only project without an available README was [Sle
 - [Manga, novels & reading](#manga-novels--reading) (15)
 - [Music, podcasts & media players](#music-podcasts--media-players) (31)
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
-- [Discord & TeamSpeak](#discord--teamspeak) (34)
+- [Discord & TeamSpeak](#discord--teamspeak) (36)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
-- [PlayStation & emulation](#playstation--emulation) (31)
+- [PlayStation & emulation](#playstation--emulation) (33)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (26)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
@@ -84,7 +84,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (1)
-- [Other software & utilities](#other-software--utilities) (43)
+- [Other software & utilities](#other-software--utilities) (45)
 
 ## Anime, streaming & tracking
 
@@ -208,6 +208,8 @@ In the initial collection, the only project without an available README was [Sle
 - [lncrawl/lightnovel-crawler](https://github.com/lncrawl/lightnovel-crawler) — Generate and download e-books from online sources.
 - [DaXcess/discord-vr-status](https://github.com/DaXcess/discord-vr-status) — Change your Discord online status to VR
 - [MrCoolAndroid/Xbox-Rich-Presence-Discord](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord) — Xbox Rich Presence for your Discord status! Join our Discord: https://discord.gg/y22ujrB5e2
+- [phin05/discord-rich-presence-plex](https://github.com/phin05/discord-rich-presence-plex) — Displays your Plex status on Discord using Rich Presence
+- [afonsojramos/discrakt](https://github.com/afonsojramos/discrakt) — The Trakt 🎥 Plex ▶️ Discord 🎮 Rich Presence that you didn't know you needed.
 
 ## Twitch & livestream tools
 
@@ -280,6 +282,8 @@ In the initial collection, the only project without an available README was [Sle
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) — PlayStation 3 emulator and debugger
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) — PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) — PCSX2 - The Playstation 2 Emulator
+- [SirHumza/orbisRPC](https://github.com/SirHumza/orbisRPC) — orbisRPC — free, open-source Discord Rich Presence for jailbroken PS4 (GoldHEN): shows your game, cover art and play timer on Discord, straight from the console. No PC needed. Not the Orbis Protocol (Web3) or Orbis Corporation.
+- [tmghd272/ps-jb-rich-presence](https://github.com/tmghd272/ps-jb-rich-presence) — Discord Rich Presence For PS4/PS5 Jailbroken Consoles.
 
 ## AION 2 & Where Winds Meet
 
@@ -778,6 +782,8 @@ In the initial collection, the only project without an available README was [Sle
 - [locardoYT/Bo7-Zombies-Simple-Tool](https://github.com/locardoYT/Bo7-Zombies-Simple-Tool) — Windows tool for the Lumen BO7 offline client: maps, modes, survival, easter eggs, camos and wonder weapons in one click.
 - [ahalpha/Snowbreak-AnitAmend](https://github.com/ahalpha/Snowbreak-AnitAmend) — A project related to other software & utilities; see its official documentation for details.
 - [theresa-2333/SnowMM](https://github.com/theresa-2333/SnowMM) — A project related to other software & utilities; see its official documentation for details.
+- [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) — A script that actually displays the game you're playing on discord
+- [dead8309/Kizzy](https://github.com/dead8309/Kizzy) — A Discord Rich Presence manager for Android fully written in Kotlin. Made with jetpack compose and material3
 
 <!-- CATALOG:END -->
 
