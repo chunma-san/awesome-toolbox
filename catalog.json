@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-28",
-  "total": 548,
-  "readmes": 537,
+  "total": 549,
+  "readmes": 538,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12086,6 +12086,29 @@
       "readmeUrl": "https://github.com/theresa-2333/SnowMM#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 549,
+      "name": "DaXcess/discord-vr-status",
+      "url": "https://github.com/DaXcess/discord-vr-status",
+      "category": "Discord & TeamSpeak",
+      "summary": "Change your Discord online status to VR",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-02-18T11:27:41Z",
+      "stars": 7,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/DaXcess/discord-vr-status#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
