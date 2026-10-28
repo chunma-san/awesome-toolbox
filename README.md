@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 561 projects organized into 71 categories.
+- 563 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-28. 550 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-28. 552 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -84,7 +84,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (1)
-- [Other software & utilities](#other-software--utilities) (46)
+- [Other software & utilities](#other-software--utilities) (48)
 
 ## Anime, streaming & tracking
 
@@ -787,6 +787,8 @@ In the initial collection, the only project without an available README was [Sle
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) — A script that actually displays the game you're playing on discord
 - [dead8309/Kizzy](https://github.com/dead8309/Kizzy) — A Discord Rich Presence manager for Android fully written in Kotlin. Made with jetpack compose and material3
 - [ALMASONYH/OctopusEAX](https://github.com/ALMASONYH/OctopusEAX) — Octopus Audio Effects Console
+- [hzhreal/PSNToolBot](https://github.com/hzhreal/PSNToolBot) — Discord bot used to mainly add PlayStation 3 avatars to shopping cart, and obtain PlayStation account id from username.
+- [hzhreal/HTOS](https://github.com/hzhreal/HTOS) — A Discord bot and app to manage external PS4 saves using a jailbroken PS4.
 
 <!-- CATALOG:END -->
 

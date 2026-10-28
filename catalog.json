@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-28",
-  "total": 561,
-  "readmes": 550,
+  "total": 563,
+  "readmes": 552,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12396,6 +12396,48 @@
       "readmeUrl": "https://github.com/ALMASONYH/OctopusEAX#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 562,
+      "name": "hzhreal/PSNToolBot",
+      "url": "https://github.com/hzhreal/PSNToolBot",
+      "category": "Other software & utilities",
+      "summary": "Discord bot used to mainly add PlayStation 3 avatars to shopping cart, and obtain PlayStation account id from username.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2025-08-01T18:16:14Z",
+      "stars": 4,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/hzhreal/PSNToolBot#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 563,
+      "name": "hzhreal/HTOS",
+      "url": "https://github.com/hzhreal/HTOS",
+      "category": "Other software & utilities",
+      "summary": "A Discord bot and app to manage external PS4 saves using a jailbroken PS4.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-24T15:02:41Z",
+      "stars": 100,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/hzhreal/HTOS#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
