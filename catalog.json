@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-28",
-  "total": 549,
-  "readmes": 538,
+  "total": 552,
+  "readmes": 541,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12109,6 +12109,79 @@
       "readmeUrl": "https://github.com/DaXcess/discord-vr-status#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 550,
+      "name": "MrCoolAndroid/Xbox-Rich-Presence-Discord",
+      "url": "https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord",
+      "category": "Discord & TeamSpeak",
+      "summary": "Xbox Rich Presence for your Discord status! Join our Discord: https://discord.gg/y22ujrB5e2",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-25T03:16:26Z",
+      "stars": 68,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 551,
+      "name": "ungive/discord-music-presence",
+      "url": "https://github.com/ungive/discord-music-presence",
+      "category": "Music, podcasts & media players",
+      "summary": "The Discord music status that works with any media player",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-28T11:46:00Z",
+      "stars": 3585,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ungive/discord-music-presence#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: music, spotify.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 552,
+      "name": "PreMiD/PreMiD",
+      "url": "https://github.com/PreMiD/PreMiD",
+      "category": "Browsers & web extensions",
+      "summary": "🧬 Source code of the PreMiD application.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-26T12:09:29Z",
+      "stars": 1457,
+      "license": "MPL-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/PreMiD/PreMiD#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: chrome extension.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

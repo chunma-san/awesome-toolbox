@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 549 projects organized into 71 categories.
+- 552 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-28. 538 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-28. 541 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -40,9 +40,9 @@ In the initial collection, the only project without an available README was [Sle
 
 - [Anime, streaming & tracking](#anime-streaming--tracking) (17)
 - [Manga, novels & reading](#manga-novels--reading) (15)
-- [Music, podcasts & media players](#music-podcasts--media-players) (30)
+- [Music, podcasts & media players](#music-podcasts--media-players) (31)
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
-- [Discord & TeamSpeak](#discord--teamspeak) (33)
+- [Discord & TeamSpeak](#discord--teamspeak) (34)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
 - [PlayStation & emulation](#playstation--emulation) (31)
@@ -52,7 +52,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Desktop, hardware & customization](#desktop-hardware--customization) (23)
 - [Android apps & launchers](#android-apps--launchers) (36)
 - [Android root, patches & stores](#android-root-patches--stores) (29)
-- [Browsers & web extensions](#browsers--web-extensions) (21)
+- [Browsers & web extensions](#browsers--web-extensions) (22)
 - [Privacy, DNS & security](#privacy-dns--security) (26)
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (13)
@@ -156,6 +156,7 @@ In the initial collection, the only project without an available README was [Sle
 - [chunma-san/telegram-music](https://github.com/chunma-san/telegram-music) — A configurable Telegram audio saver with persistent processing history and local session storage.
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music
 - [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) — 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
+- [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) — The Discord music status that works with any media player
 
 ## Video downloads & media capture
 
@@ -206,6 +207,7 @@ In the initial collection, the only project without an available README was [Sle
 - [chunma-san/Equicord](https://github.com/chunma-san/Equicord) — The other cutest Discord client mod
 - [lncrawl/lightnovel-crawler](https://github.com/lncrawl/lightnovel-crawler) — Generate and download e-books from online sources.
 - [DaXcess/discord-vr-status](https://github.com/DaXcess/discord-vr-status) — Change your Discord online status to VR
+- [MrCoolAndroid/Xbox-Rich-Presence-Discord](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord) — Xbox Rich Presence for your Discord status! Join our Discord: https://discord.gg/y22ujrB5e2
 
 ## Twitch & livestream tools
 
@@ -467,6 +469,7 @@ In the initial collection, the only project without an available README was [Sle
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) — An Open Source YouTube app for privacy
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) — Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) — A libre lightweight streaming front-end for Android.
+- [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) — 🧬 Source code of the PreMiD application.
 
 ## Privacy, DNS & security
 
