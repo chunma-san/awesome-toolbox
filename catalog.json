@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-28",
-  "total": 559,
-  "readmes": 548,
+  "total": 560,
+  "readmes": 549,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12352,6 +12352,27 @@
       "readmeUrl": "https://github.com/maximmax42/Discord-CustomRP#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 560,
+      "name": "lmstudio-ai/lms",
+      "url": "https://github.com/lmstudio-ai/lms",
+      "category": "Development, AI & security research",
+      "summary": "LM Studio CLI",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-14T20:50:03Z",
+      "stars": 5389,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/lmstudio-ai/lms#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

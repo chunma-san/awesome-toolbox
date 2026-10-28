@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 559 projects organized into 71 categories.
+- 560 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-28. 548 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-28. 549 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -57,7 +57,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (13)
 - [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (17)
-- [Development, AI & security research](#development-ai--security-research) (14)
+- [Development, AI & security research](#development-ai--security-research) (15)
 - [Creative tools, documents & translation](#creative-tools-documents--translation) (16)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
 - [Curated lists & learning resources](#curated-lists--learning-resources) (19)
@@ -570,6 +570,7 @@ In the initial collection, the only project without an available README was [Sle
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — Learn AI Engineering! Learn it. Build it. Ship it for others.
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) — 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 - [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) — A project related to development, ai & security research; see its official documentation for details.
+- [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) — LM Studio CLI
 
 ## Creative tools, documents & translation
 
