@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-28",
-  "total": 547,
-  "readmes": 536,
+  "total": 548,
+  "readmes": 537,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12061,6 +12061,29 @@
       "license": "Not specified",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/ahalpha/Snowbreak-AnitAmend#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 548,
+      "name": "theresa-2333/SnowMM",
+      "url": "https://github.com/theresa-2333/SnowMM",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-19T14:05:43Z",
+      "stars": 12,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/theresa-2333/SnowMM#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."

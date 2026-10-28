@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 547 projects organized into 71 categories.
+- 548 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-28. 536 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-28. 537 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -84,7 +84,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (1)
-- [Other software & utilities](#other-software--utilities) (42)
+- [Other software & utilities](#other-software--utilities) (43)
 
 ## Anime, streaming & tracking
 
@@ -773,6 +773,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Valenced/valenced-manager](https://github.com/Valenced/valenced-manager) — Install and update Valenced on Android. A client modification for Discord mobile.
 - [locardoYT/Bo7-Zombies-Simple-Tool](https://github.com/locardoYT/Bo7-Zombies-Simple-Tool) — Windows tool for the Lumen BO7 offline client: maps, modes, survival, easter eggs, camos and wonder weapons in one click.
 - [ahalpha/Snowbreak-AnitAmend](https://github.com/ahalpha/Snowbreak-AnitAmend) — A project related to other software & utilities; see its official documentation for details.
+- [theresa-2333/SnowMM](https://github.com/theresa-2333/SnowMM) — A project related to other software & utilities; see its official documentation for details.
 
 <!-- CATALOG:END -->
 
