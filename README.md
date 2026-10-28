@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 545 projects organized into 71 categories.
+- 546 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-27. 534 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-28. 535 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -83,6 +83,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
+- [Security research & testing](#security-research--testing) (1)
 - [Other software & utilities](#other-software--utilities) (41)
 
 ## Anime, streaming & tracking
@@ -723,6 +724,10 @@ In the initial collection, the only project without an available README was [Sle
 ## Device firmware & embedded systems
 
 - [music-assistant/server](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
+
+## Security research & testing
+
+- [revere-group/discord-badge-spoofer](https://github.com/revere-group/discord-badge-spoofer) — Discord badge spoofer - fake playtime and games-played to level up the new profile badges.
 
 ## Other software & utilities
 
