@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 565 projects organized into 71 categories.
+- 566 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-28. 554 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-28. 555 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -74,7 +74,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Containers & orchestration](#containers--orchestration) (1)
 - [APIs, SDKs & integrations](#apis-sdks--integrations) (1)
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (1)
-- [AI assistants & coding tools](#ai-assistants--coding-tools) (1)
+- [AI assistants & coding tools](#ai-assistants--coding-tools) (2)
 - [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
 - [Git, CI & release automation](#git-ci--release-automation) (1)
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
@@ -701,6 +701,7 @@ In the initial collection, the only project without an available README was [Sle
 ## AI assistants & coding tools
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
+- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) — Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
 
 ## GitHub profiles & README tools
 

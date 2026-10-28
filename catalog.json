@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-28",
-  "total": 565,
-  "readmes": 554,
+  "total": 566,
+  "readmes": 555,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12480,6 +12480,31 @@
       "readmeUrl": "https://github.com/lmstudio-ai/lmstudio-js#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 566,
+      "name": "miqdadbadjuber/anti-slop",
+      "url": "https://github.com/miqdadbadjuber/anti-slop",
+      "category": "AI assistants & coding tools",
+      "summary": "Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-28T17:34:01Z",
+      "stars": 7456,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/miqdadbadjuber/anti-slop#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: ai coding, coding agent.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
