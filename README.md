@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 560 projects organized into 71 categories.
+- 561 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-28. 549 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-28. 550 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -84,7 +84,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (1)
-- [Other software & utilities](#other-software--utilities) (45)
+- [Other software & utilities](#other-software--utilities) (46)
 
 ## Anime, streaming & tracking
 
@@ -786,6 +786,7 @@ In the initial collection, the only project without an available README was [Sle
 - [theresa-2333/SnowMM](https://github.com/theresa-2333/SnowMM) — A project related to other software & utilities; see its official documentation for details.
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) — A script that actually displays the game you're playing on discord
 - [dead8309/Kizzy](https://github.com/dead8309/Kizzy) — A Discord Rich Presence manager for Android fully written in Kotlin. Made with jetpack compose and material3
+- [ALMASONYH/OctopusEAX](https://github.com/ALMASONYH/OctopusEAX) — Octopus Audio Effects Console
 
 <!-- CATALOG:END -->
 

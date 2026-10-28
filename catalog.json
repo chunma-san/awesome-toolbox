@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-28",
-  "total": 560,
-  "readmes": 549,
+  "total": 561,
+  "readmes": 550,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12373,6 +12373,29 @@
       "readmeUrl": "https://github.com/lmstudio-ai/lms#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 561,
+      "name": "ALMASONYH/OctopusEAX",
+      "url": "https://github.com/ALMASONYH/OctopusEAX",
+      "category": "Other software & utilities",
+      "summary": "Octopus Audio Effects Console",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-20T18:37:25Z",
+      "stars": 33,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ALMASONYH/OctopusEAX#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
