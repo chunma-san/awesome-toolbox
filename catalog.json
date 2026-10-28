@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-28",
-  "total": 546,
-  "readmes": 535,
+  "total": 547,
+  "readmes": 536,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12040,6 +12040,29 @@
       "readmeUrl": "https://github.com/revere-group/discord-badge-spoofer#readme",
       "notes": [
         "Categorized from the more specific metadata phrase: reverse engineering.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 547,
+      "name": "ahalpha/Snowbreak-AnitAmend",
+      "url": "https://github.com/ahalpha/Snowbreak-AnitAmend",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "Lua",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-05-16T16:21:38Z",
+      "stars": 282,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ahalpha/Snowbreak-AnitAmend#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
