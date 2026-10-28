@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-28",
-  "total": 564,
-  "readmes": 553,
+  "total": 565,
+  "readmes": 554,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12457,6 +12457,27 @@
       "license": "MIT",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/Zhaxxy/eZwizard3-bot#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 565,
+      "name": "lmstudio-ai/lmstudio-js",
+      "url": "https://github.com/lmstudio-ai/lmstudio-js",
+      "category": "Other software & utilities",
+      "summary": "LM Studio TypeScript SDK",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-28T16:06:40Z",
+      "stars": 1804,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/lmstudio-ai/lmstudio-js#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."

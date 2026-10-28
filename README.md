@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 564 projects organized into 71 categories.
+- 565 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-28. 553 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-28. 554 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -84,7 +84,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (1)
-- [Other software & utilities](#other-software--utilities) (49)
+- [Other software & utilities](#other-software--utilities) (50)
 
 ## Anime, streaming & tracking
 
@@ -790,6 +790,7 @@ In the initial collection, the only project without an available README was [Sle
 - [hzhreal/PSNToolBot](https://github.com/hzhreal/PSNToolBot) — Discord bot used to mainly add PlayStation 3 avatars to shopping cart, and obtain PlayStation account id from username.
 - [hzhreal/HTOS](https://github.com/hzhreal/HTOS) — A Discord bot and app to manage external PS4 saves using a jailbroken PS4.
 - [Zhaxxy/eZwizard3-bot](https://github.com/Zhaxxy/eZwizard3-bot) — A discord bot that connects to your jb ps4 (9.00 only atm) to allow other people to do save things with it
+- [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) — LM Studio TypeScript SDK
 
 <!-- CATALOG:END -->
 
