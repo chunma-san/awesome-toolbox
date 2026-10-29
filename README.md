@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 567 projects organized into 71 categories.
+- 568 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-29. 556 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-29. 557 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -84,7 +84,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (1)
-- [Other software & utilities](#other-software--utilities) (51)
+- [Other software & utilities](#other-software--utilities) (52)
 
 ## Anime, streaming & tracking
 
@@ -793,6 +793,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Zhaxxy/eZwizard3-bot](https://github.com/Zhaxxy/eZwizard3-bot) — A discord bot that connects to your jb ps4 (9.00 only atm) to allow other people to do save things with it
 - [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) — LM Studio TypeScript SDK
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) — Download web video and audio
+- [ChrisTitusTech/titstack](https://github.com/ChrisTitusTech/titstack) — Codex and AI skills
 
 <!-- CATALOG:END -->
 

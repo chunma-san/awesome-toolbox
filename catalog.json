@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-29",
-  "total": 567,
-  "readmes": 556,
+  "total": 568,
+  "readmes": 557,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12530,6 +12530,31 @@
       "readmeUrl": "https://github.com/NickvisionApps/Parabolic#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 568,
+      "name": "ChrisTitusTech/titstack",
+      "url": "https://github.com/ChrisTitusTech/titstack",
+      "category": "Other software & utilities",
+      "summary": "Codex and AI skills",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Shell",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-28T15:38:24Z",
+      "stars": 222,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ChrisTitusTech/titstack#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
