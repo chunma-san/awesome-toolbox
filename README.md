@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 573 projects organized into 71 categories.
+- 574 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-30. 562 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-30. 563 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -52,7 +52,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Desktop, hardware & customization](#desktop-hardware--customization) (23)
 - [Android apps & launchers](#android-apps--launchers) (36)
 - [Android root, patches & stores](#android-root-patches--stores) (29)
-- [Browsers & web extensions](#browsers--web-extensions) (23)
+- [Browsers & web extensions](#browsers--web-extensions) (24)
 - [Privacy, DNS & security](#privacy-dns--security) (27)
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (13)
@@ -477,6 +477,7 @@ In the initial collection, the only project without an available README was [Sle
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) — A libre lightweight streaming front-end for Android.
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) — 🧬 Source code of the PreMiD application.
 - [helloyanis/age-verification-bypass](https://github.com/helloyanis/age-verification-bypass) — Extension to bypass age verification on some websites
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) — Lightpanda: the headless browser designed for AI and automation
 
 ## Privacy, DNS & security
 

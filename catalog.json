@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-30",
-  "total": 573,
-  "readmes": 562,
+  "total": 574,
+  "readmes": 563,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12671,6 +12671,33 @@
       "readmeUrl": "https://github.com/helloyanis/age-verification-bypass#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: webextension, firefox addon.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 574,
+      "name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "category": "Browsers & web extensions",
+      "summary": "Lightpanda: the headless browser designed for AI and automation",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android",
+        "Docker"
+      ],
+      "language": "Zig",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-30T19:45:19Z",
+      "stars": 38309,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/lightpanda-io/browser#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: browser.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
