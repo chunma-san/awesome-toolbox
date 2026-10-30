@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-30",
-  "total": 571,
-  "readmes": 560,
+  "total": 573,
+  "readmes": 562,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12625,6 +12625,52 @@
       "readmeUrl": "https://github.com/stalwartlabs/stalwart#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: smtp, imap, stalwart.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 572,
+      "name": "nextdns/nextdns",
+      "url": "https://github.com/nextdns/nextdns",
+      "category": "Privacy, DNS & security",
+      "summary": "NextDNS CLI client (DoH Proxy)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Docker"
+      ],
+      "language": "Go",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-29T23:51:04Z",
+      "stars": 4239,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/nextdns/nextdns#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: dns.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 573,
+      "name": "helloyanis/age-verification-bypass",
+      "url": "https://github.com/helloyanis/age-verification-bypass",
+      "category": "Browsers & web extensions",
+      "summary": "Extension to bypass age verification on some websites",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-30T09:42:38Z",
+      "stars": 1377,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/helloyanis/age-verification-bypass#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: webextension, firefox addon.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

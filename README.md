@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 571 projects organized into 71 categories.
+- 573 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-30. 560 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-30. 562 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -52,8 +52,8 @@ In the initial collection, the only project without an available README was [Sle
 - [Desktop, hardware & customization](#desktop-hardware--customization) (23)
 - [Android apps & launchers](#android-apps--launchers) (36)
 - [Android root, patches & stores](#android-root-patches--stores) (29)
-- [Browsers & web extensions](#browsers--web-extensions) (22)
-- [Privacy, DNS & security](#privacy-dns--security) (26)
+- [Browsers & web extensions](#browsers--web-extensions) (23)
+- [Privacy, DNS & security](#privacy-dns--security) (27)
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (13)
 - [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (17)
@@ -476,6 +476,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) — Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) — A libre lightweight streaming front-end for Android.
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) — 🧬 Source code of the PreMiD application.
+- [helloyanis/age-verification-bypass](https://github.com/helloyanis/age-verification-bypass) — Extension to bypass age verification on some websites
 
 ## Privacy, DNS & security
 
@@ -505,6 +506,7 @@ In the initial collection, the only project without an available README was [Sle
 - [lovelaze/nebula-sync](https://github.com/lovelaze/nebula-sync) — Synchronize configuration of multiple Pi-hole v6.x instances.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) — The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+- [nextdns/nextdns](https://github.com/nextdns/nextdns) — NextDNS CLI client (DoH Proxy)
 
 ## Messaging & file sharing
 
