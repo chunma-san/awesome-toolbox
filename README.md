@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 570 projects organized into 71 categories.
+- 571 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-30. 559 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-30. 560 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -70,6 +70,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Android app patching & modding](#android-app-patching--modding) (6)
 - [Camera, gallery & photo management](#camera-gallery--photo-management) (1)
 - [RSS, news & bookmarking](#rss-news--bookmarking) (1)
+- [Email & mail servers](#email--mail-servers) (1)
 - [VPN, proxies & tunnels](#vpn-proxies--tunnels) (1)
 - [Containers & orchestration](#containers--orchestration) (1)
 - [APIs, SDKs & integrations](#apis-sdks--integrations) (1)
@@ -682,6 +683,10 @@ In the initial collection, the only project without an available README was [Sle
 ## RSS, news & bookmarking
 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) — A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+
+## Email & mail servers
+
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) — All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 
 ## VPN, proxies & tunnels
 

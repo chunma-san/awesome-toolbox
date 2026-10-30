@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-30",
-  "total": 570,
-  "readmes": 559,
+  "total": 571,
+  "readmes": 560,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12599,6 +12599,32 @@
       "readmeUrl": "https://github.com/DellxCell/kronos-plus#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 571,
+      "name": "stalwartlabs/stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "category": "Email & mail servers",
+      "summary": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-28T17:56:34Z",
+      "stars": 15534,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/stalwartlabs/stalwart#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: smtp, imap, stalwart.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
