@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-10-30",
-  "total": 569,
-  "readmes": 558,
+  "total": 570,
+  "readmes": 559,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12576,6 +12576,29 @@
       "readmeUrl": "https://github.com/elder-plinius/L1B3RT4S#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 570,
+      "name": "DellxCell/kronos-plus",
+      "url": "https://github.com/DellxCell/kronos-plus",
+      "category": "Other software & utilities",
+      "summary": "Companion app for Kronos, the offline BO7 Zombies mod: manage, fix and make mods from one window.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-30T02:45:30Z",
+      "stars": 1,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/DellxCell/kronos-plus#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
