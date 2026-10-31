@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 575 projects organized into 71 categories.
+- 576 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-30. 564 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-10-31. 565 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -65,7 +65,7 @@ In the initial collection, the only project without an available README was [Sle
 - [GrapheneOS & Android operating systems](#grapheneos--android-operating-systems) (4)
 - [GrapheneOS apps & browsers](#grapheneos-apps--browsers) (5)
 - [GrapheneOS infrastructure & services](#grapheneos-infrastructure--services) (7)
-- [Linux distributions & package managers](#linux-distributions--package-managers) (1)
+- [Linux distributions & package managers](#linux-distributions--package-managers) (2)
 - [Windows compatibility & Wine](#windows-compatibility--wine) (1)
 - [Android app patching & modding](#android-app-patching--modding) (6)
 - [Camera, gallery & photo management](#camera-gallery--photo-management) (1)
@@ -665,6 +665,7 @@ In the initial collection, the only project without an available README was [Sle
 ## Linux distributions & package managers
 
 - [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) — For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
+- [derekross/omarchy-mobile](https://github.com/derekross/omarchy-mobile) — Omarchy Mobile: native Omarchy on mobile phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)
 
 ## Windows compatibility & Wine
 

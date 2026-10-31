@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-10-30",
-  "total": 575,
-  "readmes": 564,
+  "snapshot": "2026-10-31",
+  "total": 576,
+  "readmes": 565,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12726,6 +12726,31 @@
       "readmeUrl": "https://github.com/Viren070/AIOStreams#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 576,
+      "name": "derekross/omarchy-mobile",
+      "url": "https://github.com/derekross/omarchy-mobile",
+      "category": "Linux distributions & package managers",
+      "summary": "Omarchy Mobile: native Omarchy on mobile phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux",
+        "Android",
+        "Docker"
+      ],
+      "language": "Shell",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-30T20:40:33Z",
+      "stars": 291,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/derekross/omarchy-mobile#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: arch linux.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
