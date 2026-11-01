@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 576 projects organized into 71 categories.
+- 577 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-10-31. 565 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-01. 566 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -45,7 +45,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Discord & TeamSpeak](#discord--teamspeak) (37)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
-- [PlayStation & emulation](#playstation--emulation) (33)
+- [PlayStation & emulation](#playstation--emulation) (34)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (26)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
@@ -286,6 +286,7 @@ In the initial collection, the only project without an available README was [Sle
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) — PCSX2 - The Playstation 2 Emulator
 - [SirHumza/orbisRPC](https://github.com/SirHumza/orbisRPC) — orbisRPC — free, open-source Discord Rich Presence for jailbroken PS4 (GoldHEN): shows your game, cover art and play timer on Discord, straight from the console. No PC needed. Not the Orbis Protocol (Web3) or Orbis Corporation.
 - [tmghd272/ps-jb-rich-presence](https://github.com/tmghd272/ps-jb-rich-presence) — Discord Rich Presence For PS4/PS5 Jailbroken Consoles.
+- [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) — VERY experimental Nintendo Switch 2 emulator
 
 ## AION 2 & Where Winds Meet
 
