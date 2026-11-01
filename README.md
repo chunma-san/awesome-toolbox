@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 577 projects organized into 71 categories.
+- 578 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-01. 566 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-01. 567 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -85,7 +85,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (1)
-- [Other software & utilities](#other-software--utilities) (54)
+- [Other software & utilities](#other-software--utilities) (55)
 
 ## Anime, streaming & tracking
 
@@ -807,6 +807,7 @@ In the initial collection, the only project without an available README was [Sle
 - [ChrisTitusTech/titstack](https://github.com/ChrisTitusTech/titstack) — Codex and AI skills
 - [DellxCell/kronos-plus](https://github.com/DellxCell/kronos-plus) — Companion app for Kronos, the offline BO7 Zombies mod: manage, fix and make mods from one window.
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) — AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.
+- [andr1ww/Fortnitebuilds](https://github.com/andr1ww/Fortnitebuilds) — More builds, Most Links aren't mine and all credits will be below.
 
 <!-- CATALOG:END -->
 

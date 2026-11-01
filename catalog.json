@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-01",
-  "total": 577,
-  "readmes": 566,
+  "total": 578,
+  "readmes": 567,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12776,6 +12776,30 @@
       "readmeUrl": "https://github.com/Djihads80/Eglantine#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: emulator.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 578,
+      "name": "andr1ww/Fortnitebuilds",
+      "url": "https://github.com/andr1ww/Fortnitebuilds",
+      "category": "Other software & utilities",
+      "summary": "More builds, Most Links aren't mine and all credits will be below.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Android"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2025-02-18T03:28:26Z",
+      "stars": 36,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/andr1ww/Fortnitebuilds#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
