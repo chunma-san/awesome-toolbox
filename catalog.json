@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-01",
-  "total": 579,
-  "readmes": 568,
+  "total": 580,
+  "readmes": 569,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12819,6 +12819,30 @@
       "license": "MIT",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/t3dotgg/tstack#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 580,
+      "name": "0xCodez/cleanly",
+      "url": "https://github.com/0xCodez/cleanly",
+      "category": "Other software & utilities",
+      "summary": "Cleanly — a stylish, safe PC cleaner for Windows and macOS",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-30T10:52:48Z",
+      "stars": 277,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/0xCodez/cleanly#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
