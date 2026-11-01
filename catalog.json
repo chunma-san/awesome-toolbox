@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-01",
-  "total": 580,
-  "readmes": 569,
+  "total": 581,
+  "readmes": 570,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12845,6 +12845,29 @@
       "readmeUrl": "https://github.com/0xCodez/cleanly#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 581,
+      "name": "nobell001/YES-BD2",
+      "url": "https://github.com/nobell001/YES-BD2",
+      "category": "Game mods & automation",
+      "summary": "Brown Dust 2 (BD2) PC automation tool: daily tasks, map runs, trading, Fiend Hunt. 棕色塵埃2 PC 自動化工具",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-31T13:47:42Z",
+      "stars": 140,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/nobell001/YES-BD2#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: game automation.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
