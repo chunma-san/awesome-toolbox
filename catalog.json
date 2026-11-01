@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-01",
-  "total": 578,
-  "readmes": 567,
+  "total": 579,
+  "readmes": 568,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12798,6 +12798,27 @@
       "license": "Not specified",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/andr1ww/Fortnitebuilds#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 579,
+      "name": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "category": "Other software & utilities",
+      "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-28T02:38:03Z",
+      "stars": 2576,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/t3dotgg/tstack#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
