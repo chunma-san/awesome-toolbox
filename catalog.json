@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-01",
-  "total": 581,
-  "readmes": 570,
+  "snapshot": "2026-11-02",
+  "total": 582,
+  "readmes": 571,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12868,6 +12868,29 @@
       "readmeUrl": "https://github.com/nobell001/YES-BD2#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: game automation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 582,
+      "name": "Scrut1ny/GrapheneOS-Guide",
+      "url": "https://github.com/Scrut1ny/GrapheneOS-Guide",
+      "category": "Other software & utilities",
+      "summary": "A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-05-12T09:20:53Z",
+      "stars": 230,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Scrut1ny/GrapheneOS-Guide#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 581 projects organized into 71 categories.
+- 582 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-01. 570 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-02. 571 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -85,7 +85,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (1)
-- [Other software & utilities](#other-software--utilities) (57)
+- [Other software & utilities](#other-software--utilities) (58)
 
 ## Anime, streaming & tracking
 
@@ -811,6 +811,7 @@ In the initial collection, the only project without an available README was [Sle
 - [andr1ww/Fortnitebuilds](https://github.com/andr1ww/Fortnitebuilds) — More builds, Most Links aren't mine and all credits will be below.
 - [t3dotgg/tstack](https://github.com/t3dotgg/tstack) — The agent skills I use every day. Works with Claude Code and Codex.
 - [0xCodez/cleanly](https://github.com/0xCodez/cleanly) — Cleanly — a stylish, safe PC cleaner for Windows and macOS
+- [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) — A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 
 <!-- CATALOG:END -->
 
