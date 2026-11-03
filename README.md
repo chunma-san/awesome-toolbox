@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 584 projects organized into 71 categories.
+- 586 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-03. 573 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-03. 575 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -50,7 +50,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game mods & automation](#game-mods--automation) (28)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
 - [Desktop, hardware & customization](#desktop-hardware--customization) (23)
-- [Android apps & launchers](#android-apps--launchers) (36)
+- [Android apps & launchers](#android-apps--launchers) (37)
 - [Android root, patches & stores](#android-root-patches--stores) (29)
 - [Browsers & web extensions](#browsers--web-extensions) (24)
 - [Privacy, DNS & security](#privacy-dns--security) (27)
@@ -86,7 +86,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (1)
-- [Other software & utilities](#other-software--utilities) (58)
+- [Other software & utilities](#other-software--utilities) (59)
 
 ## Anime, streaming & tracking
 
@@ -423,6 +423,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Ansub/tv-detox](https://github.com/Ansub/tv-detox) — Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up
 - [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) — 2M+ app downloads, 500k+ monthly website visitors, Linux basics, tips and formatted man pages
 - [SimonSchubert/omalauncher](https://github.com/SimonSchubert/omalauncher) — Agentic Android launcher: build your own apps and widgets with AI agents, Omarchy themes, Arch Linux without root
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) — Your Android phone and your Windows PC, working as one. Local-first, end-to-end encrypted, no account.
 
 ## Android root, patches & stores
 
@@ -818,6 +819,7 @@ In the initial collection, the only project without an available README was [Sle
 - [t3dotgg/tstack](https://github.com/t3dotgg/tstack) — The agent skills I use every day. Works with Claude Code and Codex.
 - [0xCodez/cleanly](https://github.com/0xCodez/cleanly) — Cleanly — a stylish, safe PC cleaner for Windows and macOS
 - [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) — A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
+- [laike9m/TheySay](https://github.com/laike9m/TheySay) — TheySay - All the Voices on One Screen
 
 <!-- CATALOG:END -->
 

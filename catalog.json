@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-03",
-  "total": 584,
-  "readmes": 573,
+  "total": 586,
+  "readmes": 575,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12933,6 +12933,57 @@
       "readmeUrl": "https://github.com/XiaoYiWeio/brown-dust-2#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: game automation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 585,
+      "name": "thtbee/nectarlink",
+      "url": "https://github.com/thtbee/nectarlink",
+      "category": "Android apps & launchers",
+      "summary": "Your Android phone and your Windows PC, working as one. Local-first, end-to-end encrypted, no account.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-02T21:18:18Z",
+      "stars": 1747,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/thtbee/nectarlink#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: android.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 586,
+      "name": "laike9m/TheySay",
+      "url": "https://github.com/laike9m/TheySay",
+      "category": "Other software & utilities",
+      "summary": "TheySay - All the Voices on One Screen",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-02T17:19:49Z",
+      "stars": 344,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/laike9m/TheySay#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
