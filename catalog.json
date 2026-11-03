@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-03",
-  "total": 583,
-  "readmes": 572,
+  "total": 584,
+  "readmes": 573,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12912,6 +12912,27 @@
       "readmeUrl": "https://github.com/home-assistant/core#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: home automation, mqtt, iot.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 584,
+      "name": "XiaoYiWeio/brown-dust-2",
+      "url": "https://github.com/XiaoYiWeio/brown-dust-2",
+      "category": "Game mods & automation",
+      "summary": "🎮 Brown Dust 2 auto gift code redemption + daily sign-in. Zero dependencies. OpenClaw Skill.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-03-19T08:39:16Z",
+      "stars": 3,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/XiaoYiWeio/brown-dust-2#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: game automation.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

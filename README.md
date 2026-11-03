@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 583 projects organized into 71 categories.
+- 584 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-03. 572 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-03. 573 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -47,7 +47,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
 - [PlayStation & emulation](#playstation--emulation) (34)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
-- [Game mods & automation](#game-mods--automation) (27)
+- [Game mods & automation](#game-mods--automation) (28)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
 - [Desktop, hardware & customization](#desktop-hardware--customization) (23)
 - [Android apps & launchers](#android-apps--launchers) (36)
@@ -330,6 +330,7 @@ In the initial collection, the only project without an available README was [Sle
 - [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) — Image-recognition automation for repetitive Wuthering Waves activities on Windows.
 - [FanaticSoftware/T9ModManager](https://github.com/FanaticSoftware/T9ModManager) — A simple Mod Manager for Black Ops Cold War Zombies! Play & create mods built straight into the launcher!
 - [nobell001/YES-BD2](https://github.com/nobell001/YES-BD2) — Brown Dust 2 (BD2) PC automation tool: daily tasks, map runs, trading, Fiend Hunt. 棕色塵埃2 PC 自動化工具
+- [XiaoYiWeio/brown-dust-2](https://github.com/XiaoYiWeio/brown-dust-2) — 🎮 Brown Dust 2 auto gift code redemption + daily sign-in. Zero dependencies. OpenClaw Skill.
 
 ## Windows maintenance & installation
 
