@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-03",
-  "total": 586,
-  "readmes": 575,
+  "total": 587,
+  "readmes": 576,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12984,6 +12984,29 @@
       "readmeUrl": "https://github.com/laike9m/TheySay#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 587,
+      "name": "Yuuzi261/Tweetcord",
+      "url": "https://github.com/Yuuzi261/Tweetcord",
+      "category": "Containers & orchestration",
+      "summary": "A Discord bot for X (Twitter) notifications, using tweety-ns package.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T13:22:17Z",
+      "stars": 148,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Yuuzi261/Tweetcord#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: docker compose.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
