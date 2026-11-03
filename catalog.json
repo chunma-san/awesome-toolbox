@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-02",
-  "total": 582,
-  "readmes": 571,
+  "snapshot": "2026-11-03",
+  "total": 583,
+  "readmes": 572,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12891,6 +12891,27 @@
       "readmeUrl": "https://github.com/Scrut1ny/GrapheneOS-Guide#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 583,
+      "name": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "category": "Home automation & IoT",
+      "summary": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-02T23:56:50Z",
+      "stars": 91922,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/home-assistant/core#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: home automation, mqtt, iot.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

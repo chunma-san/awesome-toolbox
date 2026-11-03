@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 582 projects organized into 71 categories.
+- 583 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-02. 571 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-03. 572 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -73,6 +73,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Email & mail servers](#email--mail-servers) (1)
 - [VPN, proxies & tunnels](#vpn-proxies--tunnels) (1)
 - [Containers & orchestration](#containers--orchestration) (1)
+- [Home automation & IoT](#home-automation--iot) (1)
 - [APIs, SDKs & integrations](#apis-sdks--integrations) (1)
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (1)
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (2)
@@ -701,6 +702,10 @@ In the initial collection, the only project without an available README was [Sle
 ## Containers & orchestration
 
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) — Various Docker Compose examples of selfhosted FOSS and proprietary projects.
+
+## Home automation & IoT
+
+- [home-assistant/core](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ## APIs, SDKs & integrations
 
