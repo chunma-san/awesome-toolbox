@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-03",
-  "total": 587,
-  "readmes": 576,
+  "total": 588,
+  "readmes": 577,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13007,6 +13007,27 @@
       "readmeUrl": "https://github.com/Yuuzi261/Tweetcord#readme",
       "notes": [
         "Categorized from the more specific metadata phrase: docker compose.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 588,
+      "name": "Divity/kronos-data",
+      "url": "https://github.com/Divity/kronos-data",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Standard ML",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-03T00:41:04Z",
+      "stars": 1,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Divity/kronos-data#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

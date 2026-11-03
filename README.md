@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 587 projects organized into 71 categories.
+- 588 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-03. 576 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-03. 577 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -86,7 +86,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (1)
-- [Other software & utilities](#other-software--utilities) (59)
+- [Other software & utilities](#other-software--utilities) (60)
 
 ## Anime, streaming & tracking
 
@@ -821,6 +821,7 @@ In the initial collection, the only project without an available README was [Sle
 - [0xCodez/cleanly](https://github.com/0xCodez/cleanly) — Cleanly — a stylish, safe PC cleaner for Windows and macOS
 - [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) — A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 - [laike9m/TheySay](https://github.com/laike9m/TheySay) — TheySay - All the Voices on One Screen
+- [Divity/kronos-data](https://github.com/Divity/kronos-data) — A project related to other software & utilities; see its official documentation for details.
 
 <!-- CATALOG:END -->
 
