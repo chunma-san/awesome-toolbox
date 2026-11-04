@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 588 projects organized into 71 categories.
+- 590 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-03. 577 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-04. 579 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -38,7 +38,7 @@ In the initial collection, the only project without an available README was [Sle
 
 ## Contents
 
-- [Anime, streaming & tracking](#anime-streaming--tracking) (17)
+- [Anime, streaming & tracking](#anime-streaming--tracking) (18)
 - [Manga, novels & reading](#manga-novels--reading) (15)
 - [Music, podcasts & media players](#music-podcasts--media-players) (31)
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
@@ -86,7 +86,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (1)
-- [Other software & utilities](#other-software--utilities) (60)
+- [Other software & utilities](#other-software--utilities) (61)
 
 ## Anime, streaming & tracking
 
@@ -107,6 +107,7 @@ In the initial collection, the only project without an available README was [Sle
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) — An app for manga and anime
 - [axiel7/AniHyou-android](https://github.com/axiel7/AniHyou-android) — Another unofficial Android AniList client
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) — Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
+- [EpinelPS/EpinelPS](https://github.com/EpinelPS/EpinelPS) — A private server for some anime game
 
 ## Manga, novels & reading
 
@@ -822,6 +823,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) — A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 - [laike9m/TheySay](https://github.com/laike9m/TheySay) — TheySay - All the Voices on One Screen
 - [Divity/kronos-data](https://github.com/Divity/kronos-data) — A project related to other software & utilities; see its official documentation for details.
+- [EpinelPS/EpinelPSLauncher](https://github.com/EpinelPS/EpinelPSLauncher) — A project related to other software & utilities; see its official documentation for details.
 
 <!-- CATALOG:END -->
 

@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-03",
-  "total": 588,
-  "readmes": 577,
+  "snapshot": "2026-11-04",
+  "total": 590,
+  "readmes": 579,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13026,6 +13026,53 @@
       "license": "Not specified",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/Divity/kronos-data#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 589,
+      "name": "EpinelPS/EpinelPS",
+      "url": "https://github.com/EpinelPS/EpinelPS",
+      "category": "Anime, streaming & tracking",
+      "summary": "A private server for some anime game",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-29T17:38:28Z",
+      "stars": 587,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/EpinelPS/EpinelPS#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: anime.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 590,
+      "name": "EpinelPS/EpinelPSLauncher",
+      "url": "https://github.com/EpinelPS/EpinelPSLauncher",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-17T04:18:58Z",
+      "stars": 16,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/EpinelPS/EpinelPSLauncher#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
