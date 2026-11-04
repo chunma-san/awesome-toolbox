@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-04",
-  "total": 590,
-  "readmes": 579,
+  "total": 592,
+  "readmes": 581,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13075,6 +13075,55 @@
       "readmeUrl": "https://github.com/EpinelPS/EpinelPSLauncher#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 591,
+      "name": "whykusanagi/nikke_malware",
+      "url": "https://github.com/whykusanagi/nikke_malware",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "PowerShell",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-04T17:48:46Z",
+      "stars": 27,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/whykusanagi/nikke_malware#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 592,
+      "name": "MotherSphere/NIKKE-Launcher-Check",
+      "url": "https://github.com/MotherSphere/NIKKE-Launcher-Check",
+      "category": "Other software & utilities",
+      "summary": "Read-only check for traces of the November 2026 NIKKE PC launcher compromise. Windows, Linux (Proton, Steam Deck) and macOS.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-04T13:33:28Z",
+      "stars": 68,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/MotherSphere/NIKKE-Launcher-Check#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
