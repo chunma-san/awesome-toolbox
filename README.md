@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 592 projects organized into 71 categories.
+- 593 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-04. 581 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-04. 582 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -85,7 +85,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
-- [Security research & testing](#security-research--testing) (1)
+- [Security research & testing](#security-research--testing) (2)
 - [Other software & utilities](#other-software--utilities) (63)
 
 ## Anime, streaming & tracking
@@ -760,6 +760,7 @@ In the initial collection, the only project without an available README was [Sle
 ## Security research & testing
 
 - [revere-group/discord-badge-spoofer](https://github.com/revere-group/discord-badge-spoofer) — Discord badge spoofer - fake playtime and games-played to level up the new profile badges.
+- [Hiro420/NikkeTools](https://github.com/Hiro420/NikkeTools) — Tools for Reverse-Engineering Nikke
 
 ## Other software & utilities
 

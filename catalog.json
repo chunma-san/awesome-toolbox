@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-04",
-  "total": 592,
-  "readmes": 581,
+  "total": 593,
+  "readmes": 582,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13124,6 +13124,27 @@
       "readmeUrl": "https://github.com/MotherSphere/NIKKE-Launcher-Check#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 593,
+      "name": "Hiro420/NikkeTools",
+      "url": "https://github.com/Hiro420/NikkeTools",
+      "category": "Security research & testing",
+      "summary": "Tools for Reverse-Engineering Nikke",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Java",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-03T00:07:58Z",
+      "stars": 64,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Hiro420/NikkeTools#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: reverse engineering.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
