@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-05",
-  "total": 595,
-  "readmes": 584,
+  "total": 602,
+  "readmes": 591,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13192,6 +13192,169 @@
       "readmeUrl": "https://github.com/Amethxst/Arise-RTM-GTAV-PS4#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: ps4.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 596,
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "category": "Other software & utilities",
+      "summary": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T21:06:06Z",
+      "stars": 62784,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/BerriAI/litellm#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 597,
+      "name": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "category": "Development, AI & security research",
+      "summary": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T21:04:55Z",
+      "stars": 26883,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/promptfoo/promptfoo#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 598,
+      "name": "LibreChat-AI/LibreChat",
+      "url": "https://github.com/LibreChat-AI/LibreChat",
+      "category": "Other software & utilities",
+      "summary": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T19:41:38Z",
+      "stars": 46778,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/LibreChat-AI/LibreChat#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 599,
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "category": "Other software & utilities",
+      "summary": "Python tool for converting files and office documents to Markdown.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-28T15:33:14Z",
+      "stars": 194048,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/microsoft/markitdown#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 600,
+      "name": "ccusage/ccusage",
+      "url": "https://github.com/ccusage/ccusage",
+      "category": "Other software & utilities",
+      "summary": "npx ccusage",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T11:42:37Z",
+      "stars": 19338,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ccusage/ccusage#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 601,
+      "name": "yamadashy/repomix",
+      "url": "https://github.com/yamadashy/repomix",
+      "category": "Development, AI & security research",
+      "summary": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T15:35:51Z",
+      "stars": 29161,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/yamadashy/repomix#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 602,
+      "name": "upstash/context7",
+      "url": "https://github.com/upstash/context7",
+      "category": "Development, AI & security research",
+      "summary": "Context7 Platform -- Up-to-date docs for AI agents",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T14:14:50Z",
+      "stars": 64244,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/upstash/context7#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
