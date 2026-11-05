@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-05",
-  "total": 603,
-  "readmes": 592,
+  "total": 604,
+  "readmes": 593,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13382,6 +13382,32 @@
       "readmeUrl": "https://github.com/OpenHands/OpenHands#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 604,
+      "name": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "category": "Self-hosting, feeds & infrastructure",
+      "summary": "A project related to self-hosting, feeds & infrastructure; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T17:37:49Z",
+      "stars": 3217,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/KKKKhazix/agent-autoloop#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: self-hosted.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
