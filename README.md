@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 593 projects organized into 71 categories.
+- 594 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-04. 582 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-05. 583 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -86,7 +86,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (2)
-- [Other software & utilities](#other-software--utilities) (63)
+- [Other software & utilities](#other-software--utilities) (64)
 
 ## Anime, streaming & tracking
 
@@ -827,6 +827,7 @@ In the initial collection, the only project without an available README was [Sle
 - [EpinelPS/EpinelPSLauncher](https://github.com/EpinelPS/EpinelPSLauncher) — A project related to other software & utilities; see its official documentation for details.
 - [whykusanagi/nikke_malware](https://github.com/whykusanagi/nikke_malware) — A project related to other software & utilities; see its official documentation for details.
 - [MotherSphere/NIKKE-Launcher-Check](https://github.com/MotherSphere/NIKKE-Launcher-Check) — Read-only check for traces of the November 2026 NIKKE PC launcher compromise. Windows, Linux (Proton, Steam Deck) and macOS.
+- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) — Self hosted Spotify tracking dashboard
 
 <!-- CATALOG:END -->
 

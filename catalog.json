@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-04",
-  "total": 593,
-  "readmes": 582,
+  "snapshot": "2026-11-05",
+  "total": 594,
+  "readmes": 583,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13145,6 +13145,30 @@
       "readmeUrl": "https://github.com/Hiro420/NikkeTools#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: reverse engineering.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 594,
+      "name": "Yooooomi/your_spotify",
+      "url": "https://github.com/Yooooomi/your_spotify",
+      "category": "Other software & utilities",
+      "summary": "Self hosted Spotify tracking dashboard",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-07-10T11:43:35Z",
+      "stars": 4619,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Yooooomi/your_spotify#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
