@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 602 projects organized into 71 categories.
+- 603 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-05. 591 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-05. 592 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -57,7 +57,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (13)
 - [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (17)
-- [Development, AI & security research](#development-ai--security-research) (19)
+- [Development, AI & security research](#development-ai--security-research) (20)
 - [Creative tools, documents & translation](#creative-tools-documents--translation) (16)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
 - [Curated lists & learning resources](#curated-lists--learning-resources) (19)
@@ -586,6 +586,7 @@ In the initial collection, the only project without an available README was [Sle
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 - [upstash/context7](https://github.com/upstash/context7) — Context7 Platform -- Up-to-date docs for AI agents
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) — 🙌 OpenHands: AI-Driven Development
 
 ## Creative tools, documents & translation
 

@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-05",
-  "total": 602,
-  "readmes": 591,
+  "total": 603,
+  "readmes": 592,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13353,6 +13353,33 @@
       "license": "MIT",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/upstash/context7#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 603,
+      "name": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "category": "Development, AI & security research",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T21:18:30Z",
+      "stars": 92740,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/OpenHands/OpenHands#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: llm.",
         "Descriptive import only; no software was installed, executed or security-audited."
