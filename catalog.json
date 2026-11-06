@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-06",
-  "total": 613,
-  "readmes": 602,
+  "total": 614,
+  "readmes": 603,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13620,6 +13620,31 @@
       "readmeUrl": "https://github.com/herdrdev/herdr#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: terminal multiplexer.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 614,
+      "name": "mmvanheusden/SteamDepotDownloaderGUI",
+      "url": "https://github.com/mmvanheusden/SteamDepotDownloaderGUI",
+      "category": "Steam, game libraries & achievements",
+      "summary": "Downgrade Steam games to older versions with ease using DepotDownloader",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T11:51:53Z",
+      "stars": 582,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/mmvanheusden/SteamDepotDownloaderGUI#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: steam.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
