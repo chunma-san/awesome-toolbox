@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-06",
-  "total": 609,
-  "readmes": 598,
+  "total": 611,
+  "readmes": 600,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13527,6 +13527,52 @@
       "readmeUrl": "https://github.com/XAV59213/freebox_homexa#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: home assistant.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 610,
+      "name": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "category": "PlayStation & emulation",
+      "summary": "VERY experimental Nintendo Switch 2 emulator",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-06T17:10:49Z",
+      "stars": 3478,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/zortos293/Lichii#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: emulator.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 611,
+      "name": "Goochbeater/Spiritual-Spell-Red-Teaming",
+      "url": "https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming",
+      "category": "Other software & utilities",
+      "summary": "A repo for jailbreaking various LLMs, mainly Claude",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-04T16:23:41Z",
+      "stars": 4654,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

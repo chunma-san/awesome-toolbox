@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 609 projects organized into 71 categories.
+- 611 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-06. 598 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-06. 600 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -45,7 +45,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Discord & TeamSpeak](#discord--teamspeak) (37)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
-- [PlayStation & emulation](#playstation--emulation) (35)
+- [PlayStation & emulation](#playstation--emulation) (36)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (28)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
@@ -87,7 +87,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (2)
-- [Other software & utilities](#other-software--utilities) (70)
+- [Other software & utilities](#other-software--utilities) (71)
 
 ## Anime, streaming & tracking
 
@@ -291,6 +291,7 @@ In the initial collection, the only project without an available README was [Sle
 - [tmghd272/ps-jb-rich-presence](https://github.com/tmghd272/ps-jb-rich-presence) — Discord Rich Presence For PS4/PS5 Jailbroken Consoles.
 - [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) — VERY experimental Nintendo Switch 2 emulator
 - [Amethxst/Arise-RTM-GTAV-PS4](https://github.com/Amethxst/Arise-RTM-GTAV-PS4) — Outfit editor, fast run, K/D and debug tools for GTA V on PS4
+- [zortos293/Lichii](https://github.com/zortos293/Lichii) — VERY experimental Nintendo Switch 2 emulator
 
 ## AION 2 & Where Winds Meet
 
@@ -847,6 +848,7 @@ In the initial collection, the only project without an available README was [Sle
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) — npx ccusage
 - [hacf-fr/freebox-api](https://github.com/hacf-fr/freebox-api) — Manage your freebox in Python using the Freebox OS API
 - [HGHugo/FreeboxOS-Ultra-Dashboard](https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard) — Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : suivi temps réel du débit, statut de connexion, appareils connectés, Wi-Fi, VPN, téléchargements, fichiers, téléphonie, TV, machines virtuelles, contrôle parental et statistiques réseau avancées, le tout dans un dashboard unique.
+- [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) — A repo for jailbreaking various LLMs, mainly Claude
 
 <!-- CATALOG:END -->
 
