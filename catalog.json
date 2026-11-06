@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-06",
-  "total": 611,
-  "readmes": 600,
+  "total": 612,
+  "readmes": 601,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13573,6 +13573,30 @@
       "readmeUrl": "https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 612,
+      "name": "sikoGD/playDB-CNT",
+      "url": "https://github.com/sikoGD/playDB-CNT",
+      "category": "PlayStation & emulation",
+      "summary": "Play The Duskbloods Network Test on Eglantine/Lichii: a launcher with local loopback-only servers for the online checks.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-06T17:24:09Z",
+      "stars": 44,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/sikoGD/playDB-CNT#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: emulator.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 611 projects organized into 71 categories.
+- 612 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-06. 600 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-06. 601 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -45,7 +45,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Discord & TeamSpeak](#discord--teamspeak) (37)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (22)
-- [PlayStation & emulation](#playstation--emulation) (36)
+- [PlayStation & emulation](#playstation--emulation) (37)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (28)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
@@ -292,6 +292,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) — VERY experimental Nintendo Switch 2 emulator
 - [Amethxst/Arise-RTM-GTAV-PS4](https://github.com/Amethxst/Arise-RTM-GTAV-PS4) — Outfit editor, fast run, K/D and debug tools for GTA V on PS4
 - [zortos293/Lichii](https://github.com/zortos293/Lichii) — VERY experimental Nintendo Switch 2 emulator
+- [sikoGD/playDB-CNT](https://github.com/sikoGD/playDB-CNT) — Play The Duskbloods Network Test on Eglantine/Lichii: a launcher with local loopback-only servers for the online checks.
 
 ## AION 2 & Where Winds Meet
 
