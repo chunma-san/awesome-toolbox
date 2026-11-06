@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-06",
-  "total": 607,
-  "readmes": 596,
+  "total": 609,
+  "readmes": 598,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13477,6 +13477,56 @@
       "readmeUrl": "https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 608,
+      "name": "Erreur32/MynetworK",
+      "url": "https://github.com/Erreur32/MynetworK",
+      "category": "Self-hosting, feeds & infrastructure",
+      "summary": "Unified Freebox + UniFi management + Network Scanner.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-04T11:26:59Z",
+      "stars": 6,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Erreur32/MynetworK#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: self-hosted.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 609,
+      "name": "XAV59213/freebox_homexa",
+      "url": "https://github.com/XAV59213/freebox_homexa",
+      "category": "Home automation & IoT",
+      "summary": "Freebox Homexa - L'intégration ultime des services Free",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-06T06:24:49Z",
+      "stars": 11,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/XAV59213/freebox_homexa#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: home assistant.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

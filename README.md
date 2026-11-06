@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 607 projects organized into 71 categories.
+- 609 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-06. 596 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-06. 598 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -56,7 +56,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Privacy, DNS & security](#privacy-dns--security) (27)
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (13)
-- [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (18)
+- [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (19)
 - [Development, AI & security research](#development-ai--security-research) (20)
 - [Creative tools, documents & translation](#creative-tools-documents--translation) (16)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
@@ -74,7 +74,7 @@ In the initial collection, the only project without an available README was [Sle
 - [VPN, proxies & tunnels](#vpn-proxies--tunnels) (1)
 - [Containers & orchestration](#containers--orchestration) (2)
 - [Server dashboards & monitoring](#server-dashboards--monitoring) (1)
-- [Home automation & IoT](#home-automation--iot) (1)
+- [Home automation & IoT](#home-automation--iot) (2)
 - [APIs, SDKs & integrations](#apis-sdks--integrations) (1)
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (1)
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (2)
@@ -566,6 +566,7 @@ In the initial collection, the only project without an available README was [Sle
 - [henrygd/beszel](https://github.com/henrygd/beszel) — Lightweight server monitoring with historical data, docker stats, and alerts.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 - [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) — A project related to self-hosting, feeds & infrastructure; see its official documentation for details.
+- [Erreur32/MynetworK](https://github.com/Erreur32/MynetworK) — Unified Freebox + UniFi management + Network Scanner.
 
 ## Development, AI & security research
 
@@ -721,6 +722,7 @@ In the initial collection, the only project without an available README was [Sle
 ## Home automation & IoT
 
 - [home-assistant/core](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and privacy first.
+- [XAV59213/freebox_homexa](https://github.com/XAV59213/freebox_homexa) — Freebox Homexa - L'intégration ultime des services Free
 
 ## APIs, SDKs & integrations
 
