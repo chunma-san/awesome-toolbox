@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-05",
-  "total": 604,
-  "readmes": 593,
+  "snapshot": "2026-11-06",
+  "total": 607,
+  "readmes": 596,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13408,6 +13408,75 @@
       "readmeUrl": "https://github.com/KKKKhazix/agent-autoloop#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: self-hosted.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 605,
+      "name": "shackerd/freebox-exporter-rs",
+      "url": "https://github.com/shackerd/freebox-exporter-rs",
+      "category": "Server dashboards & monitoring",
+      "summary": "Unofficial Free S.A.S. ISP Freebox API exporter for Prometheus",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-03T05:33:04Z",
+      "stars": 29,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/shackerd/freebox-exporter-rs#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: prometheus.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 606,
+      "name": "hacf-fr/freebox-api",
+      "url": "https://github.com/hacf-fr/freebox-api",
+      "category": "Other software & utilities",
+      "summary": "Manage your freebox in Python using the Freebox OS API",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Python",
+      "archived": false,
+      "fork": true,
+      "pushed": "2026-11-05T19:17:39Z",
+      "stars": 54,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/hacf-fr/freebox-api#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 607,
+      "name": "HGHugo/FreeboxOS-Ultra-Dashboard",
+      "url": "https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard",
+      "category": "Other software & utilities",
+      "summary": "Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : suivi temps réel du débit, statut de connexion, appareils connectés, Wi-Fi, VPN, téléchargements, fichiers, téléphonie, TV, machines virtuelles, contrôle parental et statistiques réseau avancées, le tout dans un dashboard unique.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Docker"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-07-01T21:36:36Z",
+      "stars": 409,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 604 projects organized into 71 categories.
+- 607 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-05. 593 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-06. 596 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -73,6 +73,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Email & mail servers](#email--mail-servers) (1)
 - [VPN, proxies & tunnels](#vpn-proxies--tunnels) (1)
 - [Containers & orchestration](#containers--orchestration) (2)
+- [Server dashboards & monitoring](#server-dashboards--monitoring) (1)
 - [Home automation & IoT](#home-automation--iot) (1)
 - [APIs, SDKs & integrations](#apis-sdks--integrations) (1)
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (1)
@@ -86,7 +87,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (2)
-- [Other software & utilities](#other-software--utilities) (68)
+- [Other software & utilities](#other-software--utilities) (70)
 
 ## Anime, streaming & tracking
 
@@ -713,6 +714,10 @@ In the initial collection, the only project without an available README was [Sle
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) — Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [Yuuzi261/Tweetcord](https://github.com/Yuuzi261/Tweetcord) — A Discord bot for X (Twitter) notifications, using tweety-ns package.
 
+## Server dashboards & monitoring
+
+- [shackerd/freebox-exporter-rs](https://github.com/shackerd/freebox-exporter-rs) — Unofficial Free S.A.S. ISP Freebox API exporter for Prometheus
+
 ## Home automation & IoT
 
 - [home-assistant/core](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -838,6 +843,8 @@ In the initial collection, the only project without an available README was [Sle
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown.
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) — npx ccusage
+- [hacf-fr/freebox-api](https://github.com/hacf-fr/freebox-api) — Manage your freebox in Python using the Freebox OS API
+- [HGHugo/FreeboxOS-Ultra-Dashboard](https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard) — Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : suivi temps réel du débit, statut de connexion, appareils connectés, Wi-Fi, VPN, téléchargements, fichiers, téléphonie, TV, machines virtuelles, contrôle parental et statistiques réseau avancées, le tout dans un dashboard unique.
 
 <!-- CATALOG:END -->
 
