@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-01",
-  "total": 578,
-  "readmes": 567,
+  "snapshot": "2026-11-06",
+  "total": 613,
+  "readmes": 602,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -12781,6 +12781,827 @@
     },
     {
       "number": 578,
+      "name": "andr1ww/Fortnitebuilds",
+      "url": "https://github.com/andr1ww/Fortnitebuilds",
+      "category": "Other software & utilities",
+      "summary": "More builds, Most Links aren't mine and all credits will be below.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Android"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2025-02-18T03:28:26Z",
+      "stars": 36,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/andr1ww/Fortnitebuilds#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 579,
+      "name": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "category": "Other software & utilities",
+      "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-28T02:38:03Z",
+      "stars": 2576,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/t3dotgg/tstack#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 580,
+      "name": "0xCodez/cleanly",
+      "url": "https://github.com/0xCodez/cleanly",
+      "category": "Other software & utilities",
+      "summary": "Cleanly — a stylish, safe PC cleaner for Windows and macOS",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-30T10:52:48Z",
+      "stars": 277,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/0xCodez/cleanly#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 581,
+      "name": "nobell001/YES-BD2",
+      "url": "https://github.com/nobell001/YES-BD2",
+      "category": "Game mods & automation",
+      "summary": "Brown Dust 2 (BD2) PC automation tool: daily tasks, map runs, trading, Fiend Hunt. 棕色塵埃2 PC 自動化工具",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-31T13:47:42Z",
+      "stars": 140,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/nobell001/YES-BD2#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: game automation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 582,
+      "name": "Scrut1ny/GrapheneOS-Guide",
+      "url": "https://github.com/Scrut1ny/GrapheneOS-Guide",
+      "category": "Other software & utilities",
+      "summary": "A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-05-12T09:20:53Z",
+      "stars": 230,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Scrut1ny/GrapheneOS-Guide#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 583,
+      "name": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "category": "Home automation & IoT",
+      "summary": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-02T23:56:50Z",
+      "stars": 91922,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/home-assistant/core#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: home automation, mqtt, iot.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 584,
+      "name": "XiaoYiWeio/brown-dust-2",
+      "url": "https://github.com/XiaoYiWeio/brown-dust-2",
+      "category": "Game mods & automation",
+      "summary": "🎮 Brown Dust 2 auto gift code redemption + daily sign-in. Zero dependencies. OpenClaw Skill.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-03-19T08:39:16Z",
+      "stars": 3,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/XiaoYiWeio/brown-dust-2#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: game automation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 585,
+      "name": "thtbee/nectarlink",
+      "url": "https://github.com/thtbee/nectarlink",
+      "category": "Android apps & launchers",
+      "summary": "Your Android phone and your Windows PC, working as one. Local-first, end-to-end encrypted, no account.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-02T21:18:18Z",
+      "stars": 1747,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/thtbee/nectarlink#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: android.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 586,
+      "name": "laike9m/TheySay",
+      "url": "https://github.com/laike9m/TheySay",
+      "category": "Other software & utilities",
+      "summary": "TheySay - All the Voices on One Screen",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-02T17:19:49Z",
+      "stars": 344,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/laike9m/TheySay#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 587,
+      "name": "Yuuzi261/Tweetcord",
+      "url": "https://github.com/Yuuzi261/Tweetcord",
+      "category": "Containers & orchestration",
+      "summary": "A Discord bot for X (Twitter) notifications, using tweety-ns package.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-18T13:22:17Z",
+      "stars": 148,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Yuuzi261/Tweetcord#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: docker compose.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 588,
+      "name": "Divity/kronos-data",
+      "url": "https://github.com/Divity/kronos-data",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Standard ML",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-03T00:41:04Z",
+      "stars": 1,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Divity/kronos-data#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 589,
+      "name": "EpinelPS/EpinelPS",
+      "url": "https://github.com/EpinelPS/EpinelPS",
+      "category": "Anime, streaming & tracking",
+      "summary": "A private server for some anime game",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-29T17:38:28Z",
+      "stars": 587,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/EpinelPS/EpinelPS#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: anime.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 590,
+      "name": "EpinelPS/EpinelPSLauncher",
+      "url": "https://github.com/EpinelPS/EpinelPSLauncher",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-17T04:18:58Z",
+      "stars": 16,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/EpinelPS/EpinelPSLauncher#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 591,
+      "name": "whykusanagi/nikke_malware",
+      "url": "https://github.com/whykusanagi/nikke_malware",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "PowerShell",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-04T17:48:46Z",
+      "stars": 27,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/whykusanagi/nikke_malware#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 592,
+      "name": "MotherSphere/NIKKE-Launcher-Check",
+      "url": "https://github.com/MotherSphere/NIKKE-Launcher-Check",
+      "category": "Other software & utilities",
+      "summary": "Read-only check for traces of the November 2026 NIKKE PC launcher compromise. Windows, Linux (Proton, Steam Deck) and macOS.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-04T13:33:28Z",
+      "stars": 68,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/MotherSphere/NIKKE-Launcher-Check#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 593,
+      "name": "Hiro420/NikkeTools",
+      "url": "https://github.com/Hiro420/NikkeTools",
+      "category": "Security research & testing",
+      "summary": "Tools for Reverse-Engineering Nikke",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Java",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-03T00:07:58Z",
+      "stars": 64,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Hiro420/NikkeTools#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: reverse engineering.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 594,
+      "name": "Yooooomi/your_spotify",
+      "url": "https://github.com/Yooooomi/your_spotify",
+      "category": "Other software & utilities",
+      "summary": "Self hosted Spotify tracking dashboard",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-07-10T11:43:35Z",
+      "stars": 4619,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Yooooomi/your_spotify#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 595,
+      "name": "Amethxst/Arise-RTM-GTAV-PS4",
+      "url": "https://github.com/Amethxst/Arise-RTM-GTAV-PS4",
+      "category": "PlayStation & emulation",
+      "summary": "Outfit editor, fast run, K/D and debug tools for GTA V on PS4",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-04T21:08:54Z",
+      "stars": 5,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Amethxst/Arise-RTM-GTAV-PS4#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: ps4.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 596,
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "category": "Other software & utilities",
+      "summary": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T21:06:06Z",
+      "stars": 62784,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/BerriAI/litellm#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 597,
+      "name": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "category": "Development, AI & security research",
+      "summary": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T21:04:55Z",
+      "stars": 26883,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/promptfoo/promptfoo#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 598,
+      "name": "LibreChat-AI/LibreChat",
+      "url": "https://github.com/LibreChat-AI/LibreChat",
+      "category": "Other software & utilities",
+      "summary": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T19:41:38Z",
+      "stars": 46778,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/LibreChat-AI/LibreChat#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 599,
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "category": "Other software & utilities",
+      "summary": "Python tool for converting files and office documents to Markdown.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-28T15:33:14Z",
+      "stars": 194048,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/microsoft/markitdown#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 600,
+      "name": "ccusage/ccusage",
+      "url": "https://github.com/ccusage/ccusage",
+      "category": "Other software & utilities",
+      "summary": "npx ccusage",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T11:42:37Z",
+      "stars": 19338,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ccusage/ccusage#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 601,
+      "name": "yamadashy/repomix",
+      "url": "https://github.com/yamadashy/repomix",
+      "category": "Development, AI & security research",
+      "summary": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T15:35:51Z",
+      "stars": 29161,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/yamadashy/repomix#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 602,
+      "name": "upstash/context7",
+      "url": "https://github.com/upstash/context7",
+      "category": "Development, AI & security research",
+      "summary": "Context7 Platform -- Up-to-date docs for AI agents",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T14:14:50Z",
+      "stars": 64244,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/upstash/context7#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 603,
+      "name": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "category": "Development, AI & security research",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T21:18:30Z",
+      "stars": 92740,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/OpenHands/OpenHands#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 604,
+      "name": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "category": "Self-hosting, feeds & infrastructure",
+      "summary": "A project related to self-hosting, feeds & infrastructure; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-05T17:37:49Z",
+      "stars": 3217,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/KKKKhazix/agent-autoloop#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: self-hosted.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 605,
+      "name": "shackerd/freebox-exporter-rs",
+      "url": "https://github.com/shackerd/freebox-exporter-rs",
+      "category": "Server dashboards & monitoring",
+      "summary": "Unofficial Free S.A.S. ISP Freebox API exporter for Prometheus",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-03T05:33:04Z",
+      "stars": 29,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/shackerd/freebox-exporter-rs#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: prometheus.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 606,
+      "name": "hacf-fr/freebox-api",
+      "url": "https://github.com/hacf-fr/freebox-api",
+      "category": "Other software & utilities",
+      "summary": "Manage your freebox in Python using the Freebox OS API",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Python",
+      "archived": false,
+      "fork": true,
+      "pushed": "2026-11-05T19:17:39Z",
+      "stars": 54,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/hacf-fr/freebox-api#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 607,
+      "name": "HGHugo/FreeboxOS-Ultra-Dashboard",
+      "url": "https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard",
+      "category": "Other software & utilities",
+      "summary": "Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : suivi temps réel du débit, statut de connexion, appareils connectés, Wi-Fi, VPN, téléchargements, fichiers, téléphonie, TV, machines virtuelles, contrôle parental et statistiques réseau avancées, le tout dans un dashboard unique.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Docker"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-07-01T21:36:36Z",
+      "stars": 409,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 608,
+      "name": "Erreur32/MynetworK",
+      "url": "https://github.com/Erreur32/MynetworK",
+      "category": "Self-hosting, feeds & infrastructure",
+      "summary": "Unified Freebox + UniFi management + Network Scanner.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-04T11:26:59Z",
+      "stars": 6,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Erreur32/MynetworK#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: self-hosted.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 609,
+      "name": "XAV59213/freebox_homexa",
+      "url": "https://github.com/XAV59213/freebox_homexa",
+      "category": "Home automation & IoT",
+      "summary": "Freebox Homexa - L'intégration ultime des services Free",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-06T06:24:49Z",
+      "stars": 11,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/XAV59213/freebox_homexa#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: home assistant.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 610,
+      "name": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "category": "PlayStation & emulation",
+      "summary": "VERY experimental Nintendo Switch 2 emulator",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-06T17:10:49Z",
+      "stars": 3478,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/zortos293/Lichii#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: emulator.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 611,
+      "name": "Goochbeater/Spiritual-Spell-Red-Teaming",
+      "url": "https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming",
+      "category": "Other software & utilities",
+      "summary": "A repo for jailbreaking various LLMs, mainly Claude",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-04T16:23:41Z",
+      "stars": 4654,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 612,
+      "name": "sikoGD/playDB-CNT",
+      "url": "https://github.com/sikoGD/playDB-CNT",
+      "category": "PlayStation & emulation",
+      "summary": "Play The Duskbloods Network Test on Eglantine/Lichii: a launcher with local loopback-only servers for the online checks.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-06T17:24:09Z",
+      "stars": 44,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/sikoGD/playDB-CNT#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: emulator.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 613,
       "name": "vostride/agent-qa",
       "url": "https://github.com/vostride/agent-qa",
       "category": "AI assistants & coding tools",
@@ -12790,8 +13611,8 @@
       "language": "TypeScript",
       "archived": false,
       "fork": false,
-      "pushed": "2026-11-01T06:27:32Z",
-      "stars": 914,
+      "pushed": "2026-11-06T18:31:28Z",
+      "stars": 856,
       "license": "FSL-1.1-ALv2",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/vostride/agent-qa#readme",
