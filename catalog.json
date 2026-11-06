@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-06",
-  "total": 612,
-  "readmes": 601,
+  "total": 613,
+  "readmes": 602,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13597,6 +13597,29 @@
       "readmeUrl": "https://github.com/sikoGD/playDB-CNT#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: emulator.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 613,
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "category": "CLI, terminal & shell tools",
+      "summary": "the runtime your coding agents live on",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-03T11:36:13Z",
+      "stars": 48545,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/herdrdev/herdr#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: terminal multiplexer.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
