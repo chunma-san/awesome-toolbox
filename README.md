@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 613 projects organized into 71 categories.
+- 614 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-06. 602 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-06. 603 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -76,7 +76,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Server dashboards & monitoring](#server-dashboards--monitoring) (1)
 - [Home automation & IoT](#home-automation--iot) (2)
 - [APIs, SDKs & integrations](#apis-sdks--integrations) (1)
-- [CLI, terminal & shell tools](#cli-terminal--shell-tools) (1)
+- [CLI, terminal & shell tools](#cli-terminal--shell-tools) (2)
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (2)
 - [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
 - [Git, CI & release automation](#git-ci--release-automation) (1)
@@ -733,6 +733,7 @@ In the initial collection, the only project without an available README was [Sle
 ## CLI, terminal & shell tools
 
 - [termux/termux-app](https://github.com/termux/termux-app) — Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) — the runtime your coding agents live on
 
 ## AI assistants & coding tools
 
