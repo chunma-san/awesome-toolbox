@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 620 projects organized into 71 categories.
+- 623 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-07. 609 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-07. 612 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -86,8 +86,8 @@ In the initial collection, the only project without an available README was [Sle
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
-- [Security research & testing](#security-research--testing) (2)
-- [Other software & utilities](#other-software--utilities) (73)
+- [Security research & testing](#security-research--testing) (3)
+- [Other software & utilities](#other-software--utilities) (75)
 
 ## Anime, streaming & tracking
 
@@ -782,6 +782,7 @@ In the initial collection, the only project without an available README was [Sle
 
 - [revere-group/discord-badge-spoofer](https://github.com/revere-group/discord-badge-spoofer) — Discord badge spoofer - fake playtime and games-played to level up the new profile badges.
 - [Hiro420/NikkeTools](https://github.com/Hiro420/NikkeTools) — Tools for Reverse-Engineering Nikke
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) — Ghidra is a software reverse engineering (SRE) framework
 
 ## Other software & utilities
 
@@ -858,6 +859,8 @@ In the initial collection, the only project without an available README was [Sle
 - [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) — A repo for jailbreaking various LLMs, mainly Claude
 - [Baillora/Kick_Channel_Points_Miner](https://github.com/Baillora/Kick_Channel_Points_Miner) — Advanced asynchronous Kick.com Channel Points Miner with Cloudflare bypass, Web Dashboard, and Telegram control.
 - [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) — 🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
+- [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) — MCP Server for Ghidra
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) — Craft Anything: understand how any software works, and craft your own.
 
 <!-- CATALOG:END -->
 
