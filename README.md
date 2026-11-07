@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 615 projects organized into 71 categories.
+- 621 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-06. 604 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-07. 610 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -40,7 +40,7 @@ In the initial collection, the only project without an available README was [Sle
 
 - [Anime, streaming & tracking](#anime-streaming--tracking) (18)
 - [Manga, novels & reading](#manga-novels--reading) (15)
-- [Music, podcasts & media players](#music-podcasts--media-players) (31)
+- [Music, podcasts & media players](#music-podcasts--media-players) (32)
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
 - [Discord & TeamSpeak](#discord--teamspeak) (37)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
@@ -56,8 +56,8 @@ In the initial collection, the only project without an available README was [Sle
 - [Privacy, DNS & security](#privacy-dns--security) (27)
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (13)
-- [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (19)
-- [Development, AI & security research](#development-ai--security-research) (20)
+- [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (20)
+- [Development, AI & security research](#development-ai--security-research) (21)
 - [Creative tools, documents & translation](#creative-tools-documents--translation) (16)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
 - [Curated lists & learning resources](#curated-lists--learning-resources) (19)
@@ -75,7 +75,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Containers & orchestration](#containers--orchestration) (2)
 - [Server dashboards & monitoring](#server-dashboards--monitoring) (1)
 - [Home automation & IoT](#home-automation--iot) (2)
-- [APIs, SDKs & integrations](#apis-sdks--integrations) (1)
+- [APIs, SDKs & integrations](#apis-sdks--integrations) (2)
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (2)
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (2)
 - [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
@@ -87,7 +87,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (2)
-- [Other software & utilities](#other-software--utilities) (71)
+- [Other software & utilities](#other-software--utilities) (73)
 
 ## Anime, streaming & tracking
 
@@ -161,6 +161,7 @@ In the initial collection, the only project without an available README was [Sle
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music
 - [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) — 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) — The Discord music status that works with any media player
+- [torrentplayer/torrentplayer](https://github.com/torrentplayer/torrentplayer) — Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.
 
 ## Video downloads & media capture
 
@@ -570,6 +571,7 @@ In the initial collection, the only project without an available README was [Sle
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 - [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) — A project related to self-hosting, feeds & infrastructure; see its official documentation for details.
 - [Erreur32/MynetworK](https://github.com/Erreur32/MynetworK) — Unified Freebox + UniFi management + Network Scanner.
+- [aalejandrofer/GrubDrops](https://github.com/aalejandrofer/GrubDrops) — Self-hosted Twitch & Kick drops + points miner: multi-account, auto-claim, channel switching, web UI.
 
 ## Development, AI & security research
 
@@ -593,6 +595,7 @@ In the initial collection, the only project without an available README was [Sle
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 - [upstash/context7](https://github.com/upstash/context7) — Context7 Platform -- Up-to-date docs for AI agents
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) — 🙌 OpenHands: AI-Driven Development
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) — An AI prompt optimizer for writing better prompts and getting better AI results.
 
 ## Creative tools, documents & translation
 
@@ -730,6 +733,7 @@ In the initial collection, the only project without an available README was [Sle
 ## APIs, SDKs & integrations
 
 - [K0NL/B2recomp](https://github.com/K0NL/B2recomp) — Unofficial static recompilation of Bayonetta 2 (Switch) for Windows. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.
+- [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) — A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 
 ## CLI, terminal & shell tools
 
@@ -853,6 +857,8 @@ In the initial collection, the only project without an available README was [Sle
 - [hacf-fr/freebox-api](https://github.com/hacf-fr/freebox-api) — Manage your freebox in Python using the Freebox OS API
 - [HGHugo/FreeboxOS-Ultra-Dashboard](https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard) — Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : suivi temps réel du débit, statut de connexion, appareils connectés, Wi-Fi, VPN, téléchargements, fichiers, téléphonie, TV, machines virtuelles, contrôle parental et statistiques réseau avancées, le tout dans un dashboard unique.
 - [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) — A repo for jailbreaking various LLMs, mainly Claude
+- [Baillora/Kick_Channel_Points_Miner](https://github.com/Baillora/Kick_Channel_Points_Miner) — Advanced asynchronous Kick.com Channel Points Miner with Cloudflare bypass, Web Dashboard, and Telegram control.
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) — 🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
 
 <!-- CATALOG:END -->
 

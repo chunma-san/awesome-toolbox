@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-06",
-  "total": 615,
-  "readmes": 604,
+  "snapshot": "2026-11-07",
+  "total": 621,
+  "readmes": 610,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13650,6 +13650,153 @@
     },
     {
       "number": 615,
+      "name": "aalejandrofer/GrubDrops",
+      "url": "https://github.com/aalejandrofer/GrubDrops",
+      "category": "Self-hosting, feeds & infrastructure",
+      "summary": "Self-hosted Twitch & Kick drops + points miner: multi-account, auto-claim, channel switching, web UI.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Go",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-01T21:26:43Z",
+      "stars": 37,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/aalejandrofer/GrubDrops#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: self-hosted, selfhosted.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 616,
+      "name": "Baillora/Kick_Channel_Points_Miner",
+      "url": "https://github.com/Baillora/Kick_Channel_Points_Miner",
+      "category": "Other software & utilities",
+      "summary": "Advanced asynchronous Kick.com Channel Points Miner with Cloudflare bypass, Web Dashboard, and Telegram control.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-04-18T04:06:32Z",
+      "stars": 28,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Baillora/Kick_Channel_Points_Miner#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 617,
+      "name": "linshenkx/prompt-optimizer",
+      "url": "https://github.com/linshenkx/prompt-optimizer",
+      "category": "Development, AI & security research",
+      "summary": "An AI prompt optimizer for writing better prompts and getting better AI results.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-06T15:34:49Z",
+      "stars": 40821,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/linshenkx/prompt-optimizer#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 618,
+      "name": "ayangweb/BongoCat",
+      "url": "https://github.com/ayangweb/BongoCat",
+      "category": "Other software & utilities",
+      "summary": "🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-28T00:13:07Z",
+      "stars": 24533,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ayangweb/BongoCat#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 619,
+      "name": "Tianyu199509/DeskBox",
+      "url": "https://github.com/Tianyu199509/DeskBox",
+      "category": "APIs, SDKs & integrations",
+      "summary": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-03T12:00:38Z",
+      "stars": 8578,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Tianyu199509/DeskBox#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: sdk.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 620,
+      "name": "torrentplayer/torrentplayer",
+      "url": "https://github.com/torrentplayer/torrentplayer",
+      "category": "Music, podcasts & media players",
+      "summary": "Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-03T00:51:33Z",
+      "stars": 760,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/torrentplayer/torrentplayer#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: audio player.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 621,
       "name": "vostride/agent-qa",
       "url": "https://github.com/vostride/agent-qa",
       "category": "AI assistants & coding tools",
