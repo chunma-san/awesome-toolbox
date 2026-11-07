@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-07",
-  "total": 616,
-  "readmes": 605,
+  "total": 618,
+  "readmes": 607,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13691,6 +13691,57 @@
       "license": "MIT",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/Baillora/Kick_Channel_Points_Miner#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 617,
+      "name": "linshenkx/prompt-optimizer",
+      "url": "https://github.com/linshenkx/prompt-optimizer",
+      "category": "Development, AI & security research",
+      "summary": "An AI prompt optimizer for writing better prompts and getting better AI results.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-06T15:34:49Z",
+      "stars": 40821,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/linshenkx/prompt-optimizer#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: llm.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 618,
+      "name": "ayangweb/BongoCat",
+      "url": "https://github.com/ayangweb/BongoCat",
+      "category": "Other software & utilities",
+      "summary": "🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-28T00:13:07Z",
+      "stars": 24533,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ayangweb/BongoCat#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
