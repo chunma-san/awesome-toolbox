@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-07",
-  "total": 623,
-  "readmes": 612,
+  "total": 624,
+  "readmes": 613,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13864,6 +13864,30 @@
       "license": "Apache-2.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/storytold/craft-anything#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 624,
+      "name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "category": "Other software & utilities",
+      "summary": "A modern runtime for JavaScript and TypeScript.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-29T08:03:10Z",
+      "stars": 108910,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/denoland/deno#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."

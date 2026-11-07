@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 623 projects organized into 71 categories.
+- 624 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-07. 612 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-07. 613 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -87,7 +87,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (3)
-- [Other software & utilities](#other-software--utilities) (75)
+- [Other software & utilities](#other-software--utilities) (76)
 
 ## Anime, streaming & tracking
 
@@ -861,6 +861,7 @@ In the initial collection, the only project without an available README was [Sle
 - [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) — 🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) — MCP Server for Ghidra
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) — Craft Anything: understand how any software works, and craft your own.
+- [denoland/deno](https://github.com/denoland/deno) — A modern runtime for JavaScript and TypeScript.
 
 <!-- CATALOG:END -->
 
