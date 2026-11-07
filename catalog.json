@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-07",
-  "total": 615,
-  "readmes": 604,
+  "total": 616,
+  "readmes": 605,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13670,6 +13670,29 @@
       "readmeUrl": "https://github.com/aalejandrofer/GrubDrops#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: self-hosted, selfhosted.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 616,
+      "name": "Baillora/Kick_Channel_Points_Miner",
+      "url": "https://github.com/Baillora/Kick_Channel_Points_Miner",
+      "category": "Other software & utilities",
+      "summary": "Advanced asynchronous Kick.com Channel Points Miner with Cloudflare bypass, Web Dashboard, and Telegram control.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Docker"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-04-18T04:06:32Z",
+      "stars": 28,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Baillora/Kick_Channel_Points_Miner#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

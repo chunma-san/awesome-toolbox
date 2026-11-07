@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 615 projects organized into 71 categories.
+- 616 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-07. 604 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-07. 605 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -87,7 +87,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (2)
-- [Other software & utilities](#other-software--utilities) (71)
+- [Other software & utilities](#other-software--utilities) (72)
 
 ## Anime, streaming & tracking
 
@@ -853,6 +853,7 @@ In the initial collection, the only project without an available README was [Sle
 - [hacf-fr/freebox-api](https://github.com/hacf-fr/freebox-api) — Manage your freebox in Python using the Freebox OS API
 - [HGHugo/FreeboxOS-Ultra-Dashboard](https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard) — Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : suivi temps réel du débit, statut de connexion, appareils connectés, Wi-Fi, VPN, téléchargements, fichiers, téléphonie, TV, machines virtuelles, contrôle parental et statistiques réseau avancées, le tout dans un dashboard unique.
 - [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) — A repo for jailbreaking various LLMs, mainly Claude
+- [Baillora/Kick_Channel_Points_Miner](https://github.com/Baillora/Kick_Channel_Points_Miner) — Advanced asynchronous Kick.com Channel Points Miner with Cloudflare bypass, Web Dashboard, and Telegram control.
 
 <!-- CATALOG:END -->
 
