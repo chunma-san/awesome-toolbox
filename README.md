@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 620 projects organized into 71 categories.
+- 621 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-07. 609 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-07. 610 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -743,6 +743,7 @@ In the initial collection, the only project without an available README was [Sle
 ## AI assistants & coding tools
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) — Natural-language web, Android and iOS QA via CLI/MCP, with persistent memidex memory and evidence-based self-improvement. [Website](https://vostride.com).
 - [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) — Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
 
 ## GitHub profiles & README tools

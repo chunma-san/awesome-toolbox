@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-07",
-  "total": 620,
-  "readmes": 609,
+  "total": 621,
+  "readmes": 610,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13793,6 +13793,28 @@
       "notes": [
         "Categorized from the more specific metadata phrase: audio player.",
         "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 621,
+      "name": "vostride/agent-qa",
+      "url": "https://github.com/vostride/agent-qa",
+      "category": "AI assistants & coding tools",
+      "summary": "Natural-language web, Android and iOS QA via CLI/MCP, with persistent memidex memory and evidence-based self-improvement.",
+      "purpose": "Verify application journeys from coding agents and inspect failed-run evidence.",
+      "platforms": [],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-06T18:31:28Z",
+      "stars": 856,
+      "license": "FSL-1.1-ALv2",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/vostride/agent-qa#readme",
+      "notes": [
+        "Official website: https://vostride.com",
+        "Requires Node.js 24+, initialized project configuration, a configured model and the relevant browser or mobile test environment. External model or infrastructure services may require accounts and payment.",
+        "The CLI is free under FSL-1.1-ALv2, with restrictions on competing commercial use."
       ]
     }
   ]
