@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-06",
-  "total": 614,
-  "readmes": 603,
+  "snapshot": "2026-11-07",
+  "total": 615,
+  "readmes": 604,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13645,6 +13645,31 @@
       "readmeUrl": "https://github.com/mmvanheusden/SteamDepotDownloaderGUI#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: steam.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 615,
+      "name": "aalejandrofer/GrubDrops",
+      "url": "https://github.com/aalejandrofer/GrubDrops",
+      "category": "Self-hosting, feeds & infrastructure",
+      "summary": "Self-hosted Twitch & Kick drops + points miner: multi-account, auto-claim, channel switching, web UI.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Go",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-01T21:26:43Z",
+      "stars": 37,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/aalejandrofer/GrubDrops#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: self-hosted, selfhosted.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
