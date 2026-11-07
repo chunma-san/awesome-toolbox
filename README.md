@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 619 projects organized into 71 categories.
+- 620 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-07. 608 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-07. 609 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -40,7 +40,7 @@ In the initial collection, the only project without an available README was [Sle
 
 - [Anime, streaming & tracking](#anime-streaming--tracking) (18)
 - [Manga, novels & reading](#manga-novels--reading) (15)
-- [Music, podcasts & media players](#music-podcasts--media-players) (31)
+- [Music, podcasts & media players](#music-podcasts--media-players) (32)
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
 - [Discord & TeamSpeak](#discord--teamspeak) (37)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
@@ -161,6 +161,7 @@ In the initial collection, the only project without an available README was [Sle
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music
 - [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) — 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) — The Discord music status that works with any media player
+- [torrentplayer/torrentplayer](https://github.com/torrentplayer/torrentplayer) — Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.
 
 ## Video downloads & media capture
 

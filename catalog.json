@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-07",
-  "total": 619,
-  "readmes": 608,
+  "total": 620,
+  "readmes": 609,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13767,6 +13767,31 @@
       "readmeUrl": "https://github.com/Tianyu199509/DeskBox#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: sdk.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 620,
+      "name": "torrentplayer/torrentplayer",
+      "url": "https://github.com/torrentplayer/torrentplayer",
+      "category": "Music, podcasts & media players",
+      "summary": "Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-03T00:51:33Z",
+      "stars": 760,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/torrentplayer/torrentplayer#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: audio player.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
