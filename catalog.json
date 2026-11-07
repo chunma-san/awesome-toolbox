@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-07",
-  "total": 618,
-  "readmes": 607,
+  "total": 619,
+  "readmes": 608,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13744,6 +13744,29 @@
       "readmeUrl": "https://github.com/ayangweb/BongoCat#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 619,
+      "name": "Tianyu199509/DeskBox",
+      "url": "https://github.com/Tianyu199509/DeskBox",
+      "category": "APIs, SDKs & integrations",
+      "summary": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-03T12:00:38Z",
+      "stars": 8578,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Tianyu199509/DeskBox#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: sdk.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

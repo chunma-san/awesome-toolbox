@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 618 projects organized into 71 categories.
+- 619 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-07. 607 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-07. 608 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -75,7 +75,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Containers & orchestration](#containers--orchestration) (2)
 - [Server dashboards & monitoring](#server-dashboards--monitoring) (1)
 - [Home automation & IoT](#home-automation--iot) (2)
-- [APIs, SDKs & integrations](#apis-sdks--integrations) (1)
+- [APIs, SDKs & integrations](#apis-sdks--integrations) (2)
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (2)
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (2)
 - [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
@@ -732,6 +732,7 @@ In the initial collection, the only project without an available README was [Sle
 ## APIs, SDKs & integrations
 
 - [K0NL/B2recomp](https://github.com/K0NL/B2recomp) — Unofficial static recompilation of Bayonetta 2 (Switch) for Windows. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.
+- [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) — A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 
 ## CLI, terminal & shell tools
 
