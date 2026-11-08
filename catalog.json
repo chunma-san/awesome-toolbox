@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-07",
-  "total": 624,
-  "readmes": 613,
+  "snapshot": "2026-11-08",
+  "total": 625,
+  "readmes": 614,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13888,6 +13888,30 @@
       "license": "MIT",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/denoland/deno#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 625,
+      "name": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "category": "Other software & utilities",
+      "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-08T02:49:31Z",
+      "stars": 1954,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/NotRexed/Hookshot#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
