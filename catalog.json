@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-07",
-  "total": 621,
-  "readmes": 610,
+  "total": 625,
+  "readmes": 614,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13797,6 +13797,104 @@
     },
     {
       "number": 621,
+      "name": "LaurieWired/GhidraMCP",
+      "url": "https://github.com/LaurieWired/GhidraMCP",
+      "category": "Other software & utilities",
+      "summary": "MCP Server for Ghidra",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "macOS"
+      ],
+      "language": "Java",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-10T20:08:37Z",
+      "stars": 11830,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/LaurieWired/GhidraMCP#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 622,
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "category": "Security research & testing",
+      "summary": "Ghidra is a software reverse engineering (SRE) framework",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Java",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-06T16:27:03Z",
+      "stars": 98559,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/NationalSecurityAgency/ghidra#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: reverse engineering.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 623,
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "category": "Other software & utilities",
+      "summary": "Craft Anything: understand how any software works, and craft your own.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-07T13:46:03Z",
+      "stars": 20482,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/storytold/craft-anything#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 624,
+      "name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "category": "Other software & utilities",
+      "summary": "A modern runtime for JavaScript and TypeScript.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-29T08:03:10Z",
+      "stars": 108910,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/denoland/deno#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 625,
       "name": "vostride/agent-qa",
       "url": "https://github.com/vostride/agent-qa",
       "category": "AI assistants & coding tools",
@@ -13806,8 +13904,8 @@
       "language": "TypeScript",
       "archived": false,
       "fork": false,
-      "pushed": "2026-11-06T18:31:28Z",
-      "stars": 856,
+      "pushed": "2026-11-07T21:24:55Z",
+      "stars": 855,
       "license": "FSL-1.1-ALv2",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/vostride/agent-qa#readme",
