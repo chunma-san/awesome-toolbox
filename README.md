@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 627 projects organized into 71 categories.
+- 629 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-08. 616 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-08. 618 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -77,7 +77,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Home automation & IoT](#home-automation--iot) (2)
 - [APIs, SDKs & integrations](#apis-sdks--integrations) (2)
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (2)
-- [AI assistants & coding tools](#ai-assistants--coding-tools) (2)
+- [AI assistants & coding tools](#ai-assistants--coding-tools) (3)
 - [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
 - [Git, CI & release automation](#git-ci--release-automation) (1)
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
@@ -87,7 +87,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (3)
-- [Other software & utilities](#other-software--utilities) (79)
+- [Other software & utilities](#other-software--utilities) (80)
 
 ## Anime, streaming & tracking
 
@@ -744,6 +744,7 @@ In the initial collection, the only project without an available README was [Sle
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
 - [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) — Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
 ## GitHub profiles & README tools
 
@@ -865,6 +866,7 @@ In the initial collection, the only project without an available README was [Sle
 - [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) — A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
 - [BrownDust2CN/NEWBD2Client](https://github.com/BrownDust2CN/NEWBD2Client) — New beginning
 - [openai/codex](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal
+- [tobi/qmd](https://github.com/tobi/qmd) — mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 
 <!-- CATALOG:END -->
 

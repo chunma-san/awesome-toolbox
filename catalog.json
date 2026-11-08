@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-08",
-  "total": 627,
-  "readmes": 616,
+  "total": 629,
+  "readmes": 618,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13960,6 +13960,56 @@
       "readmeUrl": "https://github.com/openai/codex#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 628,
+      "name": "tobi/qmd",
+      "url": "https://github.com/tobi/qmd",
+      "category": "Other software & utilities",
+      "summary": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-15T03:04:06Z",
+      "stars": 30961,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/tobi/qmd#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 629,
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "category": "AI assistants & coding tools",
+      "summary": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-08T11:36:57Z",
+      "stars": 85898,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/rtk-ai/rtk#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: ai coding.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
