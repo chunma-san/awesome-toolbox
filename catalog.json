@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-08",
-  "total": 625,
-  "readmes": 614,
+  "total": 626,
+  "readmes": 615,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13912,6 +13912,27 @@
       "license": "GPL-3.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/NotRexed/Hookshot#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 626,
+      "name": "BrownDust2CN/NEWBD2Client",
+      "url": "https://github.com/BrownDust2CN/NEWBD2Client",
+      "category": "Other software & utilities",
+      "summary": "New beginning",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-08T11:55:43Z",
+      "stars": 3,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/BrownDust2CN/NEWBD2Client#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
