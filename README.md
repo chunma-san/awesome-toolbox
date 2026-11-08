@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 626 projects organized into 71 categories.
+- 627 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-08. 615 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-08. 616 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -87,7 +87,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (3)
-- [Other software & utilities](#other-software--utilities) (78)
+- [Other software & utilities](#other-software--utilities) (79)
 
 ## Anime, streaming & tracking
 
@@ -864,6 +864,7 @@ In the initial collection, the only project without an available README was [Sle
 - [denoland/deno](https://github.com/denoland/deno) — A modern runtime for JavaScript and TypeScript.
 - [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) — A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
 - [BrownDust2CN/NEWBD2Client](https://github.com/BrownDust2CN/NEWBD2Client) — New beginning
+- [openai/codex](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal
 
 <!-- CATALOG:END -->
 

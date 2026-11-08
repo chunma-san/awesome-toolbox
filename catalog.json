@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-08",
-  "total": 626,
-  "readmes": 615,
+  "total": 627,
+  "readmes": 616,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -13935,6 +13935,31 @@
       "readmeUrl": "https://github.com/BrownDust2CN/NEWBD2Client#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 627,
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "category": "Other software & utilities",
+      "summary": "Lightweight coding agent that runs in your terminal",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-08T05:59:28Z",
+      "stars": 133741,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/openai/codex#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
