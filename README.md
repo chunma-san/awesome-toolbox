@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 631 projects organized into 71 categories.
+- 632 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-09. 620 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-09. 621 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -87,7 +87,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (3)
-- [Other software & utilities](#other-software--utilities) (80)
+- [Other software & utilities](#other-software--utilities) (81)
 
 ## Anime, streaming & tracking
 
@@ -869,6 +869,7 @@ In the initial collection, the only project without an available README was [Sle
 - [BrownDust2CN/NEWBD2Client](https://github.com/BrownDust2CN/NEWBD2Client) — New beginning
 - [openai/codex](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal
 - [tobi/qmd](https://github.com/tobi/qmd) — mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+- [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) — GhostLock One-Tap Execution App (CVE-2026-43499)
 
 <!-- CATALOG:END -->
 

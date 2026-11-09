@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-09",
-  "total": 631,
-  "readmes": 620,
+  "total": 632,
+  "readmes": 621,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14059,6 +14059,29 @@
       "readmeUrl": "https://github.com/gunCannoli/steam-cartridges#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: steam.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 632,
+      "name": "YuKongA/ghostlock-app",
+      "url": "https://github.com/YuKongA/ghostlock-app",
+      "category": "Other software & utilities",
+      "summary": "GhostLock One-Tap Execution App (CVE-2026-43499)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-08T23:17:18Z",
+      "stars": 2821,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/YuKongA/ghostlock-app#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
