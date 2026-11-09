@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 632 projects organized into 71 categories.
+- 635 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-09. 621 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-09. 624 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -60,7 +60,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Development, AI & security research](#development-ai--security-research) (21)
 - [Creative tools, documents & translation](#creative-tools-documents--translation) (16)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
-- [Curated lists & learning resources](#curated-lists--learning-resources) (19)
+- [Curated lists & learning resources](#curated-lists--learning-resources) (20)
 - [TV & channel catalogs](#tv--channel-catalogs) (1)
 - [GrapheneOS & Android operating systems](#grapheneos--android-operating-systems) (4)
 - [GrapheneOS apps & browsers](#grapheneos-apps--browsers) (5)
@@ -85,9 +85,10 @@ In the initial collection, the only project without an available README was [Sle
 - [Media servers & streaming infrastructure](#media-servers--streaming-infrastructure) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
+- [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (3)
-- [Other software & utilities](#other-software--utilities) (81)
+- [Other software & utilities](#other-software--utilities) (82)
 
 ## Anime, streaming & tracking
 
@@ -654,6 +655,7 @@ In the initial collection, the only project without an available README was [Sle
 - [chunma-san/awesome-toolbox](https://github.com/chunma-san/awesome-toolbox) — A categorized collection of apps, self-hosted services, developer tools and gaming utilities, with a searchable web catalog.
 - [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) — Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.
 - [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) — Curating Top Open Source Apps for Homelab Enthusiasts
+- [fishiatee/awesome-privateserver](https://github.com/fishiatee/awesome-privateserver) — A non-exhaustive list of free custom server backend implementations for various games
 
 ## TV & channel catalogs
 
@@ -777,6 +779,10 @@ In the initial collection, the only project without an available README was [Sle
 
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) — A refreshingly simple data-driven game engine built in Rust
 
+## Game servers & multiplayer tools
+
+- [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) — Complete Open Source and Modular solution for MMO
+
 ## Device firmware & embedded systems
 
 - [music-assistant/server](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
@@ -870,6 +876,7 @@ In the initial collection, the only project without an available README was [Sle
 - [openai/codex](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal
 - [tobi/qmd](https://github.com/tobi/qmd) — mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) — GhostLock One-Tap Execution App (CVE-2026-43499)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) — TrinityCore Open Source MMO Framework (master = 12.1.5.70783, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)
 
 <!-- CATALOG:END -->
 

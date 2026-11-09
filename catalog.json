@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-09",
-  "total": 632,
-  "readmes": 621,
+  "total": 635,
+  "readmes": 624,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14082,6 +14082,79 @@
       "readmeUrl": "https://github.com/YuKongA/ghostlock-app#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 633,
+      "name": "fishiatee/awesome-privateserver",
+      "url": "https://github.com/fishiatee/awesome-privateserver",
+      "category": "Curated lists & learning resources",
+      "summary": "A non-exhaustive list of free custom server backend implementations for various games",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Self-hosted"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-09T05:48:08Z",
+      "stars": 267,
+      "license": "CC0-1.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/fishiatee/awesome-privateserver#readme",
+      "notes": [
+        "Categorized as a curated collection from its name or awesome-list topic.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 634,
+      "name": "TrinityCore/TrinityCore",
+      "url": "https://github.com/TrinityCore/TrinityCore",
+      "category": "Other software & utilities",
+      "summary": "TrinityCore Open Source MMO Framework (master = 12.1.5.70783, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-09T08:54:37Z",
+      "stars": 10869,
+      "license": "GPL-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/TrinityCore/TrinityCore#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 635,
+      "name": "azerothcore/azerothcore-wotlk",
+      "url": "https://github.com/azerothcore/azerothcore-wotlk",
+      "category": "Game servers & multiplayer tools",
+      "summary": "Complete Open Source and Modular solution for MMO",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Docker"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-09T10:30:54Z",
+      "stars": 9164,
+      "license": "GPL-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/azerothcore/azerothcore-wotlk#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: game server.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
