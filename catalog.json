@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-09",
-  "total": 630,
-  "readmes": 619,
+  "total": 631,
+  "readmes": 620,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14035,6 +14035,30 @@
       "readmeUrl": "https://github.com/sassiestrhihno/boxshelf-beta#readme",
       "notes": [
         "Categorized from the more specific metadata phrase: steam, game launcher.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 631,
+      "name": "gunCannoli/steam-cartridges",
+      "url": "https://github.com/gunCannoli/steam-cartridges",
+      "category": "Steam, game libraries & achievements",
+      "summary": "Millennium plugin: Steam's own app page, Game Info, artwork and achievements for non-Steam games (beta)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-08T03:47:02Z",
+      "stars": 39,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/gunCannoli/steam-cartridges#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: steam.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
