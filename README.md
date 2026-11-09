@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 629 projects organized into 71 categories.
+- 630 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-08. 618 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-09. 619 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -44,7 +44,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
 - [Discord & TeamSpeak](#discord--teamspeak) (37)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
-- [Steam, game libraries & achievements](#steam-game-libraries--achievements) (23)
+- [Steam, game libraries & achievements](#steam-game-libraries--achievements) (24)
 - [PlayStation & emulation](#playstation--emulation) (37)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (28)
@@ -255,6 +255,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Citrinate/FreePackages](https://github.com/Citrinate/FreePackages) — An ASF plugin for finding and redeeming free Steam games
 - [chunma-san/steam-idle-monitor](https://github.com/chunma-san/steam-idle-monitor) — Idle and farming interval estimates from ArchiSteamFarm Docker logs.
 - [mmvanheusden/SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) — Downgrade Steam games to older versions with ease using DepotDownloader
+- [sassiestrhihno/boxshelf-beta](https://github.com/sassiestrhihno/boxshelf-beta) — Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.
 
 ## PlayStation & emulation
 

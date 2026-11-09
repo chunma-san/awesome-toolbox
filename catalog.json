@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-08",
-  "total": 629,
-  "readmes": 618,
+  "snapshot": "2026-11-09",
+  "total": 630,
+  "readmes": 619,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14010,6 +14010,31 @@
       "readmeUrl": "https://github.com/rtk-ai/rtk#readme",
       "notes": [
         "Categorized from the more specific metadata phrase: ai coding.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 630,
+      "name": "sassiestrhihno/boxshelf-beta",
+      "url": "https://github.com/sassiestrhihno/boxshelf-beta",
+      "category": "Steam, game libraries & achievements",
+      "summary": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-08T02:10:22Z",
+      "stars": 598,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/sassiestrhihno/boxshelf-beta#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: steam, game launcher.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
