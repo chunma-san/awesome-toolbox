@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 635 projects organized into 71 categories.
+- 636 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-09. 624 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-09. 625 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -81,7 +81,7 @@ In the initial collection, the only project without an available README was [Sle
 - [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
 - [Git, CI & release automation](#git-ci--release-automation) (1)
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
-- [Torrents, debrid & download managers](#torrents-debrid--download-managers) (1)
+- [Torrents, debrid & download managers](#torrents-debrid--download-managers) (2)
 - [Media servers & streaming infrastructure](#media-servers--streaming-infrastructure) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
@@ -765,6 +765,7 @@ In the initial collection, the only project without an available README was [Sle
 ## Torrents, debrid & download managers
 
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) — A Download Manager that speeds up your downloads
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) — qBittorrent BitTorrent client
 
 ## Media servers & streaming infrastructure
 
