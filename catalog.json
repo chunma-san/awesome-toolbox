@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-09",
-  "total": 636,
-  "readmes": 625,
+  "total": 637,
+  "readmes": 626,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14178,6 +14178,27 @@
       "readmeUrl": "https://github.com/qbittorrent/qBittorrent#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: torrent client, bittorrent, qbittorrent.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 637,
+      "name": "Quad9DNS/quad9-domains-top500",
+      "url": "https://github.com/Quad9DNS/quad9-domains-top500",
+      "category": "Privacy, DNS & security",
+      "summary": "Top 500 DNS domains seen on the Quad9 recursive resolver array each day",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-09T10:00:04Z",
+      "stars": 190,
+      "license": "CC0-1.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Quad9DNS/quad9-domains-top500#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: dns.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
