@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-09",
-  "total": 637,
-  "readmes": 626,
+  "snapshot": "2026-11-10",
+  "total": 638,
+  "readmes": 627,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14199,6 +14199,27 @@
       "readmeUrl": "https://github.com/Quad9DNS/quad9-domains-top500#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: dns.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 638,
+      "name": "Jelosus2/DaiCoreViewer",
+      "url": "https://github.com/Jelosus2/DaiCoreViewer",
+      "category": "Other software & utilities",
+      "summary": "Unofficial Daiblos Core viewer with interactive character animations, skins, ASMR, audio, and translated captions.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-28T20:34:44Z",
+      "stars": 9,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Jelosus2/DaiCoreViewer#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
