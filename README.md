@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 640 projects organized into 71 categories.
+- 642 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-10. 629 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-10. 631 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -39,7 +39,7 @@ In the initial collection, the only project without an available README was [Sle
 ## Contents
 
 - [Anime, streaming & tracking](#anime-streaming--tracking) (18)
-- [Manga, novels & reading](#manga-novels--reading) (15)
+- [Manga, novels & reading](#manga-novels--reading) (16)
 - [Music, podcasts & media players](#music-podcasts--media-players) (32)
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
 - [Discord & TeamSpeak](#discord--teamspeak) (37)
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (3)
-- [Other software & utilities](#other-software--utilities) (84)
+- [Other software & utilities](#other-software--utilities) (85)
 
 ## Anime, streaming & tracking
 
@@ -128,6 +128,7 @@ In the initial collection, the only project without an available README was [Sle
 - [lnreader/lnreader](https://github.com/lnreader/lnreader) — Light novel reader for Android.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) — Free and open source manga reader for Android
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) — Extension repository for Mihon and variants
+- [yuzono/tachiyomi-extensions](https://github.com/yuzono/tachiyomi-extensions) — Source code of extensions for Komikku / Mihon & forks.
 
 ## Music, podcasts & media players
 
@@ -882,6 +883,7 @@ In the initial collection, the only project without an available README was [Sle
 - [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) — TrinityCore Open Source MMO Framework (master = 12.1.5.70783, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)
 - [Jelosus2/DaiCoreViewer](https://github.com/Jelosus2/DaiCoreViewer) — Unofficial Daiblos Core viewer with interactive character animations, skins, ASMR, audio, and translated captions.
 - [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard) — A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.
+- [ChrisTitusTech/wow-ai](https://github.com/ChrisTitusTech/wow-ai) — Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft (WoW)
 
 <!-- CATALOG:END -->
 

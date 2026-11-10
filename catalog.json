@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-10",
-  "total": 640,
-  "readmes": 629,
+  "total": 642,
+  "readmes": 631,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14269,6 +14269,52 @@
       "readmeUrl": "https://github.com/peach-mitao/peach#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: self-hosted.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 641,
+      "name": "yuzono/tachiyomi-extensions",
+      "url": "https://github.com/yuzono/tachiyomi-extensions",
+      "category": "Manga, novels & reading",
+      "summary": "Source code of extensions for Komikku / Mihon & forks.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-10T18:10:03Z",
+      "stars": 968,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/yuzono/tachiyomi-extensions#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: manga.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 642,
+      "name": "ChrisTitusTech/wow-ai",
+      "url": "https://github.com/ChrisTitusTech/wow-ai",
+      "category": "Other software & utilities",
+      "summary": "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft (WoW)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": true,
+      "pushed": "2026-11-04T03:48:31Z",
+      "stars": 3,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ChrisTitusTech/wow-ai#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
