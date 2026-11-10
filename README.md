@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 638 projects organized into 71 categories.
+- 639 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-10. 627 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-10. 628 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (3)
-- [Other software & utilities](#other-software--utilities) (83)
+- [Other software & utilities](#other-software--utilities) (84)
 
 ## Anime, streaming & tracking
 
@@ -880,6 +880,7 @@ In the initial collection, the only project without an available README was [Sle
 - [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) — GhostLock One-Tap Execution App (CVE-2026-43499)
 - [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) — TrinityCore Open Source MMO Framework (master = 12.1.5.70783, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)
 - [Jelosus2/DaiCoreViewer](https://github.com/Jelosus2/DaiCoreViewer) — Unofficial Daiblos Core viewer with interactive character animations, skins, ASMR, audio, and translated captions.
+- [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard) — A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.
 
 <!-- CATALOG:END -->
 
