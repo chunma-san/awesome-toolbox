@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-10",
-  "total": 639,
-  "readmes": 628,
+  "total": 640,
+  "readmes": 629,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14243,6 +14243,32 @@
       "readmeUrl": "https://github.com/wasi-master/wmkeyboard#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 640,
+      "name": "peach-mitao/peach",
+      "url": "https://github.com/peach-mitao/peach",
+      "category": "Self-hosting, feeds & infrastructure",
+      "summary": "Peach: Local-first video metadata scraper and media manager.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-10T05:46:56Z",
+      "stars": 14840,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/peach-mitao/peach#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: self-hosted.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
