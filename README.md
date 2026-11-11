@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 642 projects organized into 71 categories.
+- 644 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-10. 631 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-11. 633 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -50,7 +50,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game mods & automation](#game-mods--automation) (28)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
 - [Desktop, hardware & customization](#desktop-hardware--customization) (23)
-- [Android apps & launchers](#android-apps--launchers) (37)
+- [Android apps & launchers](#android-apps--launchers) (38)
 - [Android root, patches & stores](#android-root-patches--stores) (29)
 - [Browsers & web extensions](#browsers--web-extensions) (24)
 - [Privacy, DNS & security](#privacy-dns--security) (28)
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (3)
-- [Other software & utilities](#other-software--utilities) (85)
+- [Other software & utilities](#other-software--utilities) (86)
 
 ## Anime, streaming & tracking
 
@@ -435,6 +435,7 @@ In the initial collection, the only project without an available README was [Sle
 - [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) — 2M+ app downloads, 500k+ monthly website visitors, Linux basics, tips and formatted man pages
 - [SimonSchubert/omalauncher](https://github.com/SimonSchubert/omalauncher) — Agentic Android launcher: build your own apps and widgets with AI agents, Omarchy themes, Arch Linux without root
 - [thtbee/nectarlink](https://github.com/thtbee/nectarlink) — Your Android phone and your Windows PC, working as one. Local-first, end-to-end encrypted, no account.
+- [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) — Source code of extensions in https://github.com/keiyoushi/extensions
 
 ## Android root, patches & stores
 
@@ -884,6 +885,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Jelosus2/DaiCoreViewer](https://github.com/Jelosus2/DaiCoreViewer) — Unofficial Daiblos Core viewer with interactive character animations, skins, ASMR, audio, and translated captions.
 - [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard) — A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.
 - [ChrisTitusTech/wow-ai](https://github.com/ChrisTitusTech/wow-ai) — Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft (WoW)
+- [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) — Free and open source manga reader for Android
 
 <!-- CATALOG:END -->
 

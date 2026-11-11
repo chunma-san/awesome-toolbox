@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-10",
-  "total": 642,
-  "readmes": 631,
+  "snapshot": "2026-11-11",
+  "total": 644,
+  "readmes": 633,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14315,6 +14315,52 @@
       "readmeUrl": "https://github.com/ChrisTitusTech/wow-ai#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 643,
+      "name": "jobobby04/TachiyomiSY",
+      "url": "https://github.com/jobobby04/TachiyomiSY",
+      "category": "Other software & utilities",
+      "summary": "Free and open source manga reader for Android",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": true,
+      "pushed": "2026-11-10T02:21:12Z",
+      "stars": 4207,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/jobobby04/TachiyomiSY#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 644,
+      "name": "keiyoushi/extensions-source",
+      "url": "https://github.com/keiyoushi/extensions-source",
+      "category": "Android apps & launchers",
+      "summary": "Source code of extensions in https://github.com/keiyoushi/extensions",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-11T05:22:36Z",
+      "stars": 4883,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/keiyoushi/extensions-source#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: android.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
