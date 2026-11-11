@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-11",
-  "total": 644,
-  "readmes": 633,
+  "total": 646,
+  "readmes": 635,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14361,6 +14361,52 @@
       "readmeUrl": "https://github.com/keiyoushi/extensions-source#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: android.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 645,
+      "name": "animiruorg/Animiru",
+      "url": "https://github.com/animiruorg/Animiru",
+      "category": "Other software & utilities",
+      "summary": "video player and library manager",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": true,
+      "pushed": "2026-11-09T20:25:31Z",
+      "stars": 919,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/animiruorg/Animiru#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 646,
+      "name": "Animetailapp/Animetail",
+      "url": "https://github.com/Animetailapp/Animetail",
+      "category": "Other software & utilities",
+      "summary": "Official fork of Aniyomi",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": true,
+      "pushed": "2026-11-09T16:42:46Z",
+      "stars": 619,
+      "license": "Apache-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Animetailapp/Animetail#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

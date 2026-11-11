@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 644 projects organized into 71 categories.
+- 646 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-11. 633 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-11. 635 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (3)
-- [Other software & utilities](#other-software--utilities) (86)
+- [Other software & utilities](#other-software--utilities) (88)
 
 ## Anime, streaming & tracking
 
@@ -886,6 +886,8 @@ In the initial collection, the only project without an available README was [Sle
 - [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard) — A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.
 - [ChrisTitusTech/wow-ai](https://github.com/ChrisTitusTech/wow-ai) — Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft (WoW)
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) — Free and open source manga reader for Android
+- [animiruorg/Animiru](https://github.com/animiruorg/Animiru) — video player and library manager
+- [Animetailapp/Animetail](https://github.com/Animetailapp/Animetail) — Official fork of Aniyomi
 
 <!-- CATALOG:END -->
 
