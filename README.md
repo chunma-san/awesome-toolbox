@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 646 projects organized into 71 categories.
+- 647 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-11. 635 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-12. 636 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -50,7 +50,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game mods & automation](#game-mods--automation) (28)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
 - [Desktop, hardware & customization](#desktop-hardware--customization) (23)
-- [Android apps & launchers](#android-apps--launchers) (38)
+- [Android apps & launchers](#android-apps--launchers) (39)
 - [Android root, patches & stores](#android-root-patches--stores) (29)
 - [Browsers & web extensions](#browsers--web-extensions) (24)
 - [Privacy, DNS & security](#privacy-dns--security) (28)
@@ -436,6 +436,7 @@ In the initial collection, the only project without an available README was [Sle
 - [SimonSchubert/omalauncher](https://github.com/SimonSchubert/omalauncher) — Agentic Android launcher: build your own apps and widgets with AI agents, Omarchy themes, Arch Linux without root
 - [thtbee/nectarlink](https://github.com/thtbee/nectarlink) — Your Android phone and your Windows PC, working as one. Local-first, end-to-end encrypted, no account.
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) — Source code of extensions in https://github.com/keiyoushi/extensions
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) — YellowFruit third-party client
 
 ## Android root, patches & stores
 

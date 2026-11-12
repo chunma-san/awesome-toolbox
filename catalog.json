@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-11",
-  "total": 646,
-  "readmes": 635,
+  "snapshot": "2026-11-12",
+  "total": 647,
+  "readmes": 636,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14407,6 +14407,30 @@
       "readmeUrl": "https://github.com/Animetailapp/Animetail#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 647,
+      "name": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "category": "Android apps & launchers",
+      "summary": "YellowFruit third-party client",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Android"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-10T13:42:26Z",
+      "stars": 8407,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Minireel/HGhub#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: android.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
