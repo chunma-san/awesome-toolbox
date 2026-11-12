@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-12",
-  "total": 647,
-  "readmes": 636,
+  "total": 648,
+  "readmes": 637,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14431,6 +14431,31 @@
       "readmeUrl": "https://github.com/Minireel/HGhub#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: android.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 648,
+      "name": "tonhowtf/omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "category": "Other software & utilities",
+      "summary": "Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server lets Claude Code, Cursor and Codex queue downloads, and it runs Claude Code, Codex, Gemini CLI and Ollama as agents.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-09-27T03:44:29Z",
+      "stars": 14360,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/tonhowtf/omniget#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
