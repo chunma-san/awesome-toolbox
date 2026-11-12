@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 648 projects organized into 71 categories.
+- 649 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-12. 637 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-12. 638 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (1)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (3)
-- [Other software & utilities](#other-software--utilities) (89)
+- [Other software & utilities](#other-software--utilities) (90)
 
 ## Anime, streaming & tracking
 
@@ -890,6 +890,7 @@ In the initial collection, the only project without an available README was [Sle
 - [animiruorg/Animiru](https://github.com/animiruorg/Animiru) — video player and library manager
 - [Animetailapp/Animetail](https://github.com/Animetailapp/Animetail) — Official fork of Aniyomi
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) — Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server lets Claude Code, Cursor and Codex queue downloads, and it runs Claude Code, Codex, Gemini CLI and Ollama as agents.
+- [BenGrn/EldenRingSaveCopier](https://github.com/BenGrn/EldenRingSaveCopier) — A project related to other software & utilities; see its official documentation for details.
 
 <!-- CATALOG:END -->
 

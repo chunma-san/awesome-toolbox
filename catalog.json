@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-12",
-  "total": 648,
-  "readmes": 637,
+  "total": 649,
+  "readmes": 638,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14456,6 +14456,29 @@
       "readmeUrl": "https://github.com/tonhowtf/omniget#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 649,
+      "name": "BenGrn/EldenRingSaveCopier",
+      "url": "https://github.com/BenGrn/EldenRingSaveCopier",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2024-12-09T03:41:41Z",
+      "stars": 563,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/BenGrn/EldenRingSaveCopier#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
