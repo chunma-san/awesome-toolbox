@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-12",
-  "total": 649,
-  "readmes": 638,
+  "snapshot": "2026-11-13",
+  "total": 650,
+  "readmes": 639,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14477,6 +14477,32 @@
       "license": "MIT",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/BenGrn/EldenRingSaveCopier#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 650,
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "category": "Other software & utilities",
+      "summary": "The best way to control Claude Code, Codex and more from any computer or phone",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-13T07:40:12Z",
+      "stars": 58755,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/pingdotgg/t3code#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
