@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-16",
-  "total": 654,
-  "readmes": 643,
+  "total": 655,
+  "readmes": 644,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14601,6 +14601,32 @@
       "readmeUrl": "https://github.com/bc160201983/GoW-Ascension-Recomp#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 655,
+      "name": "anefzaoui/misterdownloadmanager",
+      "url": "https://github.com/anefzaoui/misterdownloadmanager",
+      "category": "Torrents, debrid & download managers",
+      "summary": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-16T15:59:48Z",
+      "stars": 11016,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/anefzaoui/misterdownloadmanager#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: torrent client, bittorrent, debrid, download manager.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
