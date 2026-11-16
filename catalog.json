@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-16",
-  "total": 652,
-  "readmes": 641,
+  "total": 654,
+  "readmes": 643,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14550,6 +14550,55 @@
       "license": "AGPL-3.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/digital-grease/fauxx#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 653,
+      "name": "bc160201983/gowa-community-server",
+      "url": "https://github.com/bc160201983/gowa-community-server",
+      "category": "Game servers & multiplayer tools",
+      "summary": "Self-hosted community multiplayer server for the God of War: Ascension PC port (unofficial fan project)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Self-hosted"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-15T10:05:25Z",
+      "stars": 1,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/bc160201983/gowa-community-server#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: multiplayer server.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 654,
+      "name": "bc160201983/GoW-Ascension-Recomp",
+      "url": "https://github.com/bc160201983/GoW-Ascension-Recomp",
+      "category": "Other software & utilities",
+      "summary": "Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-15T20:39:33Z",
+      "stars": 132,
+      "license": "NOASSERTION",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/bc160201983/GoW-Ascension-Recomp#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."

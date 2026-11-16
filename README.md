@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 652 projects organized into 71 categories.
+- 654 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-16. 641 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-16. 643 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -85,10 +85,10 @@ In the initial collection, the only project without an available README was [Sle
 - [Media servers & streaming infrastructure](#media-servers--streaming-infrastructure) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
-- [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (1)
+- [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (2)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (3)
-- [Other software & utilities](#other-software--utilities) (93)
+- [Other software & utilities](#other-software--utilities) (94)
 
 ## Anime, streaming & tracking
 
@@ -788,6 +788,7 @@ In the initial collection, the only project without an available README was [Sle
 ## Game servers & multiplayer tools
 
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) — Complete Open Source and Modular solution for MMO
+- [bc160201983/gowa-community-server](https://github.com/bc160201983/gowa-community-server) — Self-hosted community multiplayer server for the God of War: Ascension PC port (unofficial fan project)
 
 ## Device firmware & embedded systems
 
@@ -894,6 +895,7 @@ In the initial collection, the only project without an available README was [Sle
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — The best way to control Claude Code, Codex and more from any computer or phone
 - [CBServers/cb-launcher](https://github.com/CBServers/cb-launcher) — A project related to other software & utilities; see its official documentation for details.
 - [digital-grease/fauxx](https://github.com/digital-grease/fauxx) — Data poisoning for your everyday tracking
+- [bc160201983/GoW-Ascension-Recomp](https://github.com/bc160201983/GoW-Ascension-Recomp) — Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.
 
 <!-- CATALOG:END -->
 
