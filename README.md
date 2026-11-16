@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 658 projects organized into 71 categories.
+- 659 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-16. 647 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-16. 648 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -87,7 +87,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game engines & development](#game-engines--development) (1)
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (2)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
-- [Security research & testing](#security-research--testing) (4)
+- [Security research & testing](#security-research--testing) (5)
 - [Other software & utilities](#other-software--utilities) (95)
 
 ## Anime, streaming & tracking
@@ -802,6 +802,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Hiro420/NikkeTools](https://github.com/Hiro420/NikkeTools) — Tools for Reverse-Engineering Nikke
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) — Ghidra is a software reverse engineering (SRE) framework
 - [KIexster/god-of-war-recomp](https://github.com/KIexster/god-of-war-recomp) — Native PC port of God of War (PS2) via static recompilation with PS2Recomp
+- [DrummingBird1/gow-psp-recomp](https://github.com/DrummingBird1/gow-psp-recomp) — Unofficial native PC ports of God of War: Chains of Olympus and Ghost of Sparta (PSP) by static recompilation. Bring your own disc.
 
 ## Other software & utilities
 

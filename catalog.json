@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-16",
-  "total": 658,
-  "readmes": 647,
+  "total": 659,
+  "readmes": 648,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14699,6 +14699,30 @@
       "readmeUrl": "https://github.com/KIexster/god-of-war-recomp#readme",
       "notes": [
         "Categorized from the more specific metadata phrase: reverse engineering.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 659,
+      "name": "DrummingBird1/gow-psp-recomp",
+      "url": "https://github.com/DrummingBird1/gow-psp-recomp",
+      "category": "Security research & testing",
+      "summary": "Unofficial native PC ports of God of War: Chains of Olympus and Ghost of Sparta (PSP) by static recompilation. Bring your own disc.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-14T23:23:11Z",
+      "stars": 214,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/DrummingBird1/gow-psp-recomp#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: reverse engineering.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
