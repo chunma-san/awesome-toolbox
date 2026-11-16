@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-16",
-  "total": 655,
-  "readmes": 644,
+  "total": 656,
+  "readmes": 645,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14627,6 +14627,29 @@
       "readmeUrl": "https://github.com/anefzaoui/misterdownloadmanager#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: torrent client, bittorrent, debrid, download manager.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 656,
+      "name": "ps5-payload-dev/ftpsrv",
+      "url": "https://github.com/ps5-payload-dev/ftpsrv",
+      "category": "Other software & utilities",
+      "summary": "An FTP server for jailbroken PS4s and PS5s",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-08T21:40:15Z",
+      "stars": 225,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ps5-payload-dev/ftpsrv#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

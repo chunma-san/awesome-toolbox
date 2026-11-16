@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 655 projects organized into 71 categories.
+- 656 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-16. 644 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-16. 645 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (2)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (3)
-- [Other software & utilities](#other-software--utilities) (94)
+- [Other software & utilities](#other-software--utilities) (95)
 
 ## Anime, streaming & tracking
 
@@ -897,6 +897,7 @@ In the initial collection, the only project without an available README was [Sle
 - [CBServers/cb-launcher](https://github.com/CBServers/cb-launcher) — A project related to other software & utilities; see its official documentation for details.
 - [digital-grease/fauxx](https://github.com/digital-grease/fauxx) — Data poisoning for your everyday tracking
 - [bc160201983/GoW-Ascension-Recomp](https://github.com/bc160201983/GoW-Ascension-Recomp) — Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.
+- [ps5-payload-dev/ftpsrv](https://github.com/ps5-payload-dev/ftpsrv) — An FTP server for jailbroken PS4s and PS5s
 
 <!-- CATALOG:END -->
 
