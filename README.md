@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 660 projects organized into 71 categories.
+- 663 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-16. 649 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-16. 652 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -45,7 +45,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Discord & TeamSpeak](#discord--teamspeak) (37)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (25)
-- [PlayStation & emulation](#playstation--emulation) (38)
+- [PlayStation & emulation](#playstation--emulation) (39)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (28)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (2)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (5)
-- [Other software & utilities](#other-software--utilities) (96)
+- [Other software & utilities](#other-software--utilities) (98)
 
 ## Anime, streaming & tracking
 
@@ -300,6 +300,7 @@ In the initial collection, the only project without an available README was [Sle
 - [zortos293/Lichii](https://github.com/zortos293/Lichii) — VERY experimental Nintendo Switch 2 emulator
 - [sikoGD/playDB-CNT](https://github.com/sikoGD/playDB-CNT) — Play The Duskbloods Network Test on Eglantine/Lichii: a launcher with local loopback-only servers for the online checks.
 - [FelipePrado0/SpartanPort](https://github.com/FelipePrado0/SpartanPort) — SpartanPort: unofficial PC port of God of War III Remastered (PS4) for Windows and Linux (AppImage). Original x86-64 code runs directly on the CPU with a custom runtime; graphics use shadPS4's Vulkan video core. Launcher, in-game menu, controller icons and up to 240 FPS. Requires your own game dump. No game files included.
+- [Y0oshi/lain-psx-decompiled](https://github.com/Y0oshi/lain-psx-decompiled) — Decompilation of Serial Experiments Lain (PlayStation) and a native Windows, macOS and Linux client
 
 ## AION 2 & Where Winds Meet
 
@@ -902,6 +903,8 @@ In the initial collection, the only project without an available README was [Sle
 - [bc160201983/GoW-Ascension-Recomp](https://github.com/bc160201983/GoW-Ascension-Recomp) — Static recompilation of God of War: Ascension (PS3) to native Windows. Bring your own game. Single player and community online multiplayer.
 - [ps5-payload-dev/ftpsrv](https://github.com/ps5-payload-dev/ftpsrv) — An FTP server for jailbroken PS4s and PS5s
 - [xPXavierx/bleach-soul-resurreccion-recomp](https://github.com/xPXavierx/bleach-soul-resurreccion-recomp) — A static recompilation of Bleach: Soul Resurrección (PS3, BLUS30769) for Windows.
+- [gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp) — A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++
+- [elmasas/lcs-recomp](https://github.com/elmasas/lcs-recomp) — A project related to other software & utilities; see its official documentation for details.
 
 <!-- CATALOG:END -->
 

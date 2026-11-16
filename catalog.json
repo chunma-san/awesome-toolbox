@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-16",
-  "total": 660,
-  "readmes": 649,
+  "total": 663,
+  "readmes": 652,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14744,6 +14744,82 @@
       "license": "Not specified",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 661,
+      "name": "Y0oshi/lain-psx-decompiled",
+      "url": "https://github.com/Y0oshi/lain-psx-decompiled",
+      "category": "PlayStation & emulation",
+      "summary": "Decompilation of Serial Experiments Lain (PlayStation) and a native Windows, macOS and Linux client",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-03T10:04:30Z",
+      "stars": 161,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Y0oshi/lain-psx-decompiled#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: playstation.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 662,
+      "name": "gothamor/gta-vcs-recomp",
+      "url": "https://github.com/gothamor/gta-vcs-recomp",
+      "category": "Other software & utilities",
+      "summary": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-14T13:10:01Z",
+      "stars": 684,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/gothamor/gta-vcs-recomp#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 663,
+      "name": "elmasas/lcs-recomp",
+      "url": "https://github.com/elmasas/lcs-recomp",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Docker"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-15T14:53:30Z",
+      "stars": 305,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/elmasas/lcs-recomp#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
