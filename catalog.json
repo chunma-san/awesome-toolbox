@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-16",
-  "total": 656,
-  "readmes": 645,
+  "total": 658,
+  "readmes": 647,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14650,6 +14650,55 @@
       "readmeUrl": "https://github.com/ps5-payload-dev/ftpsrv#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 657,
+      "name": "FelipePrado0/SpartanPort",
+      "url": "https://github.com/FelipePrado0/SpartanPort",
+      "category": "PlayStation & emulation",
+      "summary": "SpartanPort: unofficial PC port of God of War III Remastered (PS4) for Windows and Linux (AppImage). Original x86-64 code runs directly on the CPU with a custom runtime; graphics use shadPS4's Vulkan video core. Launcher, in-game menu, controller icons and up to 240 FPS. Requires your own game dump. No game files included.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": true,
+      "pushed": "2026-11-16T02:41:14Z",
+      "stars": 4882,
+      "license": "GPL-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/FelipePrado0/SpartanPort#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: ps4, shadps4.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 658,
+      "name": "KIexster/god-of-war-recomp",
+      "url": "https://github.com/KIexster/god-of-war-recomp",
+      "category": "Security research & testing",
+      "summary": "Native PC port of God of War (PS2) via static recompilation with PS2Recomp",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-06T13:42:10Z",
+      "stars": 236,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/KIexster/god-of-war-recomp#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: reverse engineering.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
