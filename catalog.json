@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-13",
-  "total": 651,
-  "readmes": 640,
+  "snapshot": "2026-11-16",
+  "total": 652,
+  "readmes": 641,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14526,6 +14526,30 @@
       "license": "GPL-3.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/CBServers/cb-launcher#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 652,
+      "name": "digital-grease/fauxx",
+      "url": "https://github.com/digital-grease/fauxx",
+      "category": "Other software & utilities",
+      "summary": "Data poisoning for your everyday tracking",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android",
+        "Self-hosted"
+      ],
+      "language": "Kotlin",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-15T02:56:35Z",
+      "stars": 673,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/digital-grease/fauxx#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
