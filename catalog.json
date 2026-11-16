@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-16",
-  "total": 659,
-  "readmes": 648,
+  "total": 660,
+  "readmes": 649,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14723,6 +14723,29 @@
       "readmeUrl": "https://github.com/DrummingBird1/gow-psp-recomp#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: reverse engineering.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 660,
+      "name": "xPXavierx/bleach-soul-resurreccion-recomp",
+      "url": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp",
+      "category": "Other software & utilities",
+      "summary": "A static recompilation of Bleach: Soul Resurrección (PS3, BLUS30769) for Windows.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-15T17:33:51Z",
+      "stars": 32,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/xPXavierx/bleach-soul-resurreccion-recomp#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
