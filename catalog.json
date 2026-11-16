@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-16",
-  "total": 663,
-  "readmes": 652,
+  "total": 664,
+  "readmes": 653,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14820,6 +14820,32 @@
       "license": "MIT",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/elmasas/lcs-recomp#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 664,
+      "name": "ThatGuyMcd/DKR-R",
+      "url": "https://github.com/ThatGuyMcd/DKR-R",
+      "category": "Other software & utilities",
+      "summary": "Diddy Kong Racing - Recompiled (By ThatGuyMcd)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "C++",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-16T13:07:05Z",
+      "stars": 268,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ThatGuyMcd/DKR-R#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
