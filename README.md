@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 664 projects organized into 71 categories.
+- 667 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-16. 653 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-17. 656 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (2)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (5)
-- [Other software & utilities](#other-software--utilities) (99)
+- [Other software & utilities](#other-software--utilities) (102)
 
 ## Anime, streaming & tracking
 
@@ -906,6 +906,9 @@ In the initial collection, the only project without an available README was [Sle
 - [gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp) — A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++
 - [elmasas/lcs-recomp](https://github.com/elmasas/lcs-recomp) — A project related to other software & utilities; see its official documentation for details.
 - [ThatGuyMcd/DKR-R](https://github.com/ThatGuyMcd/DKR-R) — Diddy Kong Racing - Recompiled (By ThatGuyMcd)
+- [CatToCat/live2d-game-artifact-gallery](https://github.com/CatToCat/live2d-game-artifact-gallery) — A project related to other software & utilities; see its official documentation for details.
+- [Takamiya-reborn/L2Dviewer](https://github.com/Takamiya-reborn/L2Dviewer) — A project related to other software & utilities; see its official documentation for details.
+- [Chaoray/AzurLane-Live2D-Viewer](https://github.com/Chaoray/AzurLane-Live2D-Viewer) — Azurlan Live2d Model Viewer
 
 <!-- CATALOG:END -->
 

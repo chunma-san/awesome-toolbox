@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-16",
-  "total": 664,
-  "readmes": 653,
+  "snapshot": "2026-11-17",
+  "total": 667,
+  "readmes": 656,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14846,6 +14846,73 @@
       "license": "MIT",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/ThatGuyMcd/DKR-R#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 665,
+      "name": "CatToCat/live2d-game-artifact-gallery",
+      "url": "https://github.com/CatToCat/live2d-game-artifact-gallery",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-13T03:22:54Z",
+      "stars": 14,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/CatToCat/live2d-game-artifact-gallery#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 666,
+      "name": "Takamiya-reborn/L2Dviewer",
+      "url": "https://github.com/Takamiya-reborn/L2Dviewer",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-17T07:13:56Z",
+      "stars": 3,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Takamiya-reborn/L2Dviewer#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 667,
+      "name": "Chaoray/AzurLane-Live2D-Viewer",
+      "url": "https://github.com/Chaoray/AzurLane-Live2D-Viewer",
+      "category": "Other software & utilities",
+      "summary": "Azurlan Live2d Model Viewer",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2024-05-26T02:17:22Z",
+      "stars": 28,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Chaoray/AzurLane-Live2D-Viewer#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
