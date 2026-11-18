@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-17",
-  "total": 667,
-  "readmes": 656,
+  "snapshot": "2026-11-18",
+  "total": 669,
+  "readmes": 658,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14915,6 +14915,55 @@
       "readmeUrl": "https://github.com/Chaoray/AzurLane-Live2D-Viewer#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 668,
+      "name": "pLabs5/dRPC5",
+      "url": "https://github.com/pLabs5/dRPC5",
+      "category": "Discord & TeamSpeak",
+      "summary": "Custom made RPC-Like status sent to Discord using the same method as Kizzy / Kizzey",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Android"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-10T01:51:39Z",
+      "stars": 2,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/pLabs5/dRPC5#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 669,
+      "name": "k1ng0p/PlatformSpoof",
+      "url": "https://github.com/k1ng0p/PlatformSpoof",
+      "category": "Discord & TeamSpeak",
+      "summary": "Spoofs your Discord gateway platform",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-07-22T00:43:41Z",
+      "stars": 2,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/k1ng0p/PlatformSpoof#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord, vencord, betterdiscord.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
