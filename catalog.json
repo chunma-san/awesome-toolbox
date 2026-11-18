@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-18",
-  "total": 669,
-  "readmes": 658,
+  "total": 670,
+  "readmes": 659,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14964,6 +14964,30 @@
       "readmeUrl": "https://github.com/k1ng0p/PlatformSpoof#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: discord, vencord, betterdiscord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 670,
+      "name": "RecompPort/asura-wrath-pc",
+      "url": "https://github.com/RecompPort/asura-wrath-pc",
+      "category": "Other software & utilities",
+      "summary": "Unofficial native PC port of Asura’s Wrath (PS3) via static recompilation. No emulator or PS3 firmware: build it from your own EU copy (BLES01227). Any resolution up to 4K, 30-120 fps, gamepad or keyboard, update + DLC, trophies, launcher. Windows; Linux and Steam Deck experimental. No game files include",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-16T18:08:59Z",
+      "stars": 65,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/RecompPort/asura-wrath-pc#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
