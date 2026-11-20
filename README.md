@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 670 projects organized into 71 categories.
+- 671 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-18. 659 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-20. 660 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (2)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (5)
-- [Other software & utilities](#other-software--utilities) (103)
+- [Other software & utilities](#other-software--utilities) (104)
 
 ## Anime, streaming & tracking
 
@@ -912,6 +912,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Takamiya-reborn/L2Dviewer](https://github.com/Takamiya-reborn/L2Dviewer) — A project related to other software & utilities; see its official documentation for details.
 - [Chaoray/AzurLane-Live2D-Viewer](https://github.com/Chaoray/AzurLane-Live2D-Viewer) — Azurlan Live2d Model Viewer
 - [RecompPort/asura-wrath-pc](https://github.com/RecompPort/asura-wrath-pc) — Unofficial native PC port of Asura’s Wrath (PS3) via static recompilation. No emulator or PS3 firmware: build it from your own EU copy (BLES01227). Any resolution up to 4K, 30-120 fps, gamepad or keyboard, update + DLC, trophies, launcher. Windows; Linux and Steam Deck experimental. No game files include
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) — WinUI app for building smaller, customized Windows 11 images.
 
 <!-- CATALOG:END -->
 

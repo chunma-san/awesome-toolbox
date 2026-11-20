@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-18",
-  "total": 670,
-  "readmes": 659,
+  "snapshot": "2026-11-20",
+  "total": 671,
+  "readmes": 660,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -14988,6 +14988,29 @@
       "readmeUrl": "https://github.com/RecompPort/asura-wrath-pc#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 671,
+      "name": "ntdevlabs/tiny11builder",
+      "url": "https://github.com/ntdevlabs/tiny11builder",
+      "category": "Other software & utilities",
+      "summary": "WinUI app for building smaller, customized Windows 11 images.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "C#",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-30T14:44:29Z",
+      "stars": 22360,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ntdevlabs/tiny11builder#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
