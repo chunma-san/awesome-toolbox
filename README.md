@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 671 projects organized into 71 categories.
+- 672 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-20. 660 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-20. 661 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -45,7 +45,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Discord & TeamSpeak](#discord--teamspeak) (39)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (25)
-- [PlayStation & emulation](#playstation--emulation) (39)
+- [PlayStation & emulation](#playstation--emulation) (40)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (28)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
@@ -303,6 +303,7 @@ In the initial collection, the only project without an available README was [Sle
 - [sikoGD/playDB-CNT](https://github.com/sikoGD/playDB-CNT) — Play The Duskbloods Network Test on Eglantine/Lichii: a launcher with local loopback-only servers for the online checks.
 - [FelipePrado0/SpartanPort](https://github.com/FelipePrado0/SpartanPort) — SpartanPort: unofficial PC port of God of War III Remastered (PS4) for Windows and Linux (AppImage). Original x86-64 code runs directly on the CPU with a custom runtime; graphics use shadPS4's Vulkan video core. Launcher, in-game menu, controller icons and up to 240 FPS. Requires your own game dump. No game files included.
 - [Y0oshi/lain-psx-decompiled](https://github.com/Y0oshi/lain-psx-decompiled) — Decompilation of Serial Experiments Lain (PlayStation) and a native Windows, macOS and Linux client
+- [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) — Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
 
 ## AION 2 & Where Winds Meet
 
