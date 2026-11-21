@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-20",
-  "total": 672,
-  "readmes": 661,
+  "snapshot": "2026-11-21",
+  "total": 673,
+  "readmes": 662,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15034,6 +15034,27 @@
       "readmeUrl": "https://github.com/Likely7/Veyra-NRVideo#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: ps5.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 673,
+      "name": "WolfPlugs/BadgeVault",
+      "url": "https://github.com/WolfPlugs/BadgeVault",
+      "category": "Other software & utilities",
+      "summary": "DB to store users badges",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-20T23:16:19Z",
+      "stars": 12,
+      "license": "WTFPL",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/WolfPlugs/BadgeVault#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
