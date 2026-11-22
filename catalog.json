@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-22",
-  "total": 674,
-  "readmes": 663,
+  "total": 675,
+  "readmes": 664,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15077,6 +15077,31 @@
       "license": "GPL-3.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/ItsNotRexed/Leonida#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 675,
+      "name": "elripalda/RecompLauncher",
+      "url": "https://github.com/elripalda/RecompLauncher",
+      "category": "Other software & utilities",
+      "summary": "PC recomps, all in one place. Find, install, update and play PC recomps from one launcher.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-22T16:00:07Z",
+      "stars": 1989,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/elripalda/RecompLauncher#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."

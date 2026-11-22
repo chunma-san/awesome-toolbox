@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 674 projects organized into 71 categories.
+- 675 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-22. 663 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-22. 664 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (2)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (5)
-- [Other software & utilities](#other-software--utilities) (106)
+- [Other software & utilities](#other-software--utilities) (107)
 
 ## Anime, streaming & tracking
 
@@ -916,6 +916,7 @@ In the initial collection, the only project without an available README was [Sle
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) — WinUI app for building smaller, customized Windows 11 images.
 - [WolfPlugs/BadgeVault](https://github.com/WolfPlugs/BadgeVault) — DB to store users badges
 - [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) — Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
+- [elripalda/RecompLauncher](https://github.com/elripalda/RecompLauncher) — PC recomps, all in one place. Find, install, update and play PC recomps from one launcher.
 
 <!-- CATALOG:END -->
 
