@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-21",
-  "total": 673,
-  "readmes": 662,
+  "snapshot": "2026-11-22",
+  "total": 674,
+  "readmes": 663,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15053,6 +15053,30 @@
       "license": "WTFPL",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/WolfPlugs/BadgeVault#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 674,
+      "name": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "category": "Other software & utilities",
+      "summary": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-22T14:13:07Z",
+      "stars": 10828,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ItsNotRexed/Leonida#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
