@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 677 projects organized into 71 categories.
+- 678 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-23. 666 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-23. 667 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -42,7 +42,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Manga, novels & reading](#manga-novels--reading) (16)
 - [Music, podcasts & media players](#music-podcasts--media-players) (32)
 - [Video downloads & media capture](#video-downloads--media-capture) (11)
-- [Discord & TeamSpeak](#discord--teamspeak) (39)
+- [Discord & TeamSpeak](#discord--teamspeak) (40)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (25)
 - [PlayStation & emulation](#playstation--emulation) (41)
@@ -220,6 +220,7 @@ In the initial collection, the only project without an available README was [Sle
 - [maximmax42/Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP) — Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.
 - [pLabs5/dRPC5](https://github.com/pLabs5/dRPC5) — Custom made RPC-Like status sent to Discord using the same method as Kizzy / Kizzey
 - [k1ng0p/PlatformSpoof](https://github.com/k1ng0p/PlatformSpoof) — Spoofs your Discord gateway platform
+- [Discord-ID/Discord-Streaming-Badge-Farming-Extension](https://github.com/Discord-ID/Discord-Streaming-Badge-Farming-Extension) — Extension that automatically joins Discord voice channels and streams for Discord Badge Streaming Farming. Works on desktop browsers and mobile Chromium browsers
 
 ## Twitch & livestream tools
 
