@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-23",
-  "total": 680,
-  "readmes": 669,
+  "total": 681,
+  "readmes": 670,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15222,6 +15222,27 @@
       "license": "MIT",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/ItzMeShadow999/BadgeMaxxer#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 681,
+      "name": "mezotv/discord-badges",
+      "url": "https://github.com/mezotv/discord-badges",
+      "category": "Discord & TeamSpeak",
+      "summary": "A collection of all the Discord badges and how to get your hands on them! Including the new discord guild clans and the new Discord Nitro Badge..",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-01T11:52:07Z",
+      "stars": 346,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/mezotv/discord-badges#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: discord.",
         "Descriptive import only; no software was installed, executed or security-audited."
