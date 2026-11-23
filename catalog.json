@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-22",
-  "total": 675,
-  "readmes": 664,
+  "snapshot": "2026-11-23",
+  "total": 676,
+  "readmes": 665,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15104,6 +15104,31 @@
       "readmeUrl": "https://github.com/elripalda/RecompLauncher#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 676,
+      "name": "earthonion/GarlicTransfer",
+      "url": "https://github.com/earthonion/GarlicTransfer",
+      "category": "PlayStation & emulation",
+      "summary": "PS5 save download and upload tool",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-22T20:42:07Z",
+      "stars": 68,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/earthonion/GarlicTransfer#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: ps5.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
