@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-23",
-  "total": 678,
-  "readmes": 667,
+  "total": 680,
+  "readmes": 669,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15173,6 +15173,55 @@
       "license": "MIT",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/Discord-ID/Discord-Streaming-Badge-Farming-Extension#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 679,
+      "name": "ItzMeShadow999/CustomBadges",
+      "url": "https://github.com/ItzMeShadow999/CustomBadges",
+      "category": "Discord & TeamSpeak",
+      "summary": "A Vencord plugin that gives you a custom profile badge image, description, and styling with hover tooltips, a click popup, badge rotation (\"My Badges\"), presets, and packs. Bundled with UserBoard, a sidebar button that opens a full in-app dashboard for managing everything without leaving Discord.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-10-31T06:04:21Z",
+      "stars": 10,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ItzMeShadow999/CustomBadges#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: discord, vencord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 680,
+      "name": "ItzMeShadow999/BadgeMaxxer",
+      "url": "https://github.com/ItzMeShadow999/BadgeMaxxer",
+      "category": "Discord & TeamSpeak",
+      "summary": "Discord badge leveling tool, fabricates game time, game variety and Go Live stream activity!",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "Python",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-22T20:18:01Z",
+      "stars": 424,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ItzMeShadow999/BadgeMaxxer#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: discord.",
         "Descriptive import only; no software was installed, executed or security-audited."
