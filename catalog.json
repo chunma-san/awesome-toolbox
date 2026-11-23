@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-23",
-  "total": 681,
-  "readmes": 670,
+  "total": 682,
+  "readmes": 671,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15245,6 +15245,31 @@
       "readmeUrl": "https://github.com/mezotv/discord-badges#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: discord.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 682,
+      "name": "FilteringDev/tinyShield",
+      "url": "https://github.com/FilteringDev/tinyShield",
+      "category": "Privacy, DNS & security",
+      "summary": "A lightweight redefined version of microShield",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Android"
+      ],
+      "language": "TypeScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-23T03:19:38Z",
+      "stars": 324,
+      "license": "MPL-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/FilteringDev/tinyShield#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: adblock.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

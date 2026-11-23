@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 681 projects organized into 71 categories.
+- 682 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-23. 670 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-23. 671 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -53,7 +53,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Android apps & launchers](#android-apps--launchers) (39)
 - [Android root, patches & stores](#android-root-patches--stores) (29)
 - [Browsers & web extensions](#browsers--web-extensions) (24)
-- [Privacy, DNS & security](#privacy-dns--security) (28)
+- [Privacy, DNS & security](#privacy-dns--security) (29)
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (13)
 - [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (21)
@@ -537,6 +537,7 @@ In the initial collection, the only project without an available README was [Sle
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) — NextDNS CLI client (DoH Proxy)
 - [Quad9DNS/quad9-domains-top500](https://github.com/Quad9DNS/quad9-domains-top500) — Top 500 DNS domains seen on the Quad9 recursive resolver array each day
+- [FilteringDev/tinyShield](https://github.com/FilteringDev/tinyShield) — A lightweight redefined version of microShield
 
 ## Messaging & file sharing
 
