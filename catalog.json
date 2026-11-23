@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-23",
-  "total": 676,
-  "readmes": 665,
+  "total": 677,
+  "readmes": 666,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15129,6 +15129,29 @@
       "readmeUrl": "https://github.com/earthonion/GarlicTransfer#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: ps5.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 677,
+      "name": "BrownDust2CN/Bd2-Server",
+      "url": "https://github.com/BrownDust2CN/Bd2-Server",
+      "category": "Other software & utilities",
+      "summary": "A project related to other software & utilities; see its official documentation for details.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Android"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-17T16:05:17Z",
+      "stars": 16,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/BrownDust2CN/Bd2-Server#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
