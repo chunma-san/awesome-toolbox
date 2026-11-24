@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-23",
-  "total": 682,
-  "readmes": 671,
+  "snapshot": "2026-11-24",
+  "total": 683,
+  "readmes": 672,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15270,6 +15270,29 @@
       "readmeUrl": "https://github.com/FilteringDev/tinyShield#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: adblock.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 683,
+      "name": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "category": "Other software & utilities",
+      "summary": "An attempt at running GTA VI on PC",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-24T00:57:52Z",
+      "stars": 4076,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Marvisak/VIctory#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
