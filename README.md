@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 683 projects organized into 71 categories.
+- 685 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-24. 672 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-24. 674 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -45,7 +45,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Discord & TeamSpeak](#discord--teamspeak) (43)
 - [Twitch & livestream tools](#twitch--livestream-tools) (10)
 - [Steam, game libraries & achievements](#steam-game-libraries--achievements) (25)
-- [PlayStation & emulation](#playstation--emulation) (41)
+- [PlayStation & emulation](#playstation--emulation) (42)
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (28)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (2)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (5)
-- [Other software & utilities](#other-software--utilities) (109)
+- [Other software & utilities](#other-software--utilities) (110)
 
 ## Anime, streaming & tracking
 
@@ -309,6 +309,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Y0oshi/lain-psx-decompiled](https://github.com/Y0oshi/lain-psx-decompiled) — Decompilation of Serial Experiments Lain (PlayStation) and a native Windows, macOS and Linux client
 - [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) — Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
 - [earthonion/GarlicTransfer](https://github.com/earthonion/GarlicTransfer) — PS5 save download and upload tool
+- [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) — Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
 
 ## AION 2 & Where Winds Meet
 
@@ -925,6 +926,7 @@ In the initial collection, the only project without an available README was [Sle
 - [elripalda/RecompLauncher](https://github.com/elripalda/RecompLauncher) — PC recomps, all in one place. Find, install, update and play PC recomps from one launcher.
 - [BrownDust2CN/Bd2-Server](https://github.com/BrownDust2CN/Bd2-Server) — A project related to other software & utilities; see its official documentation for details.
 - [Marvisak/VIctory](https://github.com/Marvisak/VIctory) — An attempt at running GTA VI on PC
+- [ivall/xcl](https://github.com/ivall/xcl) — Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
 
 <!-- CATALOG:END -->
 

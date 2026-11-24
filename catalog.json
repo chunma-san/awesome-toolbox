@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-24",
-  "total": 683,
-  "readmes": 672,
+  "total": 685,
+  "readmes": 674,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15293,6 +15293,52 @@
       "readmeUrl": "https://github.com/Marvisak/VIctory#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 684,
+      "name": "ivall/xcl",
+      "url": "https://github.com/ivall/xcl",
+      "category": "Other software & utilities",
+      "summary": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-24T04:16:56Z",
+      "stars": 3998,
+      "license": "GPL-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/ivall/xcl#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 685,
+      "name": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "category": "PlayStation & emulation",
+      "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "JavaScript",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-24T04:15:52Z",
+      "stars": 988,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/4lwayz/portwatch-vi#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: emulation.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
