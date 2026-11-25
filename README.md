@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 687 projects organized into 71 categories.
+- 688 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-25. 676 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-25. 677 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (2)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (5)
-- [Other software & utilities](#other-software--utilities) (111)
+- [Other software & utilities](#other-software--utilities) (112)
 
 ## Anime, streaming & tracking
 
@@ -929,6 +929,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Marvisak/VIctory](https://github.com/Marvisak/VIctory) — An attempt at running GTA VI on PC
 - [ivall/xcl](https://github.com/ivall/xcl) — Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
 - [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) — A project related to other software & utilities; see its official documentation for details.
+- [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) — Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in
 
 <!-- CATALOG:END -->
 

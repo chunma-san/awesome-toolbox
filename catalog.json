@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-25",
-  "total": 687,
-  "readmes": 676,
+  "total": 688,
+  "readmes": 677,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15383,6 +15383,32 @@
       "license": "GPL-3.0",
       "readmeStatus": "retrieved",
       "readmeUrl": "https://github.com/Belobug/VIctory-Belobug-AMD#readme",
+      "notes": [
+        "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 688,
+      "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "category": "Other software & utilities",
+      "summary": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-25T16:53:58Z",
+      "stars": 1196,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
         "Descriptive import only; no software was installed, executed or security-audited."
