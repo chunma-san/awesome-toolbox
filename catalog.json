@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-25",
-  "total": 688,
-  "readmes": 677,
+  "total": 689,
+  "readmes": 678,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15411,6 +15411,31 @@
       "readmeUrl": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop#readme",
       "notes": [
         "No specific category had enough evidence; stored in general utilities.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 689,
+      "name": "sunbird-tools/sunbird",
+      "url": "https://github.com/sunbird-tools/sunbird",
+      "category": "Other software & utilities",
+      "summary": "sunbird aka phoenix-unlocker. Unlock phoenix on android/ios/windows discord along with plugins",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-25T20:49:09Z",
+      "stars": 143,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/sunbird-tools/sunbird#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
