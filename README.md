@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 691 projects organized into 71 categories.
+- 692 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-26. 680 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-26. 681 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -88,7 +88,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Game servers & multiplayer tools](#game-servers--multiplayer-tools) (2)
 - [Device firmware & embedded systems](#device-firmware--embedded-systems) (1)
 - [Security research & testing](#security-research--testing) (5)
-- [Other software & utilities](#other-software--utilities) (113)
+- [Other software & utilities](#other-software--utilities) (114)
 
 ## Anime, streaming & tracking
 
@@ -933,6 +933,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) — A project related to other software & utilities; see its official documentation for details.
 - [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) — Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in
 - [sunbird-tools/sunbird](https://github.com/sunbird-tools/sunbird) — sunbird aka phoenix-unlocker. Unlock phoenix on android/ios/windows discord along with plugins
+- [zortos293/XSEmu](https://github.com/zortos293/XSEmu) — Experimental Xbox Series X|S (GDK) title runner for Windows, built on the XCL translation layer: D3D12.X to D3D12, RDNA2 shaders to DXIL.
 
 <!-- CATALOG:END -->
 

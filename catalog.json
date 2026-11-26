@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-26",
-  "total": 691,
-  "readmes": 680,
+  "total": 692,
+  "readmes": 681,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15480,6 +15480,30 @@
       "readmeUrl": "https://github.com/SleepyCatHey/Ultimate-Win11-Setup#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: yasb.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 692,
+      "name": "zortos293/XSEmu",
+      "url": "https://github.com/zortos293/XSEmu",
+      "category": "Other software & utilities",
+      "summary": "Experimental Xbox Series X|S (GDK) title runner for Windows, built on the XCL translation layer: D3D12.X to D3D12, RDNA2 shaders to DXIL.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-26T21:04:13Z",
+      "stars": 480,
+      "license": "GPL-2.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/zortos293/XSEmu#readme",
+      "notes": [
+        "Overlapping signals; stored in general utilities without inventing a specific classification.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
