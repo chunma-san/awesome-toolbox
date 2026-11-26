@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 690 projects organized into 71 categories.
+- 691 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-26. 679 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-26. 680 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -49,7 +49,7 @@ In the initial collection, the only project without an available README was [Sle
 - [AION 2 & Where Winds Meet](#aion-2--where-winds-meet) (9)
 - [Game mods & automation](#game-mods--automation) (28)
 - [Windows maintenance & installation](#windows-maintenance--installation) (24)
-- [Desktop, hardware & customization](#desktop-hardware--customization) (23)
+- [Desktop, hardware & customization](#desktop-hardware--customization) (24)
 - [Android apps & launchers](#android-apps--launchers) (39)
 - [Android root, patches & stores](#android-root-patches--stores) (29)
 - [Browsers & web extensions](#browsers--web-extensions) (24)
@@ -406,6 +406,7 @@ In the initial collection, the only project without an available README was [Sle
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) — The customization marketplace for Windows programs: https://windhawk.net/
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) — A Windows desktop and taskbar monitor for network speed, CPU, memory and optional hardware sensors.
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) — This project aims to enhance the working environment on Windows
+- [SleepyCatHey/Ultimate-Win11-Setup](https://github.com/SleepyCatHey/Ultimate-Win11-Setup) — My full Windows 11 rice, from YASB bar to tiny tweaks. Fonts, mods, configs, and guides, all in one repo.
 
 ## Android apps & launchers
 

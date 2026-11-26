@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-26",
-  "total": 690,
-  "readmes": 679,
+  "total": 691,
+  "readmes": 680,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15457,6 +15457,29 @@
       "readmeUrl": "https://github.com/amaanq/teapot#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: privacy.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 691,
+      "name": "SleepyCatHey/Ultimate-Win11-Setup",
+      "url": "https://github.com/SleepyCatHey/Ultimate-Win11-Setup",
+      "category": "Desktop, hardware & customization",
+      "summary": "My full Windows 11 rice, from YASB bar to tiny tweaks. Fonts, mods, configs, and guides, all in one repo.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows"
+      ],
+      "language": "CSS",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-21T06:02:40Z",
+      "stars": 1017,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/SleepyCatHey/Ultimate-Win11-Setup#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: yasb.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
