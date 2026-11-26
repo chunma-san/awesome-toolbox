@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-25",
-  "total": 689,
-  "readmes": 678,
+  "snapshot": "2026-11-26",
+  "total": 690,
+  "readmes": 679,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15436,6 +15436,27 @@
       "readmeUrl": "https://github.com/sunbird-tools/sunbird#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 690,
+      "name": "amaanq/teapot",
+      "url": "https://github.com/amaanq/teapot",
+      "category": "Privacy, DNS & security",
+      "summary": "A privacy-focused Twitter/X frontend written in Rust",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [],
+      "language": "Rust",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-21T03:56:12Z",
+      "stars": 91,
+      "license": "AGPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/amaanq/teapot#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: privacy.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
