@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-27",
-  "total": 694,
-  "readmes": 683,
+  "total": 695,
+  "readmes": 684,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15553,6 +15553,33 @@
       "readmeUrl": "https://github.com/akfaiz/carryover#readme",
       "notes": [
         "Automatically categorized from public metadata and documentation; matched: cloud storage, rclone, cloud sync.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 695,
+      "name": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "category": "Git, CI & release automation",
+      "summary": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Go",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-27T19:45:24Z",
+      "stars": 59319,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/go-gitea/gitea#readme",
+      "notes": [
+        "Categorized from the more specific metadata phrase: github actions.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

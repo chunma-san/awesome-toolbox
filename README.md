@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 694 projects organized into 71 categories.
+- 695 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-27. 683 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-27. 684 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -80,7 +80,7 @@ In the initial collection, the only project without an available README was [Sle
 - [CLI, terminal & shell tools](#cli-terminal--shell-tools) (2)
 - [AI assistants & coding tools](#ai-assistants--coding-tools) (3)
 - [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
-- [Git, CI & release automation](#git-ci--release-automation) (1)
+- [Git, CI & release automation](#git-ci--release-automation) (2)
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
 - [Torrents, debrid & download managers](#torrents-debrid--download-managers) (4)
 - [Media servers & streaming infrastructure](#media-servers--streaming-infrastructure) (1)
@@ -782,6 +782,7 @@ In the initial collection, the only project without an available README was [Sle
 ## Git, CI & release automation
 
 - [chunma-san/Wand-Enhancer](https://github.com/chunma-san/Wand-Enhancer) — chunma edition of Wand Enhancer: blue theme, automated upstream sync and reproducible Windows builds.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) — Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## Translation, subtitles & accessibility
 
