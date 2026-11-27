@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 695 projects organized into 71 categories.
+- 696 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-27. 684 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-27. 685 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -56,7 +56,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Privacy, DNS & security](#privacy-dns--security) (30)
 - [Messaging & file sharing](#messaging--file-sharing) (10)
 - [Networking, virtualization & remote access](#networking-virtualization--remote-access) (13)
-- [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (21)
+- [Self-hosting, feeds & infrastructure](#self-hosting-feeds--infrastructure) (22)
 - [Development, AI & security research](#development-ai--security-research) (21)
 - [Creative tools, documents & translation](#creative-tools-documents--translation) (16)
 - [Account tools, activation & verification](#account-tools-activation--verification) (12)
@@ -595,6 +595,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Erreur32/MynetworK](https://github.com/Erreur32/MynetworK) — Unified Freebox + UniFi management + Network Scanner.
 - [aalejandrofer/GrubDrops](https://github.com/aalejandrofer/GrubDrops) — Self-hosted Twitch & Kick drops + points miner: multi-account, auto-claim, channel switching, web UI.
 - [peach-mitao/peach](https://github.com/peach-mitao/peach) — Peach: Local-first video metadata scraper and media manager.
+- [theNetworkChuck/gitea-guide](https://github.com/theNetworkChuck/gitea-guide) — Companion guide to NetworkChuck's self-hosted GitHub (Gitea) video: install, push your code, connect AI agents, mirror to GitHub, lock it down.
 
 ## Development, AI & security research
 

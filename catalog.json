@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-11-27",
-  "total": 695,
-  "readmes": 684,
+  "total": 696,
+  "readmes": 685,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15580,6 +15580,32 @@
       "readmeUrl": "https://github.com/go-gitea/gitea#readme",
       "notes": [
         "Categorized from the more specific metadata phrase: github actions.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 696,
+      "name": "theNetworkChuck/gitea-guide",
+      "url": "https://github.com/theNetworkChuck/gitea-guide",
+      "category": "Self-hosting, feeds & infrastructure",
+      "summary": "Companion guide to NetworkChuck's self-hosted GitHub (Gitea) video: install, push your code, connect AI agents, mirror to GitHub, lock it down.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "Docker",
+        "Self-hosted"
+      ],
+      "language": "Not specified",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-26T22:26:53Z",
+      "stars": 13,
+      "license": "MIT",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/theNetworkChuck/gitea-guide#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: self-hosted.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }
