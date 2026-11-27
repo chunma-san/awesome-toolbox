@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026-11-26",
-  "total": 692,
-  "readmes": 681,
+  "snapshot": "2026-11-27",
+  "total": 694,
+  "readmes": 683,
   "categories": [
     "Anime, streaming & tracking",
     "Manga, novels & reading",
@@ -15504,6 +15504,55 @@
       "readmeUrl": "https://github.com/zortos293/XSEmu#readme",
       "notes": [
         "Overlapping signals; stored in general utilities without inventing a specific classification.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 693,
+      "name": "roieeedouek/torbox-ps5",
+      "url": "https://github.com/roieeedouek/torbox-ps5",
+      "category": "Torrents, debrid & download managers",
+      "summary": "TorBox and Real-Debrid browser and downloader for jailbroken PS5 (web UI, multi-connection downloads, resume)",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Linux"
+      ],
+      "language": "C",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-26T07:42:21Z",
+      "stars": 16,
+      "license": "Not specified",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/roieeedouek/torbox-ps5#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: debrid, torbox.",
+        "Descriptive import only; no software was installed, executed or security-audited."
+      ]
+    },
+    {
+      "number": 694,
+      "name": "akfaiz/carryover",
+      "url": "https://github.com/akfaiz/carryover",
+      "category": "Cloud storage & synchronization",
+      "summary": "Game launcher that syncs your saves across PCs, Macs, Steam Deck and Android using your own cloud storage.",
+      "purpose": "Read the official project documentation to check its features and requirements.",
+      "platforms": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "language": "Go",
+      "archived": false,
+      "fork": false,
+      "pushed": "2026-11-26T17:35:39Z",
+      "stars": 31,
+      "license": "GPL-3.0",
+      "readmeStatus": "retrieved",
+      "readmeUrl": "https://github.com/akfaiz/carryover#readme",
+      "notes": [
+        "Automatically categorized from public metadata and documentation; matched: cloud storage, rclone, cloud sync.",
         "Descriptive import only; no software was installed, executed or security-audited."
       ]
     }

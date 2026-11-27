@@ -16,7 +16,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 
 ## Features
 
-- 692 projects organized into 71 categories.
+- 694 projects organized into 71 categories.
 - Search descriptions, platforms and languages; filter archived projects and forks.
 - Sort by name, last push date or GitHub star count.
 - Automatically include owned public projects and filter them with **My public projects**.
@@ -27,7 +27,7 @@ A categorized collection of apps, self-hosted services, developer tools and gami
 ## About this collection
 
 <!-- STATS:START -->
-Catalog updated: 2026-11-26. 681 entries have available README documentation. Metadata can become outdated.
+Catalog updated: 2026-11-27. 683 entries have available README documentation. Metadata can become outdated.
 <!-- STATS:END -->
 
 Inclusion is informational and does not mean endorsement, security review or a successful runtime test.
@@ -69,6 +69,7 @@ In the initial collection, the only project without an available README was [Sle
 - [Windows compatibility & Wine](#windows-compatibility--wine) (1)
 - [Android app patching & modding](#android-app-patching--modding) (7)
 - [Camera, gallery & photo management](#camera-gallery--photo-management) (1)
+- [Cloud storage & synchronization](#cloud-storage--synchronization) (1)
 - [RSS, news & bookmarking](#rss-news--bookmarking) (1)
 - [Email & mail servers](#email--mail-servers) (1)
 - [VPN, proxies & tunnels](#vpn-proxies--tunnels) (1)
@@ -81,7 +82,7 @@ In the initial collection, the only project without an available README was [Sle
 - [GitHub profiles & README tools](#github-profiles--readme-tools) (1)
 - [Git, CI & release automation](#git-ci--release-automation) (1)
 - [Translation, subtitles & accessibility](#translation-subtitles--accessibility) (1)
-- [Torrents, debrid & download managers](#torrents-debrid--download-managers) (3)
+- [Torrents, debrid & download managers](#torrents-debrid--download-managers) (4)
 - [Media servers & streaming infrastructure](#media-servers--streaming-infrastructure) (1)
 - [Browser privacy & ad blocking](#browser-privacy--ad-blocking) (2)
 - [Game engines & development](#game-engines--development) (1)
@@ -728,6 +729,10 @@ In the initial collection, the only project without an available README was [Sle
 
 - [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) — Media Gallery app for Android made with Jetpack Compose
 
+## Cloud storage & synchronization
+
+- [akfaiz/carryover](https://github.com/akfaiz/carryover) — Game launcher that syncs your saves across PCs, Macs, Steam Deck and Android using your own cloud storage.
+
 ## RSS, news & bookmarking
 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) — A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -787,6 +792,7 @@ In the initial collection, the only project without an available README was [Sle
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) — A Download Manager that speeds up your downloads
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) — qBittorrent BitTorrent client
 - [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) — misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
+- [roieeedouek/torbox-ps5](https://github.com/roieeedouek/torbox-ps5) — TorBox and Real-Debrid browser and downloader for jailbroken PS5 (web UI, multi-connection downloads, resume)
 
 ## Media servers & streaming infrastructure
 
